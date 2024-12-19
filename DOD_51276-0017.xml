@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=217813:lm=none:date=01_12_2024_15:27</Creator>
+        <Created>2024-11-08T12:48:18.863+01:00</Created>
+        <LastChange>2024-12-18T23:46:26.974+01:00</LastChange>
+        <TranskribusMetadata docId="5062996" pageId="82719120" pageNr="17" tsid="213579969" status="DONE" userId="213982" imgUrl="https://files.transkribus.eu/Get?id=AGEPWUXCKFPCWRWLXMMZTLPE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ICIQJTZIXHURDORTKVGNTVYQ" imageId="68064905"/>
+    </Metadata>
+    <Page imageFilename="DOD_51276-0017.jpeg" imageWidth="3504" imageHeight="4938">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603044817" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="864,720 864,3824 3038,3824 3038,720"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="880,794 1049,781 1105,824 1201,776 1618,786 1680,845 1878,786 2341,797 2560,853 2619,811 2785,835 2924,792 2921,621 2450,720 2250,669 2124,714 1969,666 1763,704 1589,661 1418,693 1279,658 1145,701 1049,655 877,677"/>
+                <Baseline points="894,765 995,771 1097,769 1198,768 1300,771 1402,776 1503,777 1605,777 1707,777 1808,777 1910,777 2012,777 2113,782 2215,783 2317,788 2418,788 2520,791 2622,794 2723,799 2825,800 2927,794"/>
+                <TextEquiv>
+                    <Unicode>welaít ſeÿ das die rínkli deſter mínder durch die haut ſchne̅i̅d̅n̅ • vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="872,888 2086,888 2236,934 2544,896 2672,950 2734,901 2910,904 2980,936 2977,827 2844,808 2560,853 2341,797 2127,829 1881,786 1680,845 1624,792 1177,781 1094,827 872,768"/>
+                <Baseline points="888,870 992,875 1097,870 1202,870 1307,870 1412,876 1517,876 1622,876 1727,876 1832,876 1937,876 2041,877 2146,882 2251,885 2356,888 2461,888 2566,889 2671,894 2776,897 2881,895 2986,894"/>
+                <TextEquiv>
+                    <Unicode>hab dan klaíne ſchínle die von guet̅e̅ newen ʒahem tenneÿn̅e̅ ſtekc̅h̅n̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="869,1014 1142,971 1321,1008 2432,992 2523,1033 2806,1011 2876,1054 2975,1011 2972,942 2908,904 2683,950 2373,947 2300,901 2210,934 2086,888 1929,885 1787,942 1685,885 1511,931 1463,888 867,891"/>
+                <Baseline points="882,975 986,970 1091,970 1196,970 1301,970 1406,970 1511,971 1616,975 1721,975 1826,980 1931,981 2035,981 2140,983 2245,987 2350,987 2455,987 2560,987 2665,989 2770,993 2875,993 2980,981"/>
+                <TextEquiv>
+                    <Unicode>geſpa̅l̅t̅n̅ vnd geſchníte̅ ſind • in der braÿtt als aín vínger  vnd in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="880,1115 1033,1078 1329,1113 1816,1078 1945,1132 2137,1097 2196,1150 2314,1094 2953,1142 2951,1049 2817,1057 2758,1016 2691,1057 2432,992 1324,1014 1145,968 880,1011"/>
+                <Baseline points="894,1075 997,1075 1100,1073 1203,1069 1306,1073 1409,1070 1512,1069 1615,1075 1718,1075 1821,1075 1925,1080 2028,1081 2131,1086 2234,1086 2337,1086 2440,1086 2543,1091 2646,1092 2749,1092 2852,1092 2956,1098"/>
+                <TextEquiv>
+                    <Unicode>dikch als ain halber vokkenha̅l̅b̅n̅ die ſchínle ſpan krewcʒ weis v̈ber eín</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="872,1174 1768,1174 1846,1225 1921,1180 2068,1225 2282,1177 2496,1222 2557,1180 2699,1236 2961,1188 2961,1145 2608,1099 2317,1091 2191,1145 2140,1097 2033,1134 1816,1078 1624,1124 1527,1083 1335,1118 1137,1078 872,1124"/>
+                <Baseline points="888,1151 992,1157 1096,1155 1200,1154 1304,1157 1408,1157 1512,1162 1616,1164 1720,1165 1824,1166 1928,1168 2032,1168 2136,1163 2240,1168 2344,1168 2448,1173 2552,1168 2656,1174 2760,1174 2864,1171 2968,1162"/>
+                <TextEquiv>
+                    <Unicode>ander vber das angeſicht • vnd hefft es in die ringkli alſo das ſÿ en=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="867,1273 1089,1252 1228,1303 1297,1257 1487,1263 1549,1300 1685,1265 1792,1311 1915,1257 2309,1273 2397,1324 2932,1289 2932,1204 2881,1193 2704,1236 2557,1180 2498,1222 2282,1177 2073,1225 1926,1180 1851,1225 1699,1174 1490,1217 1402,1169 867,1185"/>
+                <Baseline points="882,1244 984,1244 1087,1244 1190,1244 1293,1244 1396,1249 1499,1250 1601,1256 1704,1256 1807,1256 1910,1256 2013,1251 2116,1256 2219,1256 2321,1259 2424,1262 2527,1262 2630,1262 2733,1262 2836,1262 2939,1262"/>
+                <TextEquiv>
+                    <Unicode>mítten auff ʒwe̅ twerch fínger von dem angeſicht herauſwerts gepog̅n̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="867,1399 1097,1356 1177,1404 1244,1362 1295,1407 1388,1356 1552,1391 1760,1354 2924,1399 2921,1287 2841,1271 2763,1327 2116,1265 1872,1313 1683,1265 1568,1313 1300,1257 1228,1303 1086,1252 864,1276"/>
+                <Baseline points="882,1338 984,1343 1086,1340 1188,1341 1291,1342 1393,1344 1495,1349 1597,1349 1700,1349 1802,1349 1904,1349 2006,1349 2109,1349 2211,1355 2313,1357 2415,1358 2518,1359 2620,1361 2722,1361 2824,1367 2927,1367"/>
+                <TextEquiv>
+                    <Unicode>ſeíndt doch alſo das ſy auch enmitt̅e̅ vmb das krewcʒ mit aím rinklin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="867,1466 1284,1458 1332,1493 1399,1453 1616,1506 1658,1471 1736,1503 2135,1455 2589,1509 2718,1463 2892,1474 2889,1380 1961,1391 1760,1354 1498,1407 1388,1359 1287,1407 1107,1356 864,1399"/>
+                <Baseline points="882,1431 982,1443 1083,1443 1184,1443 1285,1443 1386,1443 1486,1443 1587,1449 1688,1449 1789,1449 1890,1449 1990,1449 2091,1449 2192,1449 2293,1455 2394,1455 2494,1455 2595,1452 2696,1453 2797,1459 2898,1455"/>
+                <TextEquiv>
+                    <Unicode>etwas fur den wind gehefft ſeíndt als du an der figur geʒaichentt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="885,1573 1244,1552 1372,1597 1442,1557 1755,1552 1899,1610 2025,1560 2333,1554 2961,1616 2961,1461 2902,1444 2549,1514 2496,1469 2405,1509 2362,1466 2250,1493 2137,1455 1739,1501 1658,1471 1616,1506 1439,1461 1329,1495 885,1466"/>
+                <Baseline points="899,1536 1002,1536 1105,1538 1209,1542 1312,1538 1416,1541 1519,1542 1623,1542 1726,1542 1830,1542 1933,1547 2036,1548 2140,1548 2243,1548 2347,1548 2450,1548 2554,1548 2657,1548 2761,1548 2864,1550 2968,1548"/>
+                <TextEquiv>
+                    <Unicode>findeſt • Ob auch der wind etwas geſtarchk wer • das du entʒäſchiſt daʒ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;} unclear {offset:30; length:7;}">
+                <Coords points="885,1672 1115,1640 1233,1701 1273,1658 1487,1691 1741,1653 1945,1696 2231,1656 2378,1712 2571,1664 2651,1723 2726,1675 2996,1683 3031,1616 2975,1640 2897,1586 2811,1632 2694,1576 2370,1554 2028,1557 1915,1610 1699,1560 1621,1592 1439,1557 1356,1597 1241,1552 883,1576"/>
+                <Baseline points="899,1636 1011,1640 1124,1639 1236,1637 1349,1637 1461,1642 1574,1642 1687,1642 1799,1647 1912,1650 2024,1653 2137,1653 2249,1653 2362,1653 2475,1653 2587,1659 2700,1662 2812,1665 2925,1664 3038,1659"/>
+                <TextEquiv>
+                    <Unicode>ſich der kchoph etwaſt ʒevaſt bieg̅n̅ wurd vnd das ſiech die ſchinen ʒer=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="883,1779 1284,1741 1364,1798 1487,1744 1650,1784 1913,1752 2263,1792 2359,1763 2421,1806 2514,1765 2846,1790 2892,1782 2889,1669 2718,1677 2643,1739 2565,1667 2354,1720 2231,1658 1950,1693 1736,1653 1680,1699 1423,1653 1230,1701 1115,1640 880,1685"/>
+                <Baseline points="894,1735 994,1734 1094,1731 1194,1735 1294,1735 1395,1735 1495,1735 1595,1741 1695,1742 1795,1747 1896,1747 1996,1747 2096,1747 2196,1752 2296,1753 2397,1753 2497,1754 2597,1758 2697,1758 2797,1762 2898,1758"/>
+                <TextEquiv>
+                    <Unicode>ʒärten So macht du das geleich eín ſchine̅ auſwendig dem trakchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="861,1891 950,1843 1284,1889 1346,1840 1798,1875 1843,1843 2081,1907 2258,1851 2916,1923 2897,1776 861,1776"/>
+                <Baseline points="876,1829 978,1829 1080,1829 1182,1829 1285,1829 1387,1829 1489,1834 1591,1841 1694,1846 1796,1843 1898,1840 2000,1840 2103,1846 2205,1851 2307,1846 2409,1846 2512,1850 2614,1857 2716,1864 2818,1863 2921,1858"/>
+                <TextEquiv>
+                    <Unicode>vber den kopph machen auch aín ringklin vnd vber twerchs alls dÿſer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="861,1934 1704,1979 1979,1939 2097,1988 2461,1971 2576,2022 2651,1979 2894,1982 2894,1929 2691,1875 2442,1894 2263,1854 2097,1910 1843,1843 1570,1886 1335,1843 1284,1891 952,1843 861,1891"/>
+                <Baseline points="876,1922 977,1928 1078,1928 1179,1931 1280,1934 1381,1934 1482,1934 1583,1940 1684,1941 1785,1945 1887,1945 1988,1938 2089,1943 2190,1945 2291,1951 2392,1951 2493,1954 2594,1957 2695,1962 2796,1963 2898,1963"/>
+                <TextEquiv>
+                    <Unicode>aíns oder ʒerichts vber den ſchedel von mit̅t̅n koph herauff als er an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="872,2062 1089,2038 1230,2076 1364,2030 1428,2073 1503,2036 1969,2086 2119,2057 2172,2097 2228,2054 2482,2089 2541,2057 2619,2108 2932,2076 2905,1958 2587,2022 2456,1966 2287,1996 1966,1947 1707,1979 869,1937"/>
+                <Baseline points="888,2027 990,2027 1093,2027 1195,2027 1298,2027 1400,2032 1503,2033 1605,2033 1708,2035 1810,2042 1913,2045 2016,2040 2118,2045 2221,2046 2323,2051 2426,2051 2528,2051 2631,2056 2733,2057 2836,2057 2939,2057"/>
+                <TextEquiv>
+                    <Unicode>dem ru̅k̅k̅n̅ ſtöſt vntcʒ an die ſtier´n • Iſt auch der wind ʒu guetʼ maſs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="872,2175 958,2132 1354,2124 1723,2185 1982,2137 2242,2180 2897,2167 2862,2068 2638,2108 2541,2057 2421,2089 2228,2054 2175,2100 2108,2052 1971,2086 1669,2046 1581,2081 1503,2038 1439,2073 1340,2036 1236,2076 1097,2038 872,2062"/>
+                <Baseline points="888,2115 988,2121 1089,2121 1190,2121 1291,2121 1392,2121 1492,2121 1593,2127 1694,2132 1795,2132 1896,2132 1996,2136 2097,2133 2198,2138 2299,2144 2400,2144 2500,2146 2601,2150 2702,2150 2803,2155 2904,2144"/>
+                <TextEquiv>
+                    <Unicode>ſtarck So macht du das ſelb ſchinlein deſter dikcher machen • Oder ob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="864,2250 1124,2268 1255,2231 1316,2279 1380,2228 1661,2263 1851,2236 1955,2298 2343,2244 2402,2292 2581,2260 2630,2306 2691,2255 2886,2266 2884,2167 2242,2183 1982,2137 1725,2185 1354,2121 861,2161"/>
+                <Baseline points="876,2220 976,2220 1077,2220 1178,2220 1279,2220 1380,2220 1480,2220 1581,2220 1682,2226 1783,2226 1884,2226 1984,2230 2085,2232 2186,2238 2287,2238 2388,2240 2488,2244 2589,2247 2690,2249 2791,2249 2892,2244"/>
+                <TextEquiv>
+                    <Unicode>er gar ʒemal ſtarck wer So möchteſt du im eine̅ ſtekchen peÿ aíns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="867,2333 1217,2370 1271,2319 1560,2370 1744,2349 1784,2386 2111,2338 2429,2386 2536,2346 2897,2391 2897,2260 2683,2255 2630,2306 2531,2255 2402,2292 2314,2250 2132,2290 2068,2252 1950,2300 1808,2236 864,2247"/>
+                <Baseline points="882,2319 983,2319 1084,2319 1185,2319 1286,2319 1387,2319 1488,2324 1589,2331 1690,2331 1791,2333 1893,2337 1994,2333 2095,2331 2196,2331 2297,2337 2398,2337 2499,2340 2600,2343 2701,2343 2802,2348 2904,2343"/>
+                <TextEquiv>
+                    <Unicode>Vingers groſs vber den ſchebel leg̅n̅ Von dem ruk̅k̅n̅ geg̅n̅ den ſtiernen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="864,2424 1054,2464 1816,2437 1945,2498 2012,2440 2076,2477 2442,2445 2541,2485 2956,2445 2953,2375 2814,2354 2667,2389 2536,2346 2426,2386 2012,2346 1811,2389 1741,2346 1332,2362 1279,2327 1214,2375 861,2330"/>
+                <Baseline points="876,2407 980,2414 1084,2419 1188,2419 1293,2424 1397,2425 1501,2425 1606,2427 1710,2431 1814,2431 1919,2435 2023,2436 2127,2436 2231,2436 2336,2440 2440,2437 2544,2436 2649,2436 2753,2436 2857,2436 2962,2431"/>
+                <TextEquiv>
+                    <Unicode>herauff als Vorgeſchri̅b̅n̅  iſt • darnach macht du drew ríngkli entʒwi=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="872,2552 1196,2528 1239,2563 1351,2520 1782,2541 1870,2592 1947,2541 2103,2576 2357,2539 2440,2589 2603,2541 2827,2592 2916,2541 2916,2458 2865,2453 2539,2485 2490,2450 2078,2477 2012,2442 1953,2501 1864,2442 1214,2472 872,2440"/>
+                <Baseline points="888,2512 989,2518 1091,2518 1192,2518 1294,2518 1396,2518 1497,2524 1599,2529 1701,2524 1802,2527 1904,2530 2006,2530 2107,2535 2209,2536 2311,2536 2412,2536 2514,2536 2616,2536 2717,2536 2819,2536 2921,2530"/>
+                <TextEquiv>
+                    <Unicode>ſchen den aug̅n̅ Von der ſtiern̅e̅ her ab vber die naſen als da aÿg̅n̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="872,2638 1848,2667 2004,2632 2370,2672 2469,2635 2686,2680 2969,2651 2967,2544 2822,2595 2603,2541 2434,2589 2351,2533 2145,2573 1921,2547 1870,2589 1731,2536 1391,2531 1289,2571 1180,2528 869,2539"/>
+                <Baseline points="888,2618 992,2622 1096,2618 1200,2618 1305,2622 1409,2618 1513,2623 1618,2623 1722,2623 1826,2623 1931,2628 2035,2629 2139,2629 2243,2632 2348,2635 2452,2630 2556,2635 2661,2641 2765,2641 2869,2637 2974,2629"/>
+                <TextEquiv>
+                    <Unicode>leich figuriert iſt • Vnd ſtöſs den vaden dar an du den trak̅k̅n̅ füren wilt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="861,2731 2937,2763 2937,2648 2389,2656 2298,2694 2228,2646 2006,2630 1846,2670 861,2632"/>
+                <Baseline points="876,2711 979,2717 1082,2717 1186,2717 1289,2717 1393,2717 1496,2723 1600,2723 1703,2726 1807,2729 1910,2729 2013,2734 2117,2729 2220,2731 2324,2734 2427,2734 2531,2734 2634,2734 2738,2735 2841,2735 2945,2723"/>
+                <TextEquiv>
+                    <Unicode>durch das ain oder durch die ʒwai • vnd pínt ín an das dritt das iſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="872,2838 2212,2830 2279,2878 2381,2838 2876,2852 2873,2763 2817,2750 2624,2774 2263,2731 1963,2779 1843,2737 1707,2774 1634,2731 869,2728"/>
+                <Baseline points="888,2805 987,2810 1087,2810 1186,2810 1286,2810 1386,2810 1485,2815 1585,2822 1684,2816 1784,2817 1884,2822 1983,2822 2083,2826 2182,2823 2282,2827 2382,2828 2481,2828 2581,2830 2680,2834 2780,2830 2880,2822"/>
+                <TextEquiv>
+                    <Unicode>das in driſt als du auch geʒaichent víndeſt Iſt aber der wínd ʒe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="856,2945 1091,2916 1239,2951 1378,2908 1658,2967 1752,2918 2932,2942 2897,2838 2381,2836 2279,2878 2212,2830 856,2838"/>
+                <Baseline points="870,2904 973,2904 1076,2904 1180,2904 1283,2900 1387,2903 1490,2904 1594,2906 1697,2910 1801,2914 1904,2916 2007,2916 2111,2917 2214,2921 2318,2921 2421,2921 2525,2921 2628,2927 2732,2921 2835,2919 2939,2916"/>
+                <TextEquiv>
+                    <Unicode>gueter maſs ſtarkch So ſtoſs den vaden durch das öbriſt vnd windt ín</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="856,2999 1255,3009 1412,3076 1525,3017 1883,3025 1961,3066 2030,3031 2108,3082 2335,3031 2795,3058 2913,3023 2913,2921 2836,2959 1755,2918 1602,2967 1402,2908 1239,2951 1094,2916 856,2945"/>
+                <Baseline points="870,2992 972,2998 1075,3001 1177,2997 1280,3001 1382,2998 1485,3009 1587,3009 1690,3009 1792,3009 1895,3013 1998,3020 2100,3021 2203,3021 2305,3021 2408,3021 2510,3017 2613,3015 2715,3015 2818,3014 2921,3009"/>
+                <TextEquiv>
+                    <Unicode>an das míttliſt • Iſt der wínd noch ſterkcher • So wínd ín allaín an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="848,3130 1645,3119 1800,3183 1867,3127 2137,3156 2557,3124 2967,3202 2964,3039 2517,3058 2432,3025 2119,3087 2033,3036 1961,3066 1891,3025 1474,3020 1415,3076 1228,3004 1174,3036 845,2999"/>
+                <Baseline points="864,3097 969,3098 1075,3103 1180,3103 1286,3107 1391,3108 1497,3108 1602,3108 1708,3112 1813,3114 1919,3120 2024,3121 2130,3123 2235,3120 2341,3120 2446,3120 2552,3122 2657,3126 2763,3130 2868,3127 2974,3132"/>
+                <TextEquiv>
+                    <Unicode>das öbriſt Iſt er aber ʒu mal ſtarkch So wínd ím den dikc̅h̅n̅ ſtekch̅n̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="872,3215 1177,3269 1455,3218 1958,3255 2557,3221 2742,3288 2833,3234 2916,3247 2916,3135 2616,3167 1864,3127 1798,3183 1645,3119 1412,3156 872,3114"/>
+                <Baseline points="888,3202 989,3203 1091,3208 1192,3208 1294,3212 1396,3209 1497,3208 1599,3214 1701,3214 1802,3216 1904,3219 2006,3219 2107,3219 2209,3219 2311,3219 2412,3219 2514,3219 2616,3219 2717,3224 2819,3219 2921,3214"/>
+                <TextEquiv>
+                    <Unicode>vber den koph als vorgeſchr̅i̅b̅n̅ iſt • vnd bínd den vaden ʒe öbriſt an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="856,3357 1265,3312 1391,3314 1442,3365 1490,3322 1707,3328 1870,3387 1969,3336 2766,3362 2900,3349 2900,3242 2742,3290 2549,3218 2498,3253 2108,3226 1950,3258 1522,3210 1180,3269 853,3202"/>
+                <Baseline points="870,3307 971,3307 1073,3307 1175,3307 1276,3307 1378,3307 1480,3313 1581,3319 1683,3319 1785,3319 1887,3323 1988,3325 2090,3325 2192,3330 2293,3330 2395,3332 2497,3333 2598,3330 2700,3335 2802,3330 2904,3319"/>
+                <TextEquiv>
+                    <Unicode>der ſtiernē an den ſtekc̅h̅n̅ vnd laſs ín ſeín ſtraſs varʼn Itm̅ wen du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="861,3408 1209,3419 1346,3467 1410,3427 1533,3480 1618,3429 2140,3448 2268,3496 2330,3453 2654,3448 2777,3496 2897,3451 2894,3344 2148,3368 1966,3336 1870,3387 1624,3325 1439,3368 1364,3317 1201,3312 859,3357"/>
+                <Baseline points="876,3406 977,3406 1078,3406 1180,3406 1281,3410 1383,3412 1484,3418 1585,3418 1687,3420 1788,3424 1890,3421 1991,3418 2092,3423 2194,3430 2295,3431 2397,3436 2498,3436 2599,3436 2701,3436 2802,3436 2904,3430"/>
+                <TextEquiv>
+                    <Unicode>ín nu wilt laſſen lieg̅n̅ • So gang da du lufft habeſt vnd halt ín</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="867,3531 1057,3512 1137,3576 1327,3526 2084,3526 2175,3568 2616,3542 2809,3601 2926,3547 2926,3456 2737,3494 2656,3448 2488,3480 2354,3451 2252,3496 2001,3440 1677,3477 1624,3429 1538,3480 1399,3435 1319,3480 1222,3419 864,3408"/>
+                <Baseline points="882,3506 984,3507 1087,3512 1189,3512 1292,3512 1394,3516 1497,3517 1599,3517 1702,3517 1804,3517 1907,3521 2010,3523 2112,3523 2215,3524 2317,3531 2420,3535 2522,3535 2625,3535 2727,3535 2830,3535 2933,3529"/>
+                <TextEquiv>
+                    <Unicode>gerad auff alſo das im der wind in das angeſicht vnd ín das corpus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="869,3627 1755,3622 2044,3681 2135,3641 2469,3633 2568,3683 2670,3638 2913,3638 2886,3547 2809,3601 2696,3550 2148,3566 1790,3520 1584,3558 1506,3523 1132,3574 1067,3520 867,3528"/>
+                <Baseline points="882,3599 989,3605 1096,3608 1203,3611 1311,3611 1418,3612 1525,3617 1633,3620 1740,3618 1847,3623 1955,3623 2062,3620 2169,3621 2277,3628 2384,3628 2491,3628 2599,3632 2706,3629 2813,3634 2921,3628"/>
+                <TextEquiv>
+                    <Unicode>ſchlach vnd we̅ der lufft icht krefftig ſeÿ So heb in vaſt auff vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="848,3724 2028,3718 2092,3756 2734,3726 2886,3780 2926,3774 2924,3633 2753,3670 2662,3638 2563,3683 2370,3635 2044,3681 1605,3619 845,3627"/>
+                <Baseline points="864,3693 967,3694 1070,3699 1174,3699 1277,3699 1381,3703 1484,3710 1588,3710 1691,3710 1795,3710 1898,3710 2001,3710 2105,3710 2208,3710 2312,3710 2415,3714 2519,3716 2622,3716 2726,3722 2829,3722 2933,3728"/>
+                <TextEquiv>
+                    <Unicode>heng ím mít dem vaden So gett er auff vnd heng im alleweg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="848,3889 942,3844 1150,3884 1233,3812 1840,3881 2025,3809 2202,3879 2309,3807 2581,3849 2696,3807 2785,3863 2897,3844 2897,3774 2531,3721 2100,3756 1765,3713 1530,3750 1439,3702 1391,3737 1297,3702 845,3724"/>
+                <Baseline points="864,3780 966,3786 1068,3786 1170,3786 1272,3790 1374,3792 1476,3792 1578,3798 1680,3798 1782,3798 1884,3798 1986,3798 2088,3798 2190,3798 2292,3798 2394,3798 2496,3802 2598,3799 2700,3804 2802,3797 2904,3792"/>
+                <TextEquiv>
+                    <Unicode>ʒu hübſchleich vnd wen der lufft etwas ſwach well ſeín • So</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>welait ſeÿ das die rinkli deſter minder durch die haut ſchnei̅d̅n̅ • Vnd
+hab dan klaine ſchinle die von guet̅e̅ newen ʒahem tenneÿne̅ ſtekchn̅
+geſpa̅l̅t̅n̅ vnd geſchnite̅ ſind / in der braÿtt als ain vinger / vnd in der
+dikch als ain halber vokkenha̅l̅b̅n̅ die ſchinle ſpan krewcʒ weis vber ein
+ander vber das angeſicht • Vnd hefft es in die ringlli alſo das ſÿ en//¬
+mitten auff ʒw̅e̅ twerch finger von dem angeſicht herauſwerts gepo̅g̅n̅
+ſeindt doch alſo das ſy auch enmit̅t̅e̅ vmb das krewcʒ mit ain rinklin
+etwas fur den wind gehefft ſeindt als du an der figur geʒaichentt
+findeſt • Ob auch der wind etwas geſtarchk wer • das du entʒäſchiſt daʒ
+ſich der kchoph etwaſt ʒewſt Bregn̅ wurd Vnd das ſiech die ſchinen ʒer//¬
+ʒärten So macht du das geleich ein ſchine̅ auſwendig dem trakchen
+vber den kopph machen auch ain̅ ringklin vnd vber twerchs alls dÿſer
+ains oder ʒerichts vber den ſchedel von mittn̅ koph herauff als er an
+dem rukkn ſtöſt vntcʒ an die ſtierͤn • Iſt auch der wind ʒu guetʼ maſs
+ſtarck So macht du das ſelb ſchinlein deſter dikcher machen • Oder ob
+er gar ʒemal ſtarck wer So möchteſt du im ein̅e̅ ſtekchen peÿ ains
+vingers groſs vber den ſchebel leg̅n̅ von dem tu̅l̅l̅n̅ ge̅g̅n̅ den ſtiernen
+berauff als vorgeſchrib̅n̅ iſt idarnach macht du drew ringlli̅ entʒwi//¬
+ſchen den au̅g̅n̅ von der ſtiern̅e̅ her ab vber die naſen als da aÿg̅n̅
+leich figuriert iſt • Vnd ſtöſs den vaden dar an du den tra̅k̅k̅n̅ füren wilt
+durch das ain oder durch die ʒwai • vnd pint in an das dritt das iſt
+das in driſt als du auch geʒaichent vindeſt Iſt aber der wind ʒe
+gueter maſs ſtarkch So ſtoſs den vaden durch das öbriſt vnd wirdt in
+an das mittliſt Iſt der wind noch ſterkcher • So wind in allain an
+das öbriſt • Iſt er aber ʒu mal ſtarkch So wind im den Jrkc̅h̅n̅ ſtokchn̅
+vber den koph als vorgeſchri̅b̅n̅ iſt • Vnd bind den vaden ʒe öbriſt an
+ber ſtier̅ne̅ an den ſtekc̅h̅n̅ vnd laſs in ſein ſtraſs varnʼ It̅m̅ wen du
+in nu wilt laſſen lieg̅n̅ So gang da du lufft habeſt vnd halt in
+gerad auff alſo das im der wind in das angeſicht vnd in das corpus
+ſchlach vnd w̅e̅ der lufft icht krefftig ſeÿ So heb in vaſt auff vnd
+heng im mit dem vaden So gett er auff vnd heng im alleweg
+ʒu hübſchleich vnd wen der lufft etwas ſwach well ſein • So</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=45902:lm=none:date=09_12_2024_19:51</Creator>
+        <Created>2024-11-08T12:48:19.207+01:00</Created>
+        <LastChange>2024-12-18T16:20:38.418+01:00</LastChange>
+        <TranskribusMetadata docId="5062996" pageId="82720257" pageNr="91" tsid="213504546" status="DONE" userId="288602" imgUrl="https://files.transkribus.eu/Get?id=VXAYJKMIGUKOLIUHPHCPCSVC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YDMUIKMXGBWVQGKZJEHFQINC" imageId="68065117"/>
+    </Metadata>
+    <Page imageFilename="DOD_51276-0091.jpeg" imageWidth="3399" imageHeight="4915">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603047475" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="1715,589 1715,769 2423,769 2423,589"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1710,639 2128,682 2171,653 2352,668 2421,649 2421,617 2324,611 2280,578 2102,603 1843,563 1780,593 1709,576"/>
+                <Baseline points="1715,634 1750,636 1785,638 1821,639 1856,639 1892,639 1927,642 1962,644 1998,643 2033,641 2069,640 2104,642 2139,645 2175,645 2210,645 2246,645 2281,645 2316,645 2352,648 2387,650 2423,645"/>
+                <TextEquiv>
+                    <Unicode>Ain gewappenter man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1710,752 1877,780 2081,757 2159,804 2217,781 2274,804 2415,749 2414,649 2128,682 1709,649"/>
+                <Baseline points="1715,736 1750,736 1785,736 1820,736 1855,736 1890,736 1925,736 1960,736 1995,736 2030,736 2066,737 2101,739 2136,741 2171,741 2206,741 2241,741 2276,741 2311,741 2346,741 2381,741 2417,747"/>
+                <TextEquiv>
+                    <Unicode>Durch das waſſer gät</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

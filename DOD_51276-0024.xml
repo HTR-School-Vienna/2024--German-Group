@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=217813:lm=none:date=02_12_2024_08:54</Creator>
+        <Created>2024-11-08T12:48:18.896+01:00</Created>
+        <LastChange>2024-12-07T20:51:40.195+01:00</LastChange>
+        <TranskribusMetadata docId="5062996" pageId="82719127" pageNr="24" tsid="210859686" status="DONE" userId="290181" imgUrl="https://files.transkribus.eu/Get?id=LRMLEJIHVPZDMMQJGBAWBQKU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PMZXGWXKSNWCEKGDTOENEQBV" imageId="68065100"/>
+    </Metadata>
+    <Page imageFilename="DOD_51276-0024.jpeg" imageWidth="3462" imageHeight="4850">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603045424" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="588,531 588,3760 2739,3760 2739,531"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="798,665 1112,612 1304,668 1488,615 1570,652 1940,609 2241,681 2520,599 2632,639 2635,498 2563,463 2249,508 1975,452 1820,522 1559,511 1448,567 1309,498 1142,572 801,551"/>
+                <Baseline points="813,605 904,605 995,605 1087,605 1178,605 1270,606 1361,610 1452,605 1544,605 1635,603 1727,599 1818,596 1909,590 2001,584 2092,582 2184,582 2275,582 2366,582 2458,577 2549,576 2641,576"/>
+                <TextEquiv>
+                    <Unicode>wie man Salpeter von dem merſalcʒ ſol lawteʼrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="679,796 2664,774 2664,684 2486,655 2031,647 1826,708 1677,657 1461,705 1320,655 897,679 681,633"/>
+                <Baseline points="692,767 790,772 889,770 988,767 1087,767 1186,767 1285,767 1384,761 1483,761 1582,764 1681,767 1779,767 1878,762 1977,761 2076,755 2175,755 2274,755 2373,755 2472,755 2571,750 2670,749"/>
+                <TextEquiv>
+                    <Unicode>Item nim ain̅e̅ tail Salpeters als er von venedig oder anders wo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="729,913 1450,862 1650,910 1852,862 2150,902 2201,854 2499,846 2643,894 2645,780 2563,753 2406,801 1985,772 1879,812 1645,772 1418,814 1371,774 1030,812 900,772 732,809"/>
+                <Baseline points="743,870 838,870 933,865 1029,864 1124,857 1220,853 1315,853 1411,849 1506,847 1602,847 1697,847 1792,847 1888,847 1983,847 2079,843 2174,838 2270,838 2365,836 2461,840 2556,837 2652,824"/>
+                <TextEquiv>
+                    <Unicode>her kumpt Schütt dar an auff drew tail waſſers in ain̅e̅ keſ-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="577,1019 742,1049 873,985 929,1038 1009,974 1325,1009 1597,958 1876,998 2041,950 2211,998 2398,937 2579,977 2581,857 2534,846 2371,889 2201,854 2150,900 2007,860 1815,918 1506,862 1450,905 1043,881 1006,915 950,873 774,900 585,756"/>
+                <Baseline points="593,1003 692,985 792,974 892,974 992,971 1092,968 1191,968 1291,968 1391,962 1491,957 1591,957 1690,953 1790,951 1890,945 1990,940 2090,940 2189,938 2289,931 2389,932 2489,929 2589,922"/>
+                <TextEquiv>
+                    <Unicode>ſel laſs es ſieden / oder das es ain̅e̅ guet̅n̅ wal getue / Vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="596,1099 1352,1072 1408,1107 1591,1057 1762,1115 2001,1051 2241,1038 2363,1086 2672,1054 2675,971 2518,945 2190,993 2041,950 1887,1001 1748,958 1610,993 1472,961 1317,1011 1033,982 931,1038 833,990 748,1049 599,1017"/>
+                <Baseline points="611,1078 714,1078 817,1075 920,1068 1023,1066 1127,1066 1230,1065 1333,1061 1436,1057 1539,1055 1643,1055 1746,1053 1849,1046 1952,1040 2055,1038 2159,1038 2262,1032 2365,1030 2468,1026 2571,1021 2675,1014"/>
+                <TextEquiv>
+                    <Unicode>darnach So ſchütt es durch ain̅e̅ ſakch So weleibt in dem ſakch was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="585,1184 1336,1195 1759,1152 1937,1208 2001,1152 2126,1144 2358,1200 2454,1142 2637,1174 2640,1064 2539,1041 2363,1086 2238,1038 2036,1102 1858,1062 1759,1112 1610,1057 1410,1107 1349,1072 1152,1110 1099,1075 588,1094"/>
+                <Baseline points="599,1164 701,1164 803,1164 906,1164 1008,1164 1111,1159 1213,1159 1315,1159 1418,1154 1520,1153 1623,1147 1725,1147 1827,1144 1930,1137 2032,1136 2135,1136 2237,1134 2339,1130 2442,1130 2544,1130 2647,1118"/>
+                <TextEquiv>
+                    <Unicode>vnraÿnikait darin iſt • Dan sewd das anderſt in dem kcheſſel das es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="585,1267 655,1299 1482,1259 1594,1307 1932,1235 2121,1291 2323,1237 2661,1256 2664,1155 2355,1200 2007,1150 1935,1211 1746,1152 1379,1216 1184,1171 588,1187"/>
+                <Baseline points="599,1262 702,1262 805,1262 908,1262 1012,1257 1115,1251 1218,1251 1321,1251 1425,1251 1528,1251 1631,1239 1734,1243 1838,1237 1941,1234 2044,1234 2147,1228 2251,1228 2354,1225 2457,1222 2560,1217 2664,1211"/>
+                <TextEquiv>
+                    <Unicode>volliklich das dritail oder mer ein geſot̅t̅n̅ ſeÿ • dan ſchütt es in weite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="572,1400 918,1357 1187,1357 1272,1405 1554,1357 1661,1397 1929,1328 2616,1349 2619,1245 2568,1237 2137,1291 1810,1243 1599,1304 1285,1259 575,1304"/>
+                <Baseline points="588,1360 689,1360 791,1360 893,1355 995,1354 1096,1349 1198,1349 1300,1345 1402,1343 1503,1337 1605,1336 1707,1332 1809,1332 1910,1323 2012,1326 2114,1320 2216,1320 2317,1320 2419,1316 2521,1314 2623,1303"/>
+                <TextEquiv>
+                    <Unicode>pekch oder in andre hulcʒein geväſſer • Vnd ÿe weiter die geväſs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="591,1501 1416,1477 1701,1426 1759,1469 1932,1426 2243,1469 2549,1418 2616,1448 2616,1349 2451,1384 2337,1331 2153,1389 1921,1328 1836,1392 1724,1347 1666,1394 1379,1368 1272,1405 1166,1357 740,1400 652,1371 593,1416"/>
+                <Baseline points="605,1447 705,1453 806,1447 907,1447 1008,1447 1109,1444 1210,1441 1311,1441 1412,1435 1513,1435 1614,1433 1714,1427 1815,1424 1916,1424 2017,1418 2118,1417 2219,1412 2320,1412 2421,1409 2522,1407 2623,1401"/>
+                <TextEquiv>
+                    <Unicode>oben ſind vnd ÿe nidrer das der lufft wol dar in geſchlag̅n̅ mag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="591,1575 777,1605 873,1538 1014,1607 1155,1557 1269,1594 1490,1546 1607,1597 1677,1541 1796,1586 2060,1520 2331,1573 2432,1520 2512,1549 2616,1512 2616,1434 2565,1416 2400,1480 2302,1437 2076,1472 1935,1426 1804,1485 1698,1426 1384,1501 1184,1461 1107,1496 1009,1461 593,1498"/>
+                <Baseline points="605,1545 705,1540 806,1539 907,1539 1008,1539 1109,1539 1210,1539 1311,1539 1412,1534 1513,1534 1614,1532 1714,1525 1815,1522 1916,1517 2017,1510 2118,1511 2219,1516 2320,1513 2421,1507 2522,1505 2623,1499"/>
+                <TextEquiv>
+                    <Unicode>ye peſſer es iſt • Vnd ÿe pas es ſich coaguliert • Vnd laſs es ſtan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="601,1655 1285,1645 1498,1693 1554,1647 1703,1693 1876,1623 1999,1674 2172,1629 2286,1671 2416,1613 2637,1605 2640,1504 2507,1554 2432,1520 2334,1573 2065,1522 1887,1581 1682,1541 1607,1599 1469,1549 1253,1594 1158,1554 1022,1602 886,1549 756,1605 604,1570"/>
+                <Baseline points="617,1637 718,1637 819,1637 920,1637 1021,1636 1123,1632 1224,1632 1325,1632 1426,1632 1527,1632 1629,1630 1730,1623 1831,1616 1932,1614 2033,1608 2135,1608 2236,1606 2337,1603 2438,1599 2539,1597 2641,1591"/>
+                <TextEquiv>
+                    <Unicode>vbernacht v̈ncʒ das es ſich ſecʒ • Dan ʒeuch das waſſer ab vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="607,1796 793,1740 1041,1764 1283,1722 1626,1727 1703,1772 2070,1706 2448,1740 2499,1698 2651,1722 2653,1615 2430,1615 2289,1669 2177,1626 1948,1666 1876,1626 1709,1698 1554,1647 1498,1693 1285,1645 609,1666"/>
+                <Baseline points="622,1747 723,1739 825,1735 927,1730 1029,1724 1131,1722 1232,1718 1334,1722 1436,1724 1538,1724 1640,1717 1741,1712 1843,1709 1945,1707 2047,1701 2149,1706 2250,1701 2352,1701 2454,1697 2556,1695 2658,1695"/>
+                <TextEquiv>
+                    <Unicode>ſewd aber ain dritail ein vnd tue im als vor • das tue als dikch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="601,1882 913,1834 1051,1876 1134,1823 1363,1826 1418,1879 1791,1807 2185,1852 2571,1823 2640,1810 2643,1706 2177,1727 2121,1764 1999,1722 1812,1780 1581,1722 1501,1756 1344,1727 1214,1786 1099,1738 987,1786 796,1740 721,1786 604,1764"/>
+                <Baseline points="617,1828 718,1829 820,1828 921,1822 1023,1822 1124,1822 1226,1822 1327,1822 1429,1822 1530,1821 1632,1810 1733,1808 1835,1805 1936,1800 2038,1799 2139,1798 2241,1793 2342,1793 2444,1785 2545,1781 2647,1776"/>
+                <TextEquiv>
+                    <Unicode>v̈ncʒ kain waſſer mer da ſeÿ • Dan So nim lebendig̅n̅ kalich vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="583,1951 660,1991 745,1932 1046,1972 1520,1908 1842,1956 2020,1900 2355,1937 2640,1895 2643,1810 2603,1799 2028,1866 1969,1818 1709,1820 1631,1866 1552,1828 1456,1884 1368,1834 1240,1876 1120,1828 1054,1879 910,1834 830,1871 657,1847 585,1897"/>
+                <Baseline points="599,1920 701,1923 803,1916 906,1919 1008,1914 1111,1912 1213,1911 1315,1914 1418,1914 1520,1908 1623,1907 1725,1903 1827,1903 1930,1903 2032,1898 2135,1891 2237,1885 2339,1885 2442,1885 2544,1881 2647,1874"/>
+                <TextEquiv>
+                    <Unicode>äſchen geleich vil mach ain lawter lang da von • vnd ſewd aine̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="596,2070 1184,2015 1315,2054 1381,2012 1650,2060 1882,2001 2206,1996 2259,2031 2651,1988 2653,1897 2600,1889 2353,1940 1929,1905 1754,1964 1594,1919 1163,1929 1049,1980 817,1916 665,1985 599,1948"/>
+                <Baseline points="611,2018 713,2024 815,2016 918,2017 1020,2012 1122,2011 1225,2006 1327,2006 1429,2002 1532,2001 1634,2000 1736,1995 1839,1995 1941,1991 2043,1984 2146,1983 2248,1976 2350,1972 2453,1972 2555,1967 2658,1960"/>
+                <TextEquiv>
+                    <Unicode>tail ſalpeters in drein tail der laug̅n̅ nach geleicher vorgeſchribn´</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="596,2134 766,2121 809,2156 918,2110 1070,2174 1198,2100 1275,2129 1583,2092 1756,2137 1964,2086 2307,2140 2422,2078 2619,2137 2730,2113 2733,2001 2667,1967 2611,2009 2427,1985 2164,2047 2089,1996 1650,2060 1379,2012 1333,2052 1219,2017 596,2070"/>
+                <Baseline points="611,2110 717,2110 823,2110 930,2104 1036,2099 1143,2096 1249,2093 1355,2087 1462,2087 1568,2087 1675,2083 1781,2081 1887,2080 1994,2076 2100,2072 2207,2070 2313,2064 2419,2062 2526,2058 2632,2050 2739,2041"/>
+                <TextEquiv>
+                    <Unicode>weis • das tue ſo dikch als vor vncʒ die laug alle in geſewd So haſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="607,2214 876,2217 923,2257 1352,2201 1469,2254 1549,2193 1642,2262 1812,2177 2137,2214 2435,2153 2475,2198 2603,2198 2605,2094 2422,2078 2307,2140 2084,2086 1554,2145 1192,2102 1072,2169 918,2113 809,2156 609,2118"/>
+                <Baseline points="622,2208 721,2207 821,2202 920,2200 1020,2197 1119,2193 1219,2186 1318,2179 1418,2179 1517,2179 1617,2176 1716,2174 1816,2174 1915,2174 2015,2168 2114,2168 2214,2166 2313,2162 2413,2154 2512,2146 2612,2139"/>
+                <TextEquiv>
+                    <Unicode>du den ſalpeter an lanḡn groſſen ſpiſſen ʒemal edel rain vnd guett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="612,2326 958,2299 1030,2337 1634,2278 1690,2321 1815,2289 1908,2318 1967,2273 2153,2305 2257,2259 2379,2299 2680,2241 2683,2198 2483,2206 2424,2148 2206,2217 1945,2182 1655,2251 1554,2201 1472,2251 1208,2201 918,2259 860,2214 615,2222"/>
+                <Baseline points="628,2301 736,2301 844,2293 953,2289 1061,2283 1169,2283 1278,2279 1386,2277 1494,2272 1603,2272 1711,2268 1820,2260 1928,2254 2036,2254 2145,2254 2253,2249 2361,2243 2470,2237 2578,2231 2687,2220"/>
+                <TextEquiv>
+                    <Unicode>Wildu aber es volls lawterʼn an die lang So ſeich in ʒu dritte̅ oder vier-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="612,2438 822,2400 886,2435 1027,2376 1190,2422 1245,2379 1581,2400 1794,2355 1983,2403 2132,2350 2406,2376 2555,2334 2621,2376 2683,2369 2688,2238 2358,2299 2291,2262 2174,2310 2068,2270 1908,2318 1567,2281 1030,2337 615,2326"/>
+                <Baseline points="628,2387 731,2391 834,2384 937,2377 1041,2375 1144,2370 1247,2368 1350,2361 1454,2358 1557,2358 1660,2352 1763,2351 1867,2347 1970,2343 2073,2341 2176,2335 2280,2329 2383,2327 2486,2324 2589,2324 2693,2312"/>
+                <TextEquiv>
+                    <Unicode>den vnd ſewd • wen ſich das merſalcʒ in dem ſÿeden an dem poden be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="604,2539 809,2491 958,2526 1049,2472 1110,2520 1211,2470 1408,2467 1464,2520 1615,2462 1666,2515 1730,2456 2222,2470 2603,2422 2605,2339 2552,2334 2403,2379 2345,2342 2132,2350 2049,2406 1794,2355 1581,2398 1243,2379 1195,2422 1033,2376 884,2438 844,2400 609,2408"/>
+                <Baseline points="622,2491 721,2484 820,2477 919,2471 1018,2464 1118,2462 1217,2456 1316,2456 1415,2455 1514,2450 1614,2450 1713,2447 1812,2440 1911,2433 2010,2428 2110,2431 2209,2427 2308,2421 2407,2416 2506,2416 2606,2410"/>
+                <TextEquiv>
+                    <Unicode>gin ʒuſecʒen So ſecʒ dan kcheſfel ab peÿ klainer weil ſetʒ ſich das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="612,2605 838,2635 1006,2565 1115,2627 1304,2555 1352,2589 1642,2555 1711,2605 1810,2555 2047,2541 2113,2597 2235,2528 2337,2573 2667,2520 2672,2424 2350,2464 2294,2432 2235,2472 2028,2432 1953,2480 1732,2456 1661,2518 1586,2464 1464,2518 1373,2464 1174,2475 1107,2523 1049,2475 961,2526 806,2491 615,2531"/>
+                <Baseline points="628,2577 730,2574 832,2568 935,2561 1037,2560 1139,2554 1242,2554 1344,2554 1446,2549 1549,2548 1651,2543 1753,2541 1856,2537 1958,2533 2060,2531 2163,2531 2265,2524 2367,2517 2470,2510 2572,2503 2675,2497"/>
+                <TextEquiv>
+                    <Unicode>merſalcʒ an den poden Schütt das waſſer darab vnd ob ſich das aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="607,2699 727,2722 907,2675 987,2722 1086,2667 1208,2704 1341,2667 1400,2706 1448,2664 1621,2688 1820,2640 1961,2648 2015,2696 2166,2640 2467,2691 2520,2640 2669,2653 2672,2544 2337,2571 2235,2526 2116,2597 2049,2541 1876,2549 1778,2619 1639,2555 1448,2560 1349,2619 1256,2560 1094,2627 998,2568 833,2637 609,2608"/>
+                <Baseline points="622,2670 724,2670 827,2666 929,2664 1032,2664 1135,2659 1237,2662 1340,2655 1443,2652 1545,2647 1648,2647 1751,2645 1853,2638 1956,2635 2059,2630 2161,2629 2264,2628 2367,2621 2469,2618 2572,2618 2675,2612"/>
+                <TextEquiv>
+                    <Unicode>wider wil icht mer ſecʒen ſchütʒ aber ab dan laſs es aber ſtan pis ſich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="625,2781 844,2797 979,2752 1136,2805 1557,2741 1783,2754 1897,2810 2004,2736 2275,2802 2342,2738 2459,2733 2568,2789 2688,2773 2691,2640 2400,2696 2190,2640 2017,2699 1820,2637 1618,2691 1456,2661 1400,2701 1086,2669 987,2722 628,2688"/>
+                <Baseline points="640,2762 742,2760 845,2756 948,2751 1051,2756 1154,2750 1257,2750 1360,2747 1463,2741 1566,2739 1669,2738 1771,2735 1874,2736 1977,2733 2080,2733 2183,2727 2286,2726 2389,2719 2492,2716 2595,2711 2698,2710"/>
+                <TextEquiv>
+                    <Unicode>der Salpeter voll ſecʒet daͤrnaͦch in dem waſſer iſt So haſtu in rain vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1733133018736_285" custom="readingOrder {index:23;}">
+                <Coords points="620,2781 788,2810 921,2762 1075,2813 1083,2811 1083,2894 620,2914"/>
+                <Baseline points="634,2848 736,2851 839,2848 941,2844 1044,2843 1083,2843"/>
+                <TextEquiv>
+                    <Unicode>fein geſchaiden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1733133018733_284" custom="readingOrder {index:24;}">
+                <Coords points="1083,2811 1315,2768 1661,2818 1748,2754 1866,2810 1999,2744 2270,2810 2345,2738 2430,2738 2557,2792 2680,2770 2680,2922 2470,2834 2294,2930 2164,2879 1940,2930 1850,2887 1528,2917 1445,2879 1083,2894"/>
+                <Baseline points="1083,2843 1147,2843 1249,2845 1352,2848 1455,2848 1557,2848 1660,2853 1763,2848 1865,2848 1968,2845 2071,2843 2173,2843 2276,2841 2379,2832 2481,2822 2584,2820 2687,2814"/>
+                <TextEquiv>
+                    <Unicode>Wie man wilden ſalpetern ſol lawter´n</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:25;}">
+                <Coords points="631,3071 990,3010 1317,3044 1631,3007 1860,3042 1956,3002 2243,3015 2283,3052 2624,3026 2624,2882 2366,2930 2078,2882 1937,2935 1730,2890 1498,2946 1293,2890 1203,2943 910,2951 822,2914 631,2951"/>
+                <Baseline points="645,2998 744,3010 843,3010 942,3010 1041,3007 1141,3004 1240,3004 1339,3004 1438,3004 1537,3004 1637,3001 1736,2998 1835,2998 1934,2998 2033,2998 2133,2998 2232,2998 2331,2998 2430,2998 2529,2998 2629,2998"/>
+                <TextEquiv>
+                    <Unicode>Item ſalpeter als man in ab den mawr̅e̅ oder anders wo ſchebt ober</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:26;}">
+                <Coords points="585,3148 1735,3098 1842,3138 1932,3106 1991,3159 2145,3098 2595,3116 2616,3029 2470,3007 2249,3060 2166,3007 1850,3042 1634,3007 1405,3018 1349,3060 1088,3013 588,3063"/>
+                <Baseline points="599,3096 700,3101 801,3102 902,3102 1003,3102 1105,3099 1206,3100 1307,3102 1408,3096 1509,3096 1611,3095 1712,3088 1813,3085 1914,3085 2015,3091 2117,3085 2218,3085 2319,3085 2420,3085 2521,3085 2623,3085"/>
+                <TextEquiv>
+                    <Unicode>vindet Sewd den des erſten nach aller vorgeſchribner weis ſchütt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:27;}">
+                <Coords points="585,3207 977,3212 1064,3257 1211,3196 1357,3249 1418,3207 1658,3233 1980,3188 2621,3220 2621,3116 2549,3098 2145,3095 1991,3159 1932,3106 1847,3138 1738,3098 1448,3151 1057,3106 947,3154 833,3116 585,3148"/>
+                <Baseline points="599,3183 700,3192 802,3194 903,3189 1005,3189 1106,3191 1208,3194 1309,3190 1411,3189 1512,3189 1614,3187 1715,3186 1817,3185 1918,3183 2020,3177 2121,3183 2223,3181 2324,3180 2426,3183 2527,3183 2629,3177"/>
+                <TextEquiv>
+                    <Unicode>In durch aine̅ ſakch • das daʒ gröbiſt kchat dar inn weleib vnd laſs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:28;}">
+                <Coords points="607,3308 894,3351 1070,3297 1610,3335 1812,3276 2193,3348 2334,3281 2629,3319 2629,3199 2499,3231 1975,3188 1820,3244 1732,3201 1669,3239 1482,3204 1357,3249 1211,3196 1064,3257 929,3209 804,3247 607,3201"/>
+                <Baseline points="622,3281 722,3286 823,3281 923,3281 1024,3283 1125,3284 1225,3281 1326,3281 1427,3281 1527,3281 1628,3279 1729,3275 1829,3275 1930,3275 2031,3275 2131,3268 2232,3266 2333,3269 2433,3269 2534,3269 2635,3264"/>
+                <TextEquiv>
+                    <Unicode>dan waſſer in ain hulcʒein geſchier das ain loch auff ʒwaier oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:29;}">
+                <Coords points="620,3388 716,3425 822,3382 1208,3430 1597,3382 1724,3430 1818,3380 1980,3422 2243,3372 2659,3428 2643,3305 2494,3332 2291,3289 2070,3343 1701,3297 1496,3345 1163,3295 892,3351 620,3300"/>
+                <Baseline points="634,3379 735,3384 837,3379 938,3379 1040,3379 1141,3379 1243,3373 1344,3379 1446,3377 1547,3373 1649,3373 1750,3373 1852,3379 1953,3373 2055,3373 2156,3369 2258,3367 2359,3373 2461,3374 2562,3379 2664,3379"/>
+                <TextEquiv>
+                    <Unicode>dreÿer vinger hoch o̅b̅n̅ dem podem hab • vnd wan es geſtätt • Das ſich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:30;}">
+                <Coords points="625,3494 1051,3473 1152,3518 1868,3470 2611,3505 2611,3412 2283,3409 2243,3374 1961,3422 1818,3380 1727,3428 1613,3385 1544,3425 1461,3382 1400,3425 1352,3396 1184,3430 817,3385 737,3438 625,3388"/>
+                <Baseline points="640,3471 738,3471 837,3471 936,3468 1035,3465 1134,3465 1233,3465 1332,3460 1431,3465 1530,3464 1629,3460 1727,3460 1826,3460 1925,3464 2024,3460 2123,3460 2222,3461 2321,3465 2420,3468 2519,3471 2618,3471"/>
+                <TextEquiv>
+                    <Unicode>das kchat vnd die vnraÿnikait der nach den etwas Da beÿ beliben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:31;}">
+                <Coords points="628,3579 1256,3574 1363,3611 1408,3574 1993,3579 2337,3630 2438,3585 2640,3614 2637,3513 2392,3481 2089,3523 1866,3470 1355,3521 1078,3510 1041,3473 625,3494"/>
+                <Baseline points="640,3563 740,3563 840,3561 941,3558 1041,3561 1141,3563 1242,3563 1342,3559 1442,3563 1543,3566 1643,3565 1743,3563 1844,3563 1944,3563 2044,3563 2145,3563 2245,3566 2345,3569 2446,3569 2546,3569 2647,3569"/>
+                <TextEquiv>
+                    <Unicode>iſt wol an dem poden geſecʒt hatt So laſs das waſſer hübſleich ʒu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:32;}">
+                <Coords points="620,3691 2640,3683 2640,3582 2299,3633 1812,3574 1679,3614 1631,3577 1429,3574 1384,3614 1256,3574 620,3582"/>
+                <Baseline points="634,3650 734,3656 835,3656 935,3656 1036,3652 1137,3655 1237,3656 1338,3650 1439,3652 1539,3656 1640,3656 1741,3656 1841,3656 1942,3656 2043,3656 2143,3656 2244,3660 2345,3662 2445,3662 2546,3663 2647,3662"/>
+                <TextEquiv>
+                    <Unicode>dem loch auſs o̅b̅n̅ ab So läuttaſt macht vnd tue die vnraÿnikait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:33;}">
+                <Coords points="620,3760 809,3795 889,3755 1115,3808 1195,3752 1567,3811 1882,3752 1993,3811 2062,3774 2275,3811 2685,3755 2685,3654 2419,3702 2132,3657 2081,3691 1996,3659 1400,3704 1275,3665 1027,3702 945,3662 620,3673"/>
+                <Baseline points="634,3725 742,3736 850,3739 959,3742 1067,3742 1175,3742 1284,3742 1392,3737 1500,3736 1609,3736 1717,3736 1826,3736 1934,3736 2042,3736 2151,3736 2259,3736 2367,3736 2476,3735 2584,3731 2693,3725"/>
+                <TextEquiv>
+                    <Unicode>enweg • Dann ſewd das waſſer das drittail vollenkleichen ein vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wie man Salpeter von dem merſalcʒ ſol lawternʼ
+Item nim aine̅ tail Salpeters als er vo̅n̅ venedig oder anders wo¬
+her kumpt Schütt dar an auff drew tail waſſers in ain̅e̅ keſ¬
+ſel laſs es ſieden / oder das es ain̅e̅ guet̅n̅ wal getue / Vnd
+darnach So ſchütt es durch ain̅e̅ ſakch So weleibt in dem ſakch was
+vnraÿnikait darin iſt / Dan Sewd das anderſt in dem kcheſſel das es
+volliklich das dritail oder mer ein geſot̅t̅n̅ ſey / dan ſchütt es in weite
+pekch oder in andre hulcʒein geväſſer / Vnd ÿe weiter die geväſs
+oben ſind vnd ÿe nidrer das der lufft wol dar in geſchlagn̅ mag
+ye peſſer es iſt • Vnd ÿe pas es ſich coaguliert / Vnd laſs es ſtan
+vbernacht vncʒ das es ſich ſecʒ / Dan ʒeuch das waſſer ab vnd
+ſewd aber ain dritail ein vnd tue im als vor • das tue als dikch
+vncʒ kain waſſer mer da ſeÿ / Dan So nim lebendig̅n̅ kalich vnd
+äſchen geleich vil mach ain lawter lang da von • vnd ſewd ain̅e̅
+tail ſalpeters in drein tail der laug̅n̅ nach geleicher vorgeſchribn̅
+weis • das tue ſo dikch als vor vncʒ die laug alle in geſewd So haſt-¬
+du den ſalpeter an lang̅n̅ groſſen ſpiſſen ʒemal edel rain vnd guett
+Wildu aber es volls lawternʼ an die lang So ſeich in ʒu dritte̅ oder vier-¬
+den vnd ſewd • wen ſich das merſalcʒ in dem ſÿeden an dem poden be-¬
+gin ʒuſecʒen So ſecʒ dan kcheſfel ab peÿ klainer weil ſetʒ ſich das
+merſalcʒ an den poden Schütt das waſſer darab vnd ob ſich das aber
+wider wil icht mer ſecʒen ſchütʒ aber ab dan laſs es aber ſtan pis ſich
+der Salpeter voll ſecʒet daͤrnaͦch in dem waſſer iſt So haſtu in rain / vnd
+fein geſchaiden 
+Wie man wilden ſalpetern ſol lawtern
+Item ſalpeter als man in ab den mawr̅e̅ oder anders wo ſchebt ober
+vindet Sewd den des erſten nach aller vorgeſchribner weis ſchütt
+In durch ain̅e̅ ſakch / das daʒ gröbiſt kchat dar inn weleib • vnd laſs
+dan waſſer in ain hulcʒein geſchier das ain loch auff ʒwaier oder
+dreÿer vinger hoch obn̅ dem podem hab • vnd wan es geſtätt / Das ſich
+das kchat vnd die vnraÿnikait der nach den etwas da bey beliben
+iſt wol an dem poden geſecʒt hatt So laſs das waſſer hübſleich ʒu
+dem loch auſs o̅b̅n̅ ab So laüttaſt macht vnd tue die vnraÿnikait
+enweg / Dann ſewd das waſſer das drittail vollenkleichen ein vnd</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

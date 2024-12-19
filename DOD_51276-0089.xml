@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48528:lm=none:date=01_12_2024_10:13</Creator>
+        <Created>2024-11-08T12:48:19.199+01:00</Created>
+        <LastChange>2024-12-18T16:10:42.090+01:00</LastChange>
+        <TranskribusMetadata docId="5062996" pageId="82719691" pageNr="89" tsid="213503286" status="DONE" userId="288602" imgUrl="https://files.transkribus.eu/Get?id=OTKJFGZDTHGIYMHJZZKZDUMC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DOROQDZHOPDVKLCSRTVXGGSL" imageId="68065631"/>
+    </Metadata>
+    <Page imageFilename="DOD_51276-0089.jpeg" imageWidth="3399" imageHeight="4915">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603047433" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="819,659 787,2087 3068,2087 3108,667"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="861,773 956,724 1008,757 1907,738 2060,798 2189,746 2989,765 2987,661 2921,628 2820,664 2730,623 2377,645 2219,607 2074,664 1732,590 1593,634 1301,582 1049,639 858,596"/>
+                <Baseline points="872,713 978,713 1084,716 1190,719 1296,719 1402,723 1508,719 1615,719 1721,719 1827,720 1933,727 2039,730 2145,736 2251,736 2358,736 2464,736 2570,736 2676,741 2782,744 2888,747 2995,747"/>
+                <TextEquiv>
+                    <Unicode>vnden ſcheiben vnd mit ainen haſpel alſo das man ſnel vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="858,877 935,831 1000,866 1519,814 2000,836 2063,883 2120,839 2287,842 2361,896 2429,833 2697,844 2806,899 3049,880 3047,757 2697,795 2634,751 2189,743 2060,801 1905,738 1582,730 1489,768 1118,721 1006,757 948,719 855,773"/>
+                <Baseline points="872,809 981,809 1090,809 1199,809 1309,815 1418,812 1527,809 1636,809 1746,809 1855,809 1964,814 2073,821 2183,823 2292,826 2401,826 2510,830 2620,830 2729,832 2838,838 2947,840 3057,838"/>
+                <TextEquiv>
+                    <Unicode>pequemleich den enker an ainem ſail ablaſſen Vnd auf ʒiechen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="874,907 1041,954 1109,918 1383,954 1519,924 1609,970 2017,929 2140,978 2571,937 2918,970 3011,956 3011,902 2432,831 2366,894 2309,842 2120,839 2063,885 2017,842 1801,872 1519,825 981,869 937,833 872,872"/>
+                <Baseline points="889,905 995,903 1101,911 1208,911 1314,911 1421,911 1527,914 1634,917 1740,911 1847,911 1953,914 2059,917 2166,917 2272,928 2379,928 2485,933 2592,939 2698,934 2805,934 2911,934 3018,939"/>
+                <TextEquiv>
+                    <Unicode>müg vnd der Enker ſol ſein ain gröſſer ſynbeler ſtain mit aim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="850,1019 1205,1011 1407,1060 1544,1022 1771,1052 1924,1016 2017,1057 2519,1030 2579,1077 2711,1033 3039,1079 3036,965 2951,945 2137,978 2028,929 1823,929 1612,970 1530,926 1038,951 850,904"/>
+                <Baseline points="866,1007 975,998 1084,1002 1193,1002 1302,1002 1411,1002 1520,1002 1629,1002 1738,1003 1847,1007 1956,1007 2065,1007 2174,1009 2283,1017 2392,1024 2501,1025 2610,1030 2719,1025 2828,1030 2937,1030 3046,1036"/>
+                <TextEquiv>
+                    <Unicode>kloben dar in vergoſſen mit pleÿ vnd wan die prukg vber das waſß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="850,1118 1118,1118 1213,1159 1314,1118 1951,1120 1997,1167 2069,1131 2232,1186 2385,1123 3000,1161 2998,1055 2817,1033 2585,1082 2517,1030 2052,1027 2006,1060 1915,1011 1402,1060 1298,1019 850,1019"/>
+                <Baseline points="866,1098 973,1092 1080,1095 1187,1098 1294,1104 1401,1100 1508,1101 1615,1098 1722,1098 1829,1098 1936,1102 2043,1104 2150,1110 2257,1115 2364,1119 2471,1121 2578,1126 2685,1126 2792,1126 2899,1126 3006,1126"/>
+                <TextEquiv>
+                    <Unicode>kümpt So ſol man an dem ort der prukg ſnell haben aine̅ langen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="861,1224 1290,1210 1383,1260 1511,1208 1555,1241 2052,1216 2134,1254 2336,1216 2670,1257 2711,1227 2798,1271 2853,1230 3003,1235 3003,1159 2334,1131 2232,1186 2090,1142 1997,1167 1946,1120 1784,1148 1508,1109 1216,1159 858,1115"/>
+                <Baseline points="877,1200 983,1194 1089,1194 1196,1194 1302,1194 1409,1194 1515,1191 1622,1189 1728,1189 1835,1194 1941,1197 2047,1200 2154,1206 2260,1207 2367,1211 2473,1216 2580,1217 2686,1217 2793,1217 2899,1217 3006,1228"/>
+                <TextEquiv>
+                    <Unicode>haken an ayn̅e̅ ſaÿll Vnd den ſoll man an ainn flüch oder pawm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="874,1323 1000,1303 1071,1342 1246,1298 1486,1353 1544,1298 1951,1355 2115,1306 2284,1361 2451,1314 2782,1366 2825,1323 3022,1333 3022,1254 2883,1230 2705,1268 2336,1213 2123,1254 1642,1200 1388,1257 1287,1208 1104,1246 872,1224"/>
+                <Baseline points="889,1296 996,1291 1103,1288 1210,1285 1317,1285 1424,1285 1531,1285 1638,1290 1745,1291 1852,1296 1959,1296 2066,1296 2173,1302 2280,1304 2387,1308 2494,1308 2601,1308 2708,1310 2815,1313 2922,1319 3029,1325"/>
+                <TextEquiv>
+                    <Unicode>ſlahen vnd das es ſtarck ſeÿ Vnd ſel die prukg alſo damit peheftn̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="850,1402 1189,1402 1292,1445 1484,1402 1549,1448 1678,1399 1768,1454 1836,1407 1954,1437 2030,1396 2372,1451 2653,1407 2880,1465 2951,1432 2935,1320 2784,1366 2522,1314 2293,1355 2118,1309 1951,1358 1547,1298 1486,1353 1246,1298 1077,1339 850,1317"/>
+                <Baseline points="866,1392 970,1387 1074,1387 1179,1383 1283,1381 1388,1387 1492,1385 1597,1385 1701,1387 1806,1387 1910,1388 2014,1392 2119,1392 2223,1398 2328,1398 2432,1398 2537,1398 2641,1398 2746,1398 2850,1400 2955,1409"/>
+                <TextEquiv>
+                    <Unicode>vnd peſtetten • Vnd alſo magſt du das ding nach deiner v´nüfft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="861,1533 1262,1478 1514,1536 1721,1495 1820,1566 2336,1500 2522,1544 2776,1506 2937,1552 2937,1435 2883,1465 2659,1405 2552,1456 2060,1399 1768,1454 1680,1399 1549,1448 861,1413"/>
+                <Baseline points="877,1483 980,1482 1083,1477 1187,1477 1290,1477 1393,1477 1497,1479 1600,1486 1703,1489 1807,1489 1910,1489 2013,1489 2117,1492 2220,1494 2323,1494 2427,1494 2530,1494 2633,1494 2737,1494 2840,1495 2944,1506"/>
+                <TextEquiv>
+                    <Unicode>peſſern oder ainen werchmayſter fürgeben der es macht Do ain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="861,1612 1558,1582 1935,1653 2055,1609 2170,1659 2421,1629 2549,1661 2629,1609 2989,1620 2989,1514 2910,1560 2773,1506 2538,1552 2342,1500 2112,1506 2063,1552 1823,1566 1700,1497 1478,1538 1260,1478 861,1533"/>
+                <Baseline points="877,1574 982,1574 1088,1574 1194,1574 1300,1574 1406,1575 1512,1579 1618,1583 1724,1585 1830,1586 1936,1591 2041,1591 2147,1596 2253,1596 2359,1596 2465,1596 2571,1602 2677,1601 2783,1596 2889,1596 2995,1596"/>
+                <TextEquiv>
+                    <Unicode>gancʒ volkch alſo ʒumal vber ain prukch ʒiechen mag • doch mueß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="839,1664 1019,1716 1063,1686 1142,1743 1254,1743 1312,1694 1385,1752 1609,1694 1757,1752 1935,1702 2033,1760 2088,1713 2989,1721 2989,1623 2935,1601 2629,1609 2552,1661 2148,1659 2058,1609 1929,1661 1749,1599 1514,1645 1347,1590 1216,1634 1170,1596 839,1618"/>
+                <Baseline points="855,1664 962,1664 1069,1667 1176,1675 1283,1676 1390,1681 1497,1681 1604,1681 1711,1687 1818,1687 1925,1687 2032,1687 2139,1688 2246,1693 2353,1693 2460,1698 2567,1693 2674,1693 2781,1693 2888,1693 2995,1698"/>
+                <TextEquiv>
+                    <Unicode>das waſſer ſtill ſein oder flüeſet es ſo mues es ʒemal ain ſanf̅f̅t̅n̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="877,1793 2006,1825 2052,1787 2306,1836 2375,1801 2418,1844 2577,1803 2995,1814 2957,1721 2834,1705 2743,1746 2640,1694 2222,1746 2088,1713 2033,1762 1935,1702 1757,1752 874,1700"/>
+                <Baseline points="889,1761 994,1772 1100,1772 1205,1772 1311,1772 1417,1778 1522,1778 1628,1782 1733,1783 1839,1784 1945,1789 2050,1785 2156,1783 2261,1790 2367,1794 2473,1794 2578,1794 2684,1789 2789,1789 2895,1785 3001,1789"/>
+                <TextEquiv>
+                    <Unicode>fluſs haben • Wan wer es ʒu ſnel ſo wer es miſſleich Nota als die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="869,1888 1077,1913 1150,1874 1200,1918 1251,1869 1500,1869 1793,1929 2044,1894 2137,1940 2222,1880 2355,1929 2476,1885 2722,1932 2790,1891 3025,1891 3008,1795 2426,1844 2052,1787 1981,1825 1514,1784 1451,1825 1221,1790 1134,1820 1008,1773 965,1817 915,1776 869,1803"/>
+                <Baseline points="883,1857 990,1858 1097,1862 1204,1862 1312,1862 1419,1862 1526,1865 1634,1868 1741,1868 1848,1868 1956,1868 2063,1868 2170,1874 2277,1879 2385,1881 2492,1879 2599,1879 2707,1879 2814,1875 2921,1868 3029,1868"/>
+                <TextEquiv>
+                    <Unicode>ſtrub̅n̅ auff der aine̅ ſeytt̅n̅ ſeint alſo ſeint ſy auch auff der an=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="858,2014 1011,1956 1112,2000 1333,1976 1462,2011 1547,1970 1664,2000 1918,1959 2476,2033 2599,1973 2667,2014 2978,1987 2948,1877 2732,1929 2478,1885 2355,1946 2227,1880 2137,1940 1984,1894 1793,1929 1615,1874 1402,1902 1257,1866 1200,1918 1145,1869 1055,1915 858,1874"/>
+                <Baseline points="872,1953 977,1953 1083,1953 1188,1949 1294,1953 1400,1954 1505,1959 1611,1963 1716,1964 1822,1959 1928,1959 2033,1959 2139,1959 2244,1960 2350,1966 2456,1970 2561,1965 2667,1965 2772,1968 2878,1964 2984,1970"/>
+                <TextEquiv>
+                    <Unicode>dern vnd als die ſekch ſeint auff der andem • Alſo ſeint ſy auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="861,2107 976,2129 1090,2069 1273,2123 2675,2107 2675,2017 2552,1987 2476,2033 1918,1967 1656,2000 1620,1965 1372,2019 1115,2008 1008,1956 861,2014"/>
+                <Baseline points="877,2049 967,2049 1057,2048 1147,2044 1237,2044 1327,2045 1417,2049 1507,2049 1597,2052 1687,2055 1777,2059 1867,2057 1957,2055 2047,2055 2137,2055 2227,2055 2317,2055 2407,2055 2497,2055 2587,2055 2678,2061"/>
+                <TextEquiv>
+                    <Unicode>auff der ainen vnd der haſpel auff der mittel e̅c̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

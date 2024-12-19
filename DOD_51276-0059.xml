@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=45902:lm=none:date=26_11_2024_09:16</Creator>
+        <Created>2024-11-08T12:48:19.059+01:00</Created>
+        <LastChange>2024-12-19T11:09:37.397+01:00</LastChange>
+        <TranskribusMetadata docId="5062996" pageId="82720037" pageNr="59" tsid="213640333" status="DONE" userId="306735" imgUrl="https://files.transkribus.eu/Get?id=ZJXJNMQZHJTOSSNYQXJJDBEM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QDRHDONBJGNMTCRCBQZPTLNI" imageId="68065313"/>
+    </Metadata>
+    <Page imageFilename="DOD_51276-0059.jpeg" imageWidth="3399" imageHeight="4915">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603046658" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1732703117920_23"/>
+                <RegionRefIndexed index="1" regionRef="region_1732703263860_84"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1732703117920_22"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1732703117920_23" custom="readingOrder {index:0;}">
+            <Coords points="751,561 2994,508 2961,720 2905,736 2823,724 2776,734 2316,722 2136,706 2103,710 2075,732 2044,732 1936,728 1921,810 747,880"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="813,706 1560,704 1560,674 813,676"/>
+                <Baseline points="813,706 1560,704"/>
+                <TextEquiv>
+                    <Unicode>ſoliuert ſey ii lot ſal in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_302" custom="readingOrder {index:1;}">
+                <Coords points="1538,621 1653,618 1652,588 1537,591"/>
+                <Baseline points="1538,621 1653,618"/>
+                <TextEquiv>
+                    <Unicode>ain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:2;}">
+                <Coords points="800,707 1052,734 1164,685 1230,740 1422,707 1680,745 1726,699 2187,718 2244,685 2524,712 2581,759 2650,718 2839,751 2915,718 2891,559 2504,608 2334,553 2184,608 2000,556 1855,616 1576,573 1515,619 1466,578 1326,619 1277,578 951,627 800,573"/>
+                <Baseline points="1609,700 1657,690 1762,689 1868,685 1973,688 2078,686 2183,690 2289,690 2394,690 2499,690 2605,685 2710,688 2815,688 2921,690"/>
+                <TextEquiv>
+                    <Unicode>℔ puluers mach es an ainen ſtokch laſs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1732703117958_26" custom="readingOrder {index:3;}">
+                <Coords points="817,723 1682,745 1723,699 1874,726 1907,718 1898,833 1864,834 1535,817 1343,862 1352,880 1206,800 817,819"/>
+                <Baseline points="832,787 933,787 1034,787 1135,790 1236,792 1337,792 1438,792 1539,792 1640,792 1741,792 1842,792 1907,799"/>
+                <TextEquiv>
+                    <Unicode>dürr werden So iſt es gerecht c̄t̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ſoliuert ſey ii lot ſal in ain l̅b̅ puluers mach es an aínen ſtokch laſs
+dürr werden So iſt es gerecht etc Suluus setunden ohannen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1732703263860_84" custom="readingOrder {index:1;}">
+            <Coords points="2857,859 1916,859 1916,714 2857,714"/>
+            <TextLine id="line_1732703269853_87" custom="readingOrder {index:0;}">
+                <Coords points="1921,736 2100,711 2177,765 2307,731 2375,775 2465,735 2511,769 2627,742 2852,761 2850,783 2850,858 2596,865 2502,902 2422,860 2253,886 2178,846 1891,884"/>
+                <TextEquiv>
+                    <Unicode>Puluis ſecund Johann̅e̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1732703117920_22" custom="readingOrder {index:2;}">
+            <Coords points="747,880 3006,880 3006,3763 747,3763"/>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="795,962 1565,995 1710,956 2151,964 2263,1022 2337,981 2417,1025 2529,964 2932,1000 2932,838 2715,899 2559,852 2493,901 2195,858 2036,904 1666,866 1614,910 1236,860 1008,904 915,838 795,833"/>
+                <Baseline points="809,956 915,951 1021,951 1128,951 1234,951 1341,956 1447,956 1554,956 1660,956 1767,951 1873,951 1979,951 2086,962 2192,957 2299,962 2405,962 2512,962 2618,962 2725,959 2831,956 2938,951"/>
+                <TextEquiv>
+                    <Unicode>Item nÿm lindein kol gegluet vnd in gutē eſſeich geloſchen ſeindt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="827,1044 1348,1082 1504,1052 1652,1104 1737,1058 2085,1055 2244,1099 2403,1052 2444,1093 2534,1049 2907,1066 2907,992 2680,967 2485,973 2417,1025 2354,981 2260,1019 2200,967 2069,992 1937,954 1600,967 1551,1014 1203,959 1047,1003 827,967"/>
+                <Baseline points="880,1033 946,1041 1049,1041 1153,1041 1256,1046 1359,1047 1463,1049 1566,1053 1669,1053 1773,1047 1876,1047 1979,1047 2083,1047 2186,1052 2289,1047 2393,1053 2496,1050 2599,1047 2703,1042 2806,1041 2910,1041"/>
+                <TextEquiv>
+                    <Unicode>ain tail • vnd ʒwai tail ſwebel · iiii tail ſalpeter wol gelawtert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="756,1167 827,1143 896,1189 1028,1140 1173,1181 1354,1143 1726,1195 1767,1154 1945,1151 2014,1200 2099,1148 2428,1143 2466,1181 2606,1134 2918,1178 2918,1060 2781,1049 2641,1096 2576,1052 2250,1099 1729,1055 1532,1112 1173,1047 1036,1091 756,1060"/>
+                <Baseline points="865,1140 877,1143 985,1138 1092,1140 1200,1139 1307,1143 1415,1143 1522,1146 1630,1149 1737,1143 1845,1141 1953,1138 2060,1138 2168,1142 2275,1138 2383,1138 2490,1138 2598,1132 2705,1132 2813,1128 2921,1132"/>
+                <TextEquiv>
+                    <Unicode>ſtöſs es ab • das iſt ain ſnel puluer Wildu es gar ſnel machen ſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="817,1244 932,1233 997,1282 1529,1238 1647,1291 1806,1238 2252,1260 2293,1228 2469,1296 2608,1241 2652,1274 2740,1233 2981,1244 2981,1184 2858,1197 2787,1140 2466,1178 2367,1145 2299,1192 2104,1148 2014,1197 1841,1151 1721,1197 1469,1148 1167,1181 1025,1137 891,1186 819,1148"/>
+                <Baseline points="832,1234 939,1229 1047,1228 1155,1230 1263,1238 1371,1234 1479,1239 1586,1237 1694,1235 1802,1234 1910,1228 2018,1228 2126,1228 2234,1227 2341,1223 2449,1226 2557,1223 2665,1223 2773,1223 2881,1223 2989,1223"/>
+                <TextEquiv>
+                    <Unicode>fewchtige es ain klain mit geprantem wein vnd laſs es wider er //
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="795,1329 1022,1321 1192,1378 1351,1329 1885,1386 2093,1323 2471,1332 2600,1384 2921,1367 2921,1249 2855,1225 2469,1296 2348,1233 1770,1241 1647,1291 1485,1244 1003,1291 926,1233 795,1271"/>
+                <Baseline points="809,1325 914,1319 1020,1319 1126,1324 1232,1330 1338,1325 1444,1328 1550,1330 1656,1330 1762,1330 1868,1327 1973,1325 2079,1319 2185,1319 2291,1322 2397,1325 2503,1325 2609,1325 2715,1322 2821,1319 2927,1319"/>
+                <TextEquiv>
+                    <Unicode>truken wer̅d̅n̅ • So iſt es ʒu mal ſnell • wildu das es in waſſer prin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="778,1419 951,1408 1044,1449 1115,1414 1206,1455 1296,1425 1408,1471 1669,1422 1833,1466 1899,1422 2214,1417 2406,1463 2504,1425 2655,1463 2893,1425 2893,1362 2521,1389 2384,1326 2208,1386 1967,1348 1882,1389 1649,1354 1592,1384 1526,1332 1197,1378 1025,1318 778,1343"/>
+                <Baseline points="792,1409 897,1408 1002,1406 1108,1409 1213,1415 1318,1415 1424,1415 1529,1419 1634,1421 1740,1425 1845,1421 1950,1421 2056,1421 2161,1415 2266,1417 2372,1421 2477,1421 2582,1421 2688,1419 2793,1412 2899,1409"/>
+                <TextEquiv>
+                    <Unicode>So tue ʒu aim ℔ • i • qn̓tat gaffer • oder ye mer gaffer • ye peſſer es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="789,1512 1137,1507 1192,1559 1247,1507 1428,1496 1576,1565 1863,1551 1910,1507 2167,1510 2233,1559 2524,1548 2655,1499 2713,1551 2767,1510 2954,1548 2954,1392 2655,1463 2217,1417 1896,1419 1833,1469 1674,1422 1436,1471 1093,1414 1028,1463 789,1436"/>
+                <Baseline points="804,1494 911,1490 1019,1494 1127,1496 1235,1500 1343,1500 1451,1495 1558,1500 1666,1500 1774,1506 1882,1500 1990,1500 2098,1500 2206,1500 2313,1500 2421,1500 2529,1494 2637,1494 2745,1494 2853,1494 2961,1489"/>
+                <TextEquiv>
+                    <Unicode>wiert • das puluer • da füll die ſlahenden kügel Vnd die ſlahen̅d̅n̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="800,1617 871,1586 1055,1641 1110,1595 1304,1586 1644,1658 1877,1600 2082,1603 2143,1644 2244,1597 2365,1649 2480,1595 3003,1608 3003,1551 2767,1512 2721,1551 2661,1512 2619,1548 2222,1554 2118,1507 1910,1507 1863,1554 1581,1562 1436,1512 1195,1559 1036,1493 800,1515"/>
+                <Baseline points="815,1579 924,1581 1034,1585 1143,1585 1253,1586 1362,1591 1472,1591 1581,1591 1691,1596 1800,1596 1910,1596 2020,1596 2129,1594 2239,1591 2348,1591 2458,1589 2567,1585 2677,1585 2786,1585 2896,1588 3006,1585"/>
+                <TextEquiv>
+                    <Unicode>fewr̓ pheÿl mit vnd wen es mit dem gaffer temperiert iſt du ma //
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="778,1693 1008,1674 1225,1737 1312,1691 1403,1734 1699,1745 1751,1699 1863,1726 1902,1688 1965,1723 2058,1688 2113,1743 2228,1699 2302,1732 2373,1680 2526,1729 2913,1699 2913,1614 2784,1592 2458,1595 2367,1649 2239,1592 2181,1644 1877,1597 1647,1658 1312,1586 1096,1644 871,1586 778,1630"/>
+                <Baseline points="792,1670 898,1670 1004,1670 1110,1674 1216,1676 1323,1681 1429,1684 1535,1691 1641,1687 1747,1688 1854,1690 1960,1687 2066,1687 2172,1681 2278,1679 2385,1680 2491,1681 2597,1677 2703,1681 2809,1681 2916,1676"/>
+                <TextEquiv>
+                    <Unicode>cht es auff der hand anʒünden Vnd das puluer gehoret ʒe ſtoſſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="778,1784 1277,1773 1644,1822 1874,1781 2044,1830 2162,1784 2315,1833 2373,1786 2428,1822 2619,1776 2710,1817 2765,1778 2893,1800 2893,1715 2819,1737 2765,1693 2540,1734 2373,1680 2302,1729 2236,1696 2118,1740 2055,1685 1981,1726 1811,1693 1696,1748 1315,1693 1249,1732 1074,1682 1011,1732 896,1680 778,1704"/>
+                <Baseline points="792,1772 897,1761 1002,1763 1108,1766 1213,1766 1318,1772 1424,1772 1529,1776 1634,1778 1740,1783 1845,1781 1950,1778 2056,1778 2161,1778 2266,1776 2372,1772 2477,1767 2582,1772 2688,1772 2793,1772 2899,1772"/>
+                <TextEquiv>
+                    <Unicode>Vnd ʒe ſlahen das man es in die kugel vnd pfeil hin ein füllet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="778,1866 880,1907 1101,1869 1170,1910 1241,1869 1721,1918 2384,1907 2532,1858 2633,1904 2792,1855 2954,1885 2954,1745 2828,1808 2619,1776 2532,1817 2373,1789 2318,1833 2165,1789 1910,1817 1871,1778 1436,1825 1345,1778 1088,1822 926,1759 852,1806 778,1786"/>
+                <Baseline points="792,1851 900,1851 1008,1851 1117,1851 1225,1857 1334,1857 1442,1857 1551,1862 1659,1863 1768,1865 1876,1862 1984,1862 2093,1862 2201,1862 2310,1858 2418,1851 2527,1851 2635,1851 2744,1857 2852,1852 2961,1862"/>
+                <TextEquiv>
+                    <Unicode>vnd des andern̓ ſwëren nachgeſchriben puluers dar vmb vnd nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:11;}">
+                <Coords points="773,1973 1112,1945 1282,2003 1458,1954 1628,2000 1789,1962 1937,2008 2082,1954 2178,1997 2893,1956 2891,1885 2787,1860 2619,1910 2532,1855 2422,1910 1723,1921 1482,1877 1167,1910 1104,1866 896,1907 770,1860"/>
+                <Baseline points="787,1947 892,1940 998,1936 1103,1936 1209,1942 1315,1942 1420,1942 1526,1946 1631,1953 1737,1953 1843,1953 1948,1953 2054,1953 2159,1951 2265,1947 2371,1947 2476,1942 2582,1942 2687,1942 2793,1942 2899,1942"/>
+                <TextEquiv>
+                    <Unicode>hin ein den gaffer ſoluireſt in dem pranten wein · Also müſchet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="778,2077 1082,2036 1263,2091 1444,2030 1732,2102 1866,2044 1959,2093 2151,2044 2260,2096 2398,2041 2562,2082 2658,2030 2915,2039 2891,1943 2803,1989 2702,1948 2463,1995 2173,1997 2077,1956 1934,2011 1452,1951 1280,2003 1082,1945 1028,1987 923,1954 778,1992"/>
+                <Baseline points="792,2038 898,2032 1004,2032 1111,2032 1217,2032 1324,2031 1430,2029 1537,2032 1643,2038 1750,2038 1856,2038 1962,2038 2069,2032 2175,2038 2282,2035 2388,2032 2495,2032 2601,2027 2708,2027 2814,2027 2921,2021"/>
+                <TextEquiv>
+                    <Unicode>es ſich aller peſt / Das ſwere puluer ʒu dem fewr´ ltem so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:13;}">
+                <Coords points="773,2129 1115,2192 1238,2134 1444,2132 1899,2187 1951,2140 2055,2176 2124,2124 2422,2181 2893,2115 2893,2039 2658,2030 2581,2085 2428,2041 2269,2096 2039,2044 1962,2093 1866,2044 1732,2096 1463,2039 1258,2093 1082,2036 773,2091"/>
+                <Baseline points="787,2123 892,2123 998,2123 1103,2123 1209,2129 1315,2129 1420,2125 1526,2123 1631,2123 1737,2127 1843,2126 1948,2124 2054,2123 2159,2123 2265,2123 2371,2123 2476,2117 2582,2117 2687,2114 2793,2112 2899,2112"/>
+                <TextEquiv>
+                    <Unicode>nÿm fünff tail ſalnitri • z • tail ſwebel • ain tail der obgena̅t̅e̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:14;}">
+                <Coords points="743,2250 907,2236 981,2280 1315,2228 1576,2217 1614,2250 1663,2217 1811,2260 1877,2222 2187,2217 2395,2277 2502,2222 2630,2214 2724,2266 2798,2214 2932,2239 2932,2085 2611,2176 2537,2145 2036,2184 1951,2140 1899,2187 1269,2134 1126,2195 995,2148 926,2187 743,2107"/>
+                <Baseline points="758,2219 867,2217 976,2215 1085,2215 1194,2219 1303,2219 1412,2214 1521,2214 1630,2214 1739,2218 1848,2215 1957,2219 2066,2215 2175,2214 2284,2214 2393,2214 2502,2214 2611,2208 2720,2208 2829,2204 2938,2214"/>
+                <TextEquiv>
+                    <Unicode>koln • ſtöſs es ab vnd ob es temperieſt mit gaffer vnd mit pran̅t̅n̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:15;}">
+                <Coords points="781,2348 1173,2356 1310,2313 1400,2359 1449,2315 1617,2370 1795,2310 2028,2310 2107,2373 2230,2313 2926,2302 2926,2247 2839,2211 2724,2266 2636,2233 2395,2277 2189,2219 2060,2266 1885,2222 1677,2266 1425,2228 1307,2269 784,2263"/>
+                <Baseline points="798,2298 904,2304 1011,2304 1118,2304 1225,2304 1331,2304 1438,2304 1545,2304 1652,2304 1758,2304 1865,2304 1972,2304 2079,2310 2185,2304 2292,2304 2399,2304 2506,2304 2612,2298 2719,2296 2826,2289 2933,2287"/>
+                <TextEquiv>
+                    <Unicode>wein • es wirt deſter peſſer • nach vorgeschribner weis das puluer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:16;}">
+                <Coords points="778,2411 921,2450 1170,2400 1340,2447 1699,2398 2874,2392 2795,2313 2578,2302 2376,2343 2230,2313 2107,2373 2025,2313 1808,2307 1611,2373 1449,2315 1400,2359 1310,2313 1175,2362 778,2351"/>
+                <Baseline points="792,2389 896,2389 1001,2389 1105,2389 1210,2395 1314,2395 1419,2395 1523,2395 1628,2389 1732,2392 1837,2395 1941,2395 2046,2394 2150,2389 2255,2389 2359,2384 2464,2383 2568,2381 2673,2378 2777,2373 2882,2372"/>
+                <TextEquiv>
+                    <Unicode>temperier mit öl vil oder wenig als du wilt das es ſnel oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:17;}">
+                <Coords points="778,2502 1219,2474 1570,2532 1696,2482 2280,2518 2351,2474 2899,2480 2899,2400 2828,2384 2606,2425 2540,2384 2236,2425 1734,2398 1647,2439 1477,2408 1375,2447 778,2414"/>
+                <Baseline points="792,2474 897,2474 1003,2474 1108,2469 1214,2474 1320,2476 1425,2480 1531,2480 1636,2480 1742,2480 1848,2480 1953,2480 2059,2480 2164,2478 2270,2474 2376,2469 2481,2468 2587,2463 2692,2460 2798,2457 2904,2457"/>
+                <TextEquiv>
+                    <Unicode>lan langſam prin Vnd wo des ſlahen̅d̅n̅ dings machen wilt da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:18;}">
+                <Coords points="784,2576 975,2562 1137,2606 1230,2562 1449,2619 1581,2576 2310,2573 2408,2619 2608,2573 2893,2622 2874,2471 2726,2515 2628,2474 2343,2474 2277,2518 2162,2480 1965,2515 1696,2485 1578,2532 1217,2474 784,2504"/>
+                <Baseline points="798,2559 903,2553 1008,2557 1113,2559 1218,2559 1323,2562 1428,2568 1533,2570 1638,2566 1743,2570 1848,2567 1953,2569 2058,2570 2163,2570 2268,2564 2373,2559 2478,2559 2583,2559 2688,2556 2793,2553 2899,2548"/>
+                <TextEquiv>
+                    <Unicode>tue des obgeſchri̅b̅n̅ / erſten puluers inn̅e̅ dar ein als du waiſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:19;}">
+                <Coords points="773,2661 1058,2655 1184,2721 1304,2650 1726,2661 1767,2702 2156,2650 2156,2581 2008,2567 1789,2584 1723,2636 1581,2576 1444,2617 1233,2562 1132,2611 773,2567"/>
+                <Baseline points="787,2644 855,2644 924,2644 993,2644 1062,2644 1131,2644 1199,2649 1268,2650 1337,2650 1406,2650 1475,2651 1543,2655 1612,2655 1681,2655 1750,2655 1819,2655 1887,2655 1956,2655 2025,2652 2094,2648 2163,2644"/>
+                <TextEquiv>
+                    <Unicode>vnd das auſſen dar vmb die ſekchlein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:20;}">
+                <Coords points="797,2798 1028,2735 1351,2745 1389,2787 1436,2745 1677,2781 1940,2735 2187,2784 2759,2737 2907,2778 2910,2630 2877,2625 2765,2672 2663,2628 2554,2669 2491,2636 2329,2685 2140,2650 1770,2704 1729,2663 1310,2658 1208,2696 1159,2655 800,2661"/>
+                <Baseline points="815,2734 920,2732 1025,2734 1130,2734 1235,2734 1340,2734 1445,2734 1550,2740 1655,2739 1760,2734 1865,2734 1970,2734 2075,2734 2180,2734 2285,2737 2390,2735 2495,2734 2600,2733 2705,2729 2810,2729 2916,2717"/>
+                <TextEquiv>
+                    <Unicode>Item wildu wÿſſen von allerlaÿ fewr´ kugel ʒe prenn̅e̅ in waſß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:21;}">
+                <Coords points="819,2852 1428,2839 1488,2882 1704,2844 1745,2882 1899,2830 2181,2825 2880,2858 2910,2778 2759,2735 2433,2787 2337,2745 2211,2787 2118,2743 1940,2789 1833,2751 1660,2789 1485,2751 1392,2787 1351,2745 1104,2773 1036,2735 822,2773"/>
+                <Baseline points="900,2822 941,2824 1045,2825 1149,2825 1253,2825 1357,2825 1461,2830 1565,2831 1669,2831 1773,2828 1877,2820 1980,2819 2084,2820 2188,2825 2292,2825 2396,2825 2500,2824 2604,2819 2708,2819 2812,2815 2916,2808"/>
+                <TextEquiv>
+                    <Unicode>vnd auch in hawſß So wÿſs wen du puluer ʒu dem fewr´</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:22;}">
+                <Coords points="732,2951 1406,2918 2033,2924 2093,2959 2348,2918 2493,2965 2576,2915 2907,2948 2907,2850 2836,2833 1907,2830 1748,2882 1707,2844 1480,2882 1438,2841 1080,2830 1000,2874 732,2830"/>
+                <Baseline points="890,2917 917,2913 963,2916 1071,2916 1179,2916 1287,2916 1395,2920 1504,2916 1612,2920 1720,2921 1828,2916 1936,2916 2044,2916 2152,2916 2261,2916 2369,2916 2477,2911 2585,2904 2693,2904 2801,2904 2910,2904"/>
+                <TextEquiv>
+                    <Unicode>prauchen wilt ſo ſolt es peraÿt̅t̅n̅ mit öl als du hye nach ge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:23;}">
+                <Coords points="784,3017 1288,3072 1433,3009 1811,3009 2080,3072 2134,3030 2233,3066 2315,3011 2973,3033 2973,2959 2702,2913 2499,2965 2411,2932 784,2943"/>
+                <Baseline points="798,3001 907,3001 1016,3006 1125,3006 1234,3006 1343,3006 1452,3006 1561,3008 1670,3008 1779,3006 1888,3006 1997,3006 2106,3006 2215,3006 2324,3006 2433,3003 2542,3001 2651,3000 2760,2992 2869,2989 2978,2989"/>
+                <TextEquiv>
+                    <Unicode>schri̅b̅n̅ findeſt vnd iſt aller laÿ öls güt dar ʒue • doch gemaÿn=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:24;}">
+                <Coords points="756,3132 1085,3110 1132,3151 1214,3104 1515,3148 1592,3113 1718,3156 1792,3118 1841,3162 1929,3113 2145,3146 2293,3099 2518,3148 2852,3104 2855,3017 2329,3011 2250,3066 2091,3077 1858,3014 1603,3017 1433,3080 759,3019"/>
+                <Baseline points="770,3103 874,3103 978,3103 1083,3103 1187,3101 1292,3100 1396,3103 1501,3103 1605,3108 1710,3108 1814,3105 1918,3103 2023,3102 2127,3097 2232,3097 2336,3097 2441,3097 2545,3097 2650,3094 2754,3091 2859,3086"/>
+                <TextEquiv>
+                    <Unicode>kleich nympt man nüſs öl c̄t̄ / Item nÿm des obgeſchribens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:25;}">
+                <Coords points="759,3214 1236,3192 1365,3236 1406,3195 1776,3200 1850,3252 1962,3200 2124,3239 2277,3184 2463,3220 2611,3192 2710,3241 2910,3181 2885,3069 2518,3151 2291,3096 2069,3151 1934,3113 1841,3159 1784,3115 1718,3154 1222,3107 1132,3151 1085,3110 759,3137"/>
+                <Baseline points="775,3182 882,3187 989,3187 1096,3187 1203,3187 1310,3187 1417,3187 1524,3187 1631,3187 1738,3187 1845,3187 1952,3187 2059,3182 2166,3182 2273,3182 2380,3182 2487,3182 2594,3181 2701,3179 2808,3178 2916,3170"/>
+                <TextEquiv>
+                    <Unicode>puluers das da iſt von ain tail ſwebels • i • taÿl k̄o̅l̅n̅ vnd iiiiʝ tail</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:26;}">
+                <Coords points="773,3310 1258,3269 1828,3283 1871,3326 1970,3283 2258,3326 2345,3280 2395,3315 2773,3280 2828,3321 2915,3293 2918,3184 2647,3244 2548,3195 2274,3181 2121,3239 1965,3198 1847,3252 1576,3198 1282,3250 1178,3198 773,3228"/>
+                <Baseline points="787,3272 893,3268 1000,3272 1107,3272 1213,3267 1320,3268 1427,3272 1533,3272 1640,3272 1747,3272 1854,3272 1960,3272 2067,3267 2174,3269 2280,3272 2387,3272 2494,3272 2600,3270 2707,3267 2814,3267 2921,3272"/>
+                <TextEquiv>
+                    <Unicode>ſalpeters oder eins anders gut̅e̅ puluers Vnd schütt dar an öl als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:27;}">
+                <Coords points="778,3395 1370,3357 1576,3395 2915,3381 2915,3291 2825,3321 2773,3280 2532,3280 2452,3324 2334,3285 2263,3326 1978,3283 1874,3326 1830,3283 1740,3310 1680,3274 1255,3318 778,3272"/>
+                <Baseline points="792,3357 898,3357 1004,3357 1111,3354 1217,3357 1324,3356 1430,3354 1537,3357 1643,3357 1750,3357 1856,3357 1962,3357 2069,3357 2175,3357 2282,3357 2388,3357 2495,3357 2601,3357 2708,3357 2814,3353 2921,3352"/>
+                <TextEquiv>
+                    <Unicode>ſo das es fewcht vnd doch nicht als ain mueſs werd • nicht dan daʒ es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_31" custom="readingOrder {index:28;}">
+                <Coords points="789,3466 1630,3455 1691,3494 1800,3447 1918,3483 2847,3450 2822,3359 2526,3392 2206,3362 2154,3395 2104,3362 1578,3398 1375,3357 1323,3389 789,3373"/>
+                <Baseline points="804,3437 906,3437 1008,3437 1111,3437 1213,3437 1316,3437 1418,3437 1521,3437 1623,3440 1726,3438 1828,3442 1930,3441 2033,3439 2135,3439 2238,3441 2340,3437 2443,3442 2545,3442 2648,3442 2750,3442 2853,3437"/>
+                <TextEquiv>
+                    <Unicode>ſich ʒu ſamme̅ truken als ain pall Vnd hab dan ain leynei tuech</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_32" custom="readingOrder {index:29;}">
+                <Coords points="759,3565 827,3524 1148,3526 1233,3584 1280,3537 1414,3526 1693,3565 1858,3540 1989,3584 2176,3526 2926,3548 2926,3411 2841,3469 2617,3488 1795,3450 1688,3494 1614,3455 1236,3474 1066,3439 1017,3477 855,3450 759,3483"/>
+                <Baseline points="775,3527 882,3516 990,3516 1098,3516 1206,3516 1314,3522 1422,3517 1530,3522 1638,3522 1746,3522 1854,3522 1961,3522 2069,3522 2177,3521 2285,3516 2393,3516 2501,3522 2609,3522 2717,3522 2825,3522 2933,3522"/>
+                <TextEquiv>
+                    <Unicode>ʒwaier hendt praÿt oder praÿter Vnd praÿt dar auff ain werch als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_33" custom="readingOrder {index:30;}">
+                <Coords points="756,3603 978,3655 1101,3606 1206,3639 1406,3606 1449,3639 1699,3606 2885,3628 2885,3535 2474,3518 2406,3565 2365,3529 2110,3573 2050,3540 1997,3581 1858,3537 1691,3565 1417,3526 1241,3567 1148,3526 836,3524 756,3570"/>
+                <Baseline points="770,3595 876,3596 982,3598 1088,3595 1194,3595 1300,3596 1406,3601 1513,3601 1619,3606 1725,3605 1831,3601 1937,3601 2043,3601 2149,3602 2256,3604 2362,3605 2468,3606 2574,3602 2680,3606 2786,3602 2893,3595"/>
+                <TextEquiv>
+                    <Unicode>man ſprechen ains twerchen vingers oder ains halben dikch Vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_34" custom="readingOrder {index:31;}">
+                <Coords points="756,3685 1354,3718 1504,3677 1926,3710 2063,3680 2239,3721 2877,3680 2877,3631 2751,3603 2367,3644 1702,3603 1608,3644 1406,3606 1206,3641 1107,3606 981,3655 756,3603"/>
+                <Baseline points="770,3669 875,3674 981,3674 1086,3674 1192,3674 1298,3675 1403,3677 1509,3674 1614,3680 1720,3680 1826,3677 1931,3671 2037,3674 2142,3674 2248,3674 2354,3674 2459,3674 2565,3674 2670,3674 2776,3674 2882,3680"/>
+                <TextEquiv>
+                    <Unicode>leg die pallen auff das werch Vnd vmwindt ſy mit dem tuech</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_35" custom="readingOrder {index:32;}">
+                <Coords points="759,3787 1156,3757 1304,3809 1447,3759 1545,3814 1677,3781 2302,3809 2395,3759 2567,3759 2806,3800 2937,3746 2937,3636 2833,3694 2639,3713 759,3685"/>
+                <Baseline points="775,3737 883,3737 991,3740 1100,3742 1208,3743 1317,3746 1425,3742 1534,3748 1642,3748 1751,3748 1859,3743 1967,3748 2076,3742 2184,3742 2293,3738 2401,3742 2510,3742 2618,3742 2727,3742 2835,3743 2944,3748"/>
+                <TextEquiv>
+                    <Unicode>vnd dem werch vnd ſlach die ʒipffel des tuechs vmb die pallen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Item nÿm lindemn kol gegluet vnd in gute esseich geloschen seindt
+k ain tail und gwai tail swebel iiii tail salpeter wol gelawtert
+de stoss es ab das ist amn snel pulner wildn es gar suel machen so
+fewchtige es am klain mit gepranten wem und lass es wider er
+truken werden So ist es zu mal suell wildn das es in wasser prin
+So tue zn aiiij l. j . gutat gafser oder ye mer gaffer ye pesser es
+wiert das puluer da sull die slahenden kKugel und die slahenden
+fewr pheyl nit und wen es mit dem gaffer teinperiert ist die ma¬
+cht es auff der hand angunden nd das puluer gehoret ze stossen
+vnd ze slahen das man es in die kugel vnd psell sin em sullet
+und des andern sweren nachgeschriben puluers dar umb und nicht
+hin em den gaffer soluerest in dem pranten wem· Also mischet
+es sich aller pest ist Gas swere puluer zu dem fewr ltemso
+nyn funff tail salmter t tail swebel am tail der obgenante
+kolen stoss es ab und ob es tenperieft mit gaffer und mit pranten
+wem es wiet dester pesser nach vorgeschaibner weis das paluer
+temporier mit ol vil oder menig als di wilt das es suel oder
+lan Langsam prin und wo des slahenden dings machen wilt da
+tue des obgeschriben f ersten pullers inme dar ein als die waist
+und das aussen dar umb die sekcllein
+tem wildn wyssen von allerlay fewre Rugel ze prennē in wasses
+svnd auch in hawss So wyss wren du puluer zu dem fewn
+len prauchen wilt so sols es peraytten mit ol als di hye nach ge
+schriben sindest und ist aller lay ols gut dar zue doch gemayn¬
+Eleicher nympt man nuss ol zet i Item nym des obgeschribens
+puluers das da ist von aim tail swebelsen tayl kolen und ii tail
+salpeters oder eins anders gute pulvers und schutt dar an ol als
+so das es fewcht vnd doch nicht als ain muess weid nicht dan dares
+sich zu samme truken als ain pall und hab dan am leyner tnech
+zwaier hendt prayt oder prayter und prayt dar auff ain werch als
+man sprechen ains twerchen vingers oder ains halben dikch und
+leg die pallen auff das werth und vnuwindt sy mit dem tnech
+und dent wercht vnd slach die zipffel des tnechs umb die pallen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

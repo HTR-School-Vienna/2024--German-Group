@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=54903:lm=none:date=24_11_2024_16:21</Creator>
+        <Created>2024-11-08T12:48:19.122+01:00</Created>
+        <LastChange>2024-12-18T15:42:52.293+01:00</LastChange>
+        <TranskribusMetadata docId="5062996" pageId="82720178" pageNr="73" tsid="213494375" status="DONE" userId="199581" imgUrl="https://files.transkribus.eu/Get?id=KZFIFUSBXPKHYFPJKZYOVJGU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HTSQGTIJCJHPDEEEQFWATLDM" imageId="68065373"/>
+    </Metadata>
+    <Page imageFilename="DOD_51276-0073.jpeg" imageWidth="3399" imageHeight="4915">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603046809" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="832,646 832,3736 3063,3736 3063,646"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="873,774 1055,703 1364,763 1424,716 1890,736 1967,697 2358,705 2444,760 2548,703 3019,741 3019,598 2763,576 2419,628 2204,559 1945,636 1499,568 1355,614 1193,565 873,628"/>
+                <Baseline points="813,688 995,690 1102,690 1209,695 1315,696 1422,696 1529,699 1635,702 1742,696 1849,690 1956,690 2062,690 2169,690 2276,690 2382,690 2489,695 2596,696 2702,696 2809,700 2916,702 3023,707"/>
+                <TextEquiv>
+                    <Unicode>Item ain höffleiche kunſt wie man nach maſſen aus der püc̅h̅ſ̅n̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="981,846 1157,865 1375,799 1970,802 2113,860 2182,799 3058,829 3058,747 2849,703 2548,703 2444,760 2331,703 1967,697 1799,747 1455,714 1372,763 981,714"/>
+                <Baseline points="996,798 1099,798 1202,798 1306,798 1409,798 1512,798 1616,798 1719,798 1822,794 1926,792 2029,792 2132,792 2236,792 2339,792 2442,787 2546,787 2649,787 2752,787 2856,791 2959,799 3063,804"/>
+                <TextEquiv>
+                    <Unicode>ſchieſſen ſol • So • ſuech den mittliſ̅t̅n̅ punc̅t̅n̅ mit aine̅ cirkel aus=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="890,901 1719,890 1898,950 1989,901 2375,945 2463,901 2948,901 2948,824 2796,796 2700,832 2182,802 2113,860 1970,804 1895,846 1799,804 1570,854 1372,799 1132,868 1061,829 890,862"/>
+                <Baseline points="965,898 1007,894 1110,889 1212,891 1315,894 1417,894 1520,889 1622,889 1725,889 1827,889 1930,889 2032,889 2135,889 2237,889 2340,889 2442,894 2545,889 2647,887 2750,887 2852,889 2955,894"/>
+                <TextEquiv>
+                    <Unicode>wendig dahin dan an dem poden der püchſen darnach tue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="857,1036 1163,989 1496,997 1535,1036 1612,1000 1794,1050 1945,984 2094,1036 2185,995 2419,1036 2559,986 2970,1008 2970,906 2780,893 2727,928 2463,901 2378,945 1992,901 1901,953 1722,893 1380,950 1190,895 857,937"/>
+                <Baseline points="872,979 977,980 1082,985 1187,985 1293,985 1398,990 1503,988 1609,988 1714,985 1819,984 1925,981 2030,985 2135,989 2240,990 2346,990 2451,987 2556,985 2662,985 2767,985 2872,988 2978,990"/>
+                <TextEquiv>
+                    <Unicode>ain ſchindel mitten ʒu vödriſt in das gehews Vber twerchs das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="846,1077 1207,1127 1389,1083 1705,1138 1945,1085 2176,1099 2226,1141 2339,1099 2942,1083 2942,1022 2832,989 2719,1028 2557,986 2433,1036 2369,989 2185,995 2105,1041 1942,984 1796,1047 1609,997 1543,1036 1185,992 846,1041"/>
+                <Baseline points="860,1070 964,1075 1069,1075 1173,1079 1278,1081 1382,1081 1487,1081 1591,1085 1696,1082 1800,1081 1905,1081 2009,1081 2114,1081 2218,1087 2323,1087 2427,1087 2532,1083 2636,1076 2741,1075 2845,1075 2950,1075"/>
+                <TextEquiv>
+                    <Unicode>es geleich eben mit dem prort der püchſen ſeÿ Setʒ auch den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="846,1171 1639,1174 1887,1245 2097,1182 2256,1237 2430,1187 2733,1240 2816,1179 2959,1187 2959,1072 2229,1141 2025,1085 1705,1138 1653,1102 1510,1135 1391,1083 1207,1127 846,1080"/>
+                <Baseline points="860,1160 965,1160 1070,1163 1176,1166 1281,1166 1386,1171 1492,1169 1597,1172 1702,1172 1808,1177 1913,1175 2018,1172 2124,1172 2229,1173 2334,1177 2440,1177 2545,1177 2650,1177 2756,1177 2861,1177 2967,1172"/>
+                <TextEquiv>
+                    <Unicode>cirkel mitten darauff und ſuech das mittel des gehewſes der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="846,1314 975,1270 1132,1314 1220,1273 1438,1278 1479,1317 1843,1278 1937,1328 2039,1270 2174,1276 2254,1331 2559,1276 2915,1278 2915,1198 2612,1237 2433,1187 2204,1229 2099,1182 1895,1234 1262,1182 1124,1229 1019,1168 909,1201 846,1171"/>
+                <Baseline points="860,1262 963,1257 1066,1257 1169,1257 1272,1257 1375,1262 1478,1264 1581,1268 1684,1268 1787,1268 1890,1268 1993,1268 2096,1268 2199,1268 2302,1268 2405,1269 2508,1272 2611,1268 2714,1273 2817,1268 2921,1268"/>
+                <TextEquiv>
+                    <Unicode>püchſen gar eben / ſo haſtu das Mittel der püchſen innen Vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="851,1383 1033,1342 1317,1405 1581,1355 1816,1408 2256,1355 2419,1408 2637,1366 2915,1411 2915,1276 2741,1309 2562,1276 2251,1333 2041,1273 1942,1325 1862,1284 1479,1317 1295,1267 851,1322"/>
+                <Baseline points="866,1353 968,1341 1071,1341 1174,1345 1277,1347 1379,1347 1482,1349 1585,1353 1688,1353 1790,1353 1893,1353 1996,1358 2099,1358 2201,1354 2304,1353 2407,1358 2510,1358 2612,1358 2715,1363 2818,1364 2921,1364"/>
+                <TextEquiv>
+                    <Unicode>vor´n gerad geg̅n̅einander darnach nÿm ain gerades holcʒel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="840,1471 1028,1518 1174,1444 1333,1446 1413,1501 1537,1446 1612,1493 1997,1438 2714,1499 2953,1463 2953,1400 2843,1378 2659,1413 2259,1358 2127,1397 1967,1364 1832,1411 1581,1355 1320,1405 1204,1353 840,1380"/>
+                <Baseline points="855,1443 960,1437 1065,1432 1170,1436 1276,1432 1381,1438 1486,1438 1592,1438 1697,1438 1802,1438 1908,1440 2013,1440 2118,1438 2223,1439 2329,1443 2434,1443 2539,1443 2645,1443 2750,1449 2855,1449 2961,1449"/>
+                <TextEquiv>
+                    <Unicode>Vnd ſetʒ das auff den pun̅t̅t̅n̅ vnd nym die weit enʒwiſchent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="835,1554 2981,1562 2981,1471 2901,1455 2722,1499 2210,1441 1614,1493 1554,1460 1424,1501 1306,1444 1094,1446 1036,1501 835,1468"/>
+                <Baseline points="849,1534 955,1523 1062,1523 1169,1523 1276,1528 1382,1528 1489,1528 1596,1533 1703,1534 1809,1528 1916,1528 2023,1528 2130,1528 2236,1530 2343,1534 2450,1534 2557,1534 2663,1534 2770,1534 2877,1534 2984,1534"/>
+                <TextEquiv>
+                    <Unicode>dem äuſriſtn̅ prort des gehews der püchſen Vnd dem mittel des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="835,1672 1113,1620 1276,1692 1344,1628 2099,1628 2287,1670 2356,1634 2904,1631 2904,1565 2681,1540 2590,1584 2345,1535 2237,1568 1540,1526 1344,1576 1265,1540 835,1562"/>
+                <Baseline points="849,1613 952,1614 1055,1619 1158,1619 1261,1619 1364,1619 1467,1619 1570,1619 1673,1623 1776,1619 1879,1625 1982,1625 2085,1625 2188,1625 2291,1625 2394,1625 2497,1625 2600,1625 2703,1625 2806,1619 2910,1625"/>
+                <TextEquiv>
+                    <Unicode>punten Vnd ſneid das holcʒel alſo das es nicht weder lenger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="835,1714 1350,1760 1474,1722 1970,1733 2050,1777 2160,1725 2967,1727 2967,1656 2890,1631 2788,1675 2579,1631 2488,1678 2358,1634 2190,1672 2105,1628 1895,1664 1796,1625 1355,1631 1273,1692 1113,1617 835,1681"/>
+                <Baseline points="849,1710 955,1705 1061,1710 1167,1714 1273,1715 1379,1715 1485,1715 1592,1715 1698,1721 1804,1721 1910,1718 2016,1715 2122,1715 2228,1715 2335,1715 2441,1711 2547,1715 2653,1710 2759,1710 2865,1706 2972,1704"/>
+                <TextEquiv>
+                    <Unicode>noch kürcʒer ſey das holtʒel behaltt alʒeit vnd wen du aus der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="857,1849 1085,1810 1322,1824 1378,1873 1474,1832 1524,1882 1598,1829 1788,1824 1871,1868 2086,1818 2229,1873 2336,1818 2953,1843 2953,1725 2912,1714 2722,1755 2163,1725 2061,1780 1744,1722 1617,1782 1479,1722 1344,1771 857,1722"/>
+                <Baseline points="872,1800 976,1806 1080,1806 1185,1809 1289,1811 1394,1812 1498,1817 1603,1817 1707,1817 1812,1817 1916,1817 2020,1814 2125,1811 2229,1811 2334,1810 2438,1808 2543,1808 2647,1806 2752,1811 2856,1811 2961,1806"/>
+                <TextEquiv>
+                    <Unicode>ſelben püchſen ſchieſſen wilt ſo dan die püchs geladen iſt Vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="835,1920 1234,1904 1325,1945 1535,1912 1824,1981 1951,1909 2154,1978 2229,1909 2683,1906 2755,1962 2967,1962 2967,1851 2722,1813 2336,1868 2270,1835 2226,1871 2083,1818 1873,1868 1788,1824 1612,1832 1524,1882 1474,1832 1405,1873 1325,1824 1085,1810 835,1843"/>
+                <Baseline points="849,1891 955,1895 1061,1893 1167,1896 1273,1908 1379,1908 1485,1908 1592,1908 1698,1913 1804,1912 1910,1908 2016,1908 2122,1913 2228,1907 2335,1902 2441,1902 2547,1902 2653,1902 2759,1902 2865,1906 2972,1913"/>
+                <TextEquiv>
+                    <Unicode>an der ſtat leÿtt • Da du ſchieſſen wilt • ſo nÿm dem holcʒel secʒ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="835,2014 1110,1989 1289,2052 1565,2019 1614,2058 1653,2019 2061,2052 2146,2011 2940,2003 2884,1951 2581,1909 2229,1912 2154,1981 2050,1917 1818,1984 1703,1931 1507,1964 1449,1917 1212,1951 1108,1895 835,1948"/>
+                <Baseline points="849,1987 953,1987 1058,1987 1163,1987 1268,1993 1372,1998 1477,1998 1582,2002 1687,2004 1791,2004 1896,2004 2001,2004 2106,2004 2210,2004 2315,2002 2420,1998 2525,1998 2629,1998 2734,1997 2839,1995 2944,1993"/>
+                <TextEquiv>
+                    <Unicode>es gerad auff grecht auff den mittel punc̅t̅n̅ den du da hin an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="846,2094 1254,2088 1336,2135 1433,2094 1714,2154 1771,2102 1984,2149 2105,2105 2232,2146 2287,2099 2477,2141 2595,2102 2763,2154 2832,2105 2953,2116 2951,2003 2146,2008 2063,2052 1659,2014 1617,2058 1554,2017 1289,2052 1110,1989 843,2017"/>
+                <Baseline points="860,2078 965,2078 1070,2078 1175,2074 1280,2078 1385,2084 1490,2091 1595,2095 1700,2095 1805,2095 1910,2095 2015,2098 2120,2096 2225,2095 2330,2095 2435,2092 2540,2089 2645,2083 2750,2088 2855,2083 2961,2083"/>
+                <TextEquiv>
+                    <Unicode>an den poden gemacht haſt • So raget es fur den poden auff eben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="838,2226 1171,2174 1336,2232 1576,2176 2113,2237 2232,2198 2300,2254 2402,2198 2543,2240 2609,2193 2857,2218 2940,2187 2940,2119 2829,2108 2761,2157 2620,2108 2474,2141 2284,2099 2229,2149 2143,2108 1984,2146 1777,2108 1714,2154 1422,2091 1342,2135 1251,2088 835,2105"/>
+                <Baseline points="849,2163 953,2168 1058,2168 1163,2168 1268,2174 1372,2174 1477,2174 1582,2178 1687,2180 1791,2185 1896,2187 2001,2188 2106,2190 2210,2191 2315,2189 2420,2185 2525,2185 2629,2185 2734,2180 2839,2180 2944,2180"/>
+                <TextEquiv>
+                    <Unicode>ſo vil als das gehews von dem mittel ſeins pünts pis zu dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="840,2284 1138,2284 1198,2328 1273,2281 1416,2317 1603,2281 1664,2336 1840,2287 1975,2339 2163,2287 2322,2331 2513,2284 2744,2342 2865,2287 2953,2311 2951,2187 2857,2221 2609,2193 2548,2243 2452,2198 2300,2254 2232,2198 2146,2262 2063,2204 1631,2221 1579,2185 1328,2232 1003,2182 840,2232"/>
+                <Baseline points="855,2270 960,2270 1065,2270 1170,2270 1276,2270 1381,2270 1486,2270 1592,2274 1697,2281 1802,2282 1908,2287 2013,2291 2118,2288 2223,2286 2329,2281 2434,2281 2539,2281 2645,2281 2750,2281 2855,2278 2961,2276"/>
+                <TextEquiv>
+                    <Unicode>auſriſtem prort weiter iſt den der poden von ſein̅e̅ mittel pis an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="846,2400 1030,2422 1132,2367 1499,2419 1548,2378 1973,2422 2022,2383 2694,2386 2805,2424 2964,2378 2962,2309 2794,2292 2747,2342 2504,2281 2322,2331 2284,2295 2033,2298 1975,2339 1708,2292 1664,2336 1535,2278 1427,2320 1317,2284 1234,2331 1130,2284 950,2336 843,2300"/>
+                <Baseline points="860,2366 965,2365 1071,2361 1176,2361 1282,2361 1388,2362 1493,2369 1599,2372 1704,2372 1810,2377 1916,2375 2021,2381 2127,2378 2232,2382 2338,2378 2444,2378 2549,2378 2655,2372 2760,2372 2866,2368 2972,2366"/>
+                <TextEquiv>
+                    <Unicode>ſein prort iſt / den ſich gerad auff dem holcʒlein vber das prort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="840,2471 984,2526 1052,2460 1237,2496 2438,2474 2606,2482 2700,2535 2909,2477 2893,2380 2805,2427 2656,2386 2245,2394 2168,2433 1934,2386 840,2400"/>
+                <Baseline points="855,2463 958,2456 1061,2451 1164,2451 1267,2451 1370,2457 1473,2457 1576,2460 1679,2467 1782,2468 1885,2468 1988,2468 2091,2468 2194,2468 2297,2468 2400,2469 2503,2472 2606,2465 2709,2463 2812,2463 2916,2463"/>
+                <TextEquiv>
+                    <Unicode>der püchſen hin vnd wo hin dich dan das aug weÿſet Da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="840,2573 1182,2551 1284,2590 1369,2554 1438,2598 1661,2557 1788,2601 2182,2559 2620,2598 3014,2559 3014,2510 2912,2468 2703,2535 2507,2529 2438,2474 2328,2504 1044,2466 984,2526 840,2471"/>
+                <Baseline points="855,2542 963,2546 1071,2542 1179,2542 1287,2548 1395,2548 1503,2548 1612,2548 1720,2553 1828,2553 1936,2553 2044,2553 2152,2553 2260,2556 2369,2559 2477,2558 2585,2553 2693,2553 2801,2553 2909,2547 3018,2542"/>
+                <TextEquiv>
+                    <Unicode>hin iſt dan dÿe püchs nach gerede des mittels hin an vnd vor=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="835,2653 2000,2650 2160,2719 2243,2656 2295,2708 2455,2714 2601,2656 2934,2694 2964,2570 2612,2601 2163,2557 1956,2601 1887,2559 1785,2603 1727,2562 1435,2595 1361,2557 1287,2592 1182,2551 984,2595 832,2570"/>
+                <Baseline points="849,2633 955,2633 1061,2633 1167,2637 1273,2638 1379,2638 1485,2641 1592,2639 1698,2644 1804,2638 1910,2638 2016,2642 2122,2644 2228,2645 2335,2650 2441,2650 2547,2650 2653,2644 2759,2644 2865,2644 2972,2644"/>
+                <TextEquiv>
+                    <Unicode>nen gerichtet Das du nach rechter maſſen ſchieſſen macht vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="835,2736 1559,2749 1645,2796 1890,2738 1951,2780 2948,2766 2948,2694 2829,2659 2565,2661 2455,2714 2298,2711 2226,2656 2160,2716 2052,2656 835,2659"/>
+                <Baseline points="849,2723 954,2724 1059,2729 1164,2733 1270,2729 1375,2729 1480,2731 1586,2734 1691,2734 1796,2734 1902,2734 2007,2734 2112,2734 2217,2734 2323,2736 2428,2740 2533,2745 2639,2740 2744,2740 2849,2737 2955,2740"/>
+                <TextEquiv>
+                    <Unicode>ob die püchs eyſnein ring oder anders oben auff hat • das dir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="835,2843 956,2898 1234,2843 1364,2882 1501,2843 1620,2887 1984,2851 2149,2898 2356,2849 2948,2865 2948,2766 2838,2738 2648,2774 2515,2741 2471,2785 2267,2749 2146,2794 2036,2752 1846,2788 1791,2749 1535,2799 1449,2741 1339,2785 1295,2741 1000,2772 835,2736"/>
+                <Baseline points="849,2819 954,2826 1059,2828 1164,2825 1270,2831 1375,2831 1480,2833 1586,2836 1691,2842 1796,2836 1902,2836 2007,2840 2112,2842 2217,2847 2323,2842 2428,2838 2533,2836 2639,2836 2744,2829 2849,2825 2955,2819"/>
+                <TextEquiv>
+                    <Unicode>die geſichkt hinder mag • So wend die püchs ain klain vmb das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="824,2942 1096,2937 1229,2989 1339,2937 2240,2975 2989,2931 2989,2862 2884,2846 2243,2854 2141,2893 1887,2843 1620,2890 1438,2840 959,2898 887,2835 824,2849"/>
+                <Baseline points="838,2927 945,2921 1053,2922 1161,2925 1269,2925 1377,2927 1485,2928 1592,2933 1700,2933 1808,2933 1916,2933 2024,2936 2132,2938 2240,2938 2347,2940 2455,2940 2563,2938 2671,2932 2779,2927 2887,2919 2995,2916"/>
+                <TextEquiv>
+                    <Unicode>die ring peſeÿts koment wen wan es nicht geʒaichent iſt wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="840,3050 2047,3033 2124,3094 2259,3044 2449,3077 2504,3039 2581,3091 2692,3039 2780,3077 2959,3050 2956,2959 2860,2937 2375,2942 2254,2989 2152,2948 1692,2934 1603,2973 1336,2940 1267,2986 1088,2937 838,2948"/>
+                <Baseline points="855,3023 960,3018 1066,3018 1171,3018 1277,3012 1383,3013 1488,3018 1594,3022 1699,3023 1805,3023 1911,3023 2016,3027 2122,3035 2227,3034 2333,3031 2439,3035 2544,3035 2650,3029 2755,3029 2861,3025 2967,3029"/>
+                <TextEquiv>
+                    <Unicode>die püchs gewendet wirdet wan auff welicher ſeytt̅n̅ ſy leÿt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="815,3179 942,3116 1052,3157 1149,3113 1254,3154 1975,3121 2105,3163 2193,3124 2736,3154 3030,3108 3030,3064 2862,3036 2772,3086 2529,3033 2449,3077 2204,3047 2124,3094 2047,3030 1719,3066 1471,3025 1091,3061 893,3030 815,3066"/>
+                <Baseline points="832,3120 942,3114 1052,3114 1162,3108 1272,3108 1382,3108 1492,3108 1603,3115 1713,3117 1823,3118 1933,3120 2043,3120 2153,3116 2263,3124 2374,3124 2484,3123 2594,3121 2704,3120 2814,3118 2924,3114 3035,3103"/>
+                <TextEquiv>
+                    <Unicode>So haſtu allʒeit das mittel Vnd bedorffſt du kains quadran=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="824,3218 2948,3234 2926,3121 2758,3163 2700,3130 2245,3165 1573,3116 1254,3154 1141,3110 973,3188 824,3165"/>
+                <Baseline points="838,3204 943,3206 1049,3210 1155,3210 1261,3204 1367,3210 1473,3210 1578,3210 1684,3210 1790,3210 1896,3210 2002,3210 2108,3210 2214,3204 2319,3204 2425,3204 2531,3199 2637,3204 2743,3201 2849,3194 2955,3199"/>
+                <TextEquiv>
+                    <Unicode>ten nicht vnd iſt pehentt vnd ring ʒe tuen vnd enkan doch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="826,3320 1091,3306 1267,3347 1347,3306 1490,3345 1584,3312 1656,3364 1788,3325 1854,3369 2234,3300 2477,3372 2918,3342 2918,3204 2284,3251 2201,3218 1408,3248 1193,3212 975,3254 826,3215"/>
+                <Baseline points="843,3295 946,3295 1050,3295 1154,3295 1258,3297 1362,3301 1466,3301 1570,3301 1674,3304 1778,3301 1882,3301 1985,3295 2089,3295 2193,3295 2297,3295 2401,3295 2505,3295 2609,3295 2713,3292 2817,3289 2921,3284"/>
+                <TextEquiv>
+                    <Unicode>kainer von ʒue ſechen pegreiffen wie die menſur geſchicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="846,3416 945,3413 1003,3463 1141,3405 1333,3408 1394,3463 1433,3433 1507,3452 1551,3408 1692,3422 1692,3353 1581,3312 1493,3342 1347,3306 1273,3347 1174,3309 846,3334"/>
+                <Baseline points="860,3397 901,3397 943,3397 985,3397 1027,3396 1069,3393 1111,3391 1153,3391 1195,3391 1237,3391 1279,3391 1320,3394 1362,3397 1404,3397 1446,3397 1488,3397 1530,3397 1572,3394 1614,3391 1656,3391 1698,3391"/>
+                <TextEquiv>
+                    <Unicode>vnd genomen iſt e̅c̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="931,3504 1193,3502 1306,3562 1568,3504 1711,3570 1876,3518 1956,3570 2097,3502 2171,3554 2306,3507 2488,3537 2915,3499 2915,3422 2637,3380 2025,3438 1554,3411 1400,3466 1333,3405 1143,3413 931,3469"/>
+                <Baseline points="826,3499 1043,3493 1142,3493 1241,3496 1340,3499 1439,3499 1537,3499 1636,3500 1735,3503 1834,3502 1933,3505 2031,3505 2130,3499 2229,3499 2328,3499 2427,3499 2525,3499 2624,3499 2723,3499 2822,3494 2921,3499"/>
+                <TextEquiv>
+                    <Unicode>Iin ander frag ob die püchs pas lige lind oder hertt • So</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="857,3620 1546,3612 1625,3656 1725,3609 2094,3667 2157,3623 2962,3612 2962,3488 2482,3535 2303,3507 2174,3554 2044,3515 1956,3570 1780,3526 1716,3579 1565,3502 1402,3562 1187,3502 857,3562"/>
+                <Baseline points="972,3596 1081,3598 1186,3595 1291,3595 1395,3601 1500,3601 1605,3601 1710,3601 1814,3606 1919,3606 2024,3606 2129,3606 2233,3606 2338,3606 2443,3606 2548,3602 2652,3601 2757,3600 2862,3592 2967,3595"/>
+                <TextEquiv>
+                    <Unicode>iſt ain antwürtt wen ſy hertt ligt ſo prichet hertes wider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="945,3796 1223,3750 1488,3785 1664,3744 1909,3794 2973,3761 2970,3645 2794,3604 2537,3604 2444,3670 2240,3620 2036,3678 1926,3615 1766,3645 1697,3612 1625,3659 1540,3620 1444,3656 1342,3606 1209,3642 942,3620"/>
+                <Baseline points="956,3697 1057,3691 1158,3691 1259,3688 1360,3686 1461,3691 1562,3691 1663,3693 1764,3700 1865,3703 1967,3703 2068,3703 2169,3704 2270,3708 2371,3708 2472,3708 2573,3708 2674,3708 2775,3708 2876,3708 2978,3714"/>
+                <TextEquiv>
+                    <Unicode>hertes vnd mag nicht peſtan vnd dar vmb ſo ſol man dÿe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Item ain höffleiche kunſt wie man nach maſſen aus der püc̅h̅ſ̅n̅
+ſchieſſen ſol • So • ſuech den mittliſ̅t̅n̅ punc̅t̅n̅ mit aine̅ cirkel aus=
+wendig dahin dan an dem poden der püchſen darnach tue
+ain ſchindel mitten ʒu vödriſt in das gehews Vber twerchs das
+es geleich eben mit dem prort der püchſen ſeÿ Setʒ auch den
+cirkel mitten darauff und ſuech das mittel des gehewſes der
+püchſen gar eben / ſo haſtu das Mittel der püchſen innen Vnd
+vor´n gerad geg̅n̅einander darnach nÿm ain gerades holcʒel
+Vnd ſetʒ das auff den pun̅t̅t̅n̅ vnd nym die weit enʒwiſchent
+dem äuſriſtn̅ prort des gehews der püchſen Vnd dem mittel des
+punten Vnd ſneid das holcʒel alſo das es nicht weder lenger
+noch kürcʒer ſey das holtʒel behaltt alʒeit vnd wen du aus der
+ſelben püchſen ſchieſſen wilt ſo dan die püchs geladen iſt Vnd
+an der ſtat leÿtt • Da du ſchieſſen wilt • ſo nÿm dem holcʒel secʒ
+es gerad auff grecht auff den mittel punc̅t̅n̅ den du da hin an
+an den poden gemacht haſt • So raget es fur den poden auff eben
+ſo vil als das gehews von dem mittel ſeins pünts pis zu dem
+auſriſtem prort weiter iſt den der poden von ſein̅e̅ mittel pis an
+ſein prort iſt / den ſich gerad auff dem holcʒlein vber das prort
+der püchſen hin vnd wo hin dich dan das aug weÿſet Da
+hin iſt dan dÿe püchs nach gerede des mittels hin an vnd vor=
+nen gerichtet Das du nach rechter maſſen ſchieſſen macht vnd
+ob die püchs eyſnein ring oder anders oben auff hat • das dir
+die geſichkt hinder mag • So wend die püchs ain klain vmb das
+die ring peſeÿts koment wen wan es nicht geʒaichent iſt wie
+die püchs gewendet wirdet wan auff welicher ſeytt̅n̅ ſy leÿt
+So haſtu allʒeit das mittel Vnd bedorffſt du kains quadran=
+ten nicht vnd iſt pehentt vnd ring ʒe tuen vnd enkan doch
+kainer von ʒue ſechen pegreiffen wie die menſur geſchicht
+vnd genomen iſt e̅c̅
+Ein ander frag ob die püchs pas lige lind oder hertt • So
+iſt ain antwürtt wen ſy hertt ligt ſo prichet hertes wider
+hertes vnd mag nicht peſtan vnd dar vmb ſo ſol man dÿe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=217813:lm=none:date=01_12_2024_14:04</Creator>
+        <Created>2024-11-08T12:48:18.850+01:00</Created>
+        <LastChange>2024-12-18T16:57:46.172+01:00</LastChange>
+        <TranskribusMetadata docId="5062996" pageId="82718525" pageNr="14" tsid="213513514" status="DONE" userId="213982" imgUrl="https://files.transkribus.eu/Get?id=OVAWZJVTKLXPKEDSVPXOWSDM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IXSKCGDITHBMSVTGXVOTHIDV" imageId="68064744"/>
+    </Metadata>
+    <Page imageFilename="DOD_51276-0014.jpeg" imageWidth="3481" imageHeight="4832">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603044681" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="516,674 516,3728 2755,3728 2755,674"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="618,771 862,760 921,795 1054,755 1175,795 1255,755 1590,781 1686,744 2168,776 2331,731 2599,760 2625,599 2532,640 2451,591 2368,648 1980,640 1911,674 1702,621 1346,674 1140,610 851,669 618,634"/>
+                <Baseline points="632,742 731,748 831,748 931,748 1031,744 1130,742 1230,742 1330,742 1430,742 1529,740 1629,736 1729,736 1829,736 1928,736 2028,735 2128,730 2228,730 2327,730 2427,730 2527,730 2627,719"/>
+                <TextEquiv>
+                    <Unicode>du geleichiſt macht vnd tilig die ʒwē ſawber ab • Wen das geſchehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="634,862 1624,832 1983,872 2128,832 2633,830 2612,768 2510,739 2422,773 2334,728 2251,779 1686,744 1592,781 1252,755 1172,795 1108,757 921,795 880,760 637,768"/>
+                <Baseline points="649,841 748,841 848,839 947,835 1047,831 1146,829 1246,829 1345,829 1445,827 1544,823 1644,823 1743,819 1843,817 1942,817 2042,813 2141,817 2241,815 2340,812 2440,808 2539,806 2639,806"/>
+                <TextEquiv>
+                    <Unicode>iſt • So ſuech aín míttel So du aller ēb̄ēniſt magſt • Entʒwiſchen denn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="629,953 1073,971 1242,926 1309,966 1582,918 1873,971 2071,905 2189,953 2232,915 2660,894 2663,827 2128,832 1980,875 1793,832 1153,886 985,840 741,891 629,864"/>
+                <Baseline points="643,933 744,928 845,928 946,922 1048,922 1149,922 1250,922 1351,917 1453,916 1554,910 1655,910 1756,910 1858,906 1959,900 2060,899 2161,899 2263,897 2364,893 2465,889 2566,882 2668,881"/>
+                <TextEquiv>
+                    <Unicode>̄ÿecʒgeſchrīb̄n̄ punct̄ē • Vnd dem aller erſten punc̄t̄ē den du ōb̄n̄ in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="634,1081 736,1028 945,1060 1089,1012 1178,1065 1234,1028 1461,1057 1555,1014 1699,1049 1769,1006 1884,1054 2061,1006 2623,1033 2644,902 1876,969 1579,918 1461,961 1389,929 1325,966 1239,929 637,953"/>
+                <Baseline points="649,1009 748,1015 848,1015 948,1015 1048,1011 1148,1014 1247,1015 1347,1009 1447,1008 1547,1003 1647,1000 1746,997 1846,992 1946,991 2046,991 2146,990 2245,986 2345,983 2445,980 2545,975 2645,968"/>
+                <TextEquiv>
+                    <Unicode>podem genom̄ē haſt • vnd punctíer da aínē punc̄t̄ē • Vnd tilig die ʒw̄ē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="634,1148 1434,1100 1517,1148 1598,1103 1930,1100 2007,1137 2320,1084 2443,1135 2655,1097 2655,1028 2473,998 1970,1014 1884,1054 1782,1009 1675,1052 1531,1017 1424,1062 1234,1022 1178,1065 1095,1020 945,1060 870,1022 637,1081"/>
+                <Baseline points="649,1113 749,1113 850,1107 950,1107 1051,1107 1152,1107 1252,1107 1353,1102 1454,1096 1554,1096 1655,1093 1756,1090 1856,1086 1957,1079 2058,1078 2158,1078 2259,1076 2360,1073 2460,1073 2561,1068 2662,1061"/>
+                <TextEquiv>
+                    <Unicode>auch wider ab • dan haſt du erſt die rechten tieff durch das vaſs enweg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="610,1223 787,1207 889,1279 993,1210 1507,1250 1576,1196 2385,1212 2679,1172 2679,1116 2617,1087 2443,1135 2318,1084 2235,1135 1996,1140 1922,1097 1555,1151 1437,1100 610,1170"/>
+                <Baseline points="626,1206 734,1203 842,1200 951,1200 1059,1200 1167,1200 1276,1200 1384,1200 1492,1198 1601,1191 1709,1189 1818,1183 1926,1180 2034,1171 2143,1166 2251,1165 2359,1164 2468,1160 2576,1160 2685,1154"/>
+                <TextEquiv>
+                    <Unicode>vnd den punt behalt ēb̄n̄ / Nu nÿm ain maſs mit ain̄ē höltʒleín • wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="624,1338 958,1306 1022,1360 1081,1311 1327,1341 1485,1298 1683,1343 1788,1295 2149,1317 2237,1277 2360,1330 2516,1266 2751,1295 2754,1191 2684,1161 2596,1220 2385,1223 2152,1183 2082,1236 2015,1196 1579,1199 1507,1250 1416,1212 990,1212 891,1279 690,1215 626,1258"/>
+                <Baseline points="638,1305 743,1305 849,1304 955,1299 1061,1299 1167,1295 1273,1293 1378,1287 1484,1285 1590,1281 1696,1281 1802,1281 1908,1274 2014,1270 2119,1270 2225,1265 2331,1264 2437,1262 2543,1258 2649,1258 2755,1252"/>
+                <TextEquiv>
+                    <Unicode>Weit die tawf̄ēl̄n̄ vor an dem vaſs fur den vorderʼn boden heraus wíchent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="642,1451 1646,1384 1772,1413 2010,1381 2130,1426 2208,1378 2631,1392 2633,1287 2567,1269 2360,1330 2240,1277 2152,1322 1782,1293 1683,1343 1539,1301 1327,1341 1084,1309 1022,1360 843,1309 648,1327"/>
+                <Baseline points="661,1409 759,1407 858,1400 957,1397 1056,1397 1155,1392 1254,1386 1353,1386 1452,1384 1551,1380 1650,1380 1748,1375 1847,1369 1946,1368 2045,1368 2144,1366 2243,1360 2342,1357 2441,1357 2540,1352 2639,1345"/>
+                <TextEquiv>
+                    <Unicode>vnd als weit das ſeÿ So mach das ʒaichen geleích noch aín mal als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="645,1507 969,1536 1397,1485 1662,1525 1721,1485 2138,1496 2277,1456 2398,1501 2524,1461 2575,1499 2623,1493 2625,1402 2427,1365 2138,1426 1903,1381 1563,1394 1483,1440 1180,1402 645,1451"/>
+                <Baseline points="661,1490 759,1493 858,1486 956,1484 1055,1484 1154,1484 1252,1479 1351,1479 1449,1479 1548,1476 1647,1473 1745,1468 1844,1467 1942,1461 2041,1460 2140,1453 2238,1450 2337,1450 2435,1446 2534,1444 2633,1438"/>
+                <TextEquiv>
+                    <Unicode>weit für daʒ raichen der tauffell für den hinderʼn poden • Vnd den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="634,1587 1119,1614 1362,1582 1469,1619 1662,1571 1721,1603 1828,1560 2114,1560 2160,1600 2251,1558 2326,1592 2425,1544 2545,1560 2628,1493 2521,1461 2390,1499 2275,1456 1798,1517 1737,1483 1595,1531 1261,1493 958,1539 846,1496 634,1547"/>
+                <Baseline points="649,1583 748,1581 847,1574 946,1571 1045,1571 1145,1571 1244,1571 1343,1571 1442,1569 1541,1566 1641,1562 1740,1560 1839,1555 1938,1554 2037,1553 2137,1545 2236,1539 2335,1539 2434,1537 2533,1532 2633,1525"/>
+                <TextEquiv>
+                    <Unicode>ním aber eíner taufel weit dar ʒu fur die dickch der beden pödenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="602,1721 816,1732 929,1683 1210,1718 1397,1673 1477,1718 1662,1665 1836,1707 2005,1649 2047,1694 2189,1651 2245,1697 2336,1643 2585,1673 2636,1641 2639,1552 2422,1544 2352,1592 2251,1558 2162,1600 2031,1560 1967,1603 1823,1560 1568,1622 889,1582 605,1624"/>
+                <Baseline points="620,1682 726,1676 832,1675 938,1670 1045,1666 1151,1664 1257,1664 1363,1664 1470,1664 1576,1660 1682,1653 1788,1646 1895,1641 2001,1641 2107,1636 2213,1634 2320,1632 2426,1632 2532,1630 2639,1624"/>
+                <TextEquiv>
+                    <Unicode>Wen bed pöden ſeínd alleweg an der dikch des holtʒes fur aínʼ taufel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="624,1782 760,1774 830,1820 988,1772 1662,1750 1750,1785 1839,1737 2149,1734 2302,1774 2382,1726 2679,1729 2682,1638 2585,1673 2339,1641 2243,1694 2093,1662 2047,1694 2005,1651 1839,1707 1710,1667 1480,1715 1421,1675 1349,1721 1295,1681 1212,1718 626,1707"/>
+                <Baseline points="638,1769 740,1765 842,1763 945,1763 1047,1757 1149,1755 1252,1751 1354,1755 1456,1752 1559,1751 1661,1745 1763,1740 1866,1736 1968,1734 2070,1734 2173,1727 2275,1722 2377,1720 2480,1717 2582,1717 2685,1699"/>
+                <TextEquiv>
+                    <Unicode>leng geſchëtʒt / Wen du aber der dreÿer taufel oder garglen • leng al  ̷</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="653,1895 725,1873 779,1914 832,1873 931,1914 1001,1868 1159,1911 1357,1852 1590,1892 1673,1849 1729,1897 1790,1852 2500,1809 2647,1847 2649,1729 2382,1726 2304,1774 2173,1732 1946,1793 1839,1737 1742,1788 1619,1748 1464,1798 1113,1764 990,1814 931,1777 653,1836"/>
+                <Baseline points="667,1862 766,1862 865,1859 964,1852 1063,1850 1162,1845 1261,1844 1361,1844 1460,1844 1559,1844 1658,1840 1757,1834 1856,1833 1955,1827 2055,1825 2154,1815 2253,1812 2352,1809 2451,1805 2550,1799 2650,1792"/>
+                <TextEquiv>
+                    <Unicode>ſo geʒaichent vnd ʒeſam̄ē geſlagn̄ haſt • Die selbiḡn̄ leng leg nu ʒu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="634,1980 771,2021 897,1964 977,2002 1028,1962 1386,1978 1788,1927 1839,1964 1946,1932 2031,1983 2128,1919 2596,1924 2636,1911 2641,1814 2561,1849 2500,1809 2037,1833 1740,1895 1247,1863 1183,1908 996,1868 929,1914 832,1879 776,1914 701,1876 637,1916"/>
+                <Baseline points="649,1960 748,1960 848,1958 948,1954 1048,1954 1148,1950 1247,1943 1347,1948 1447,1943 1547,1938 1647,1931 1746,1931 1846,1926 1946,1920 2046,1908 2146,1906 2245,1900 2345,1896 2445,1896 2545,1892 2645,1873"/>
+                <TextEquiv>
+                    <Unicode>vodriſt auff das vaſs • Alſo das es dem vaſs auff dem auſriſten des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="632,2112 848,2061 1070,2101 1178,2055 1533,2074 2275,2002 2575,2029 2655,1996 2658,1948 2256,1911 2117,1919 2031,1983 1938,1932 1847,1972 1780,1924 1558,1972 977,1999 905,1967 824,2021 637,1972"/>
+                <Baseline points="649,2059 749,2059 850,2052 950,2047 1051,2047 1152,2043 1252,2041 1353,2041 1454,2035 1554,2030 1655,2027 1756,2020 1856,2014 1957,2012 2058,2007 2158,2000 2259,1995 2360,1992 2460,1989 2561,1984 2662,1966"/>
+                <TextEquiv>
+                    <Unicode>brartʒ geleich lig • Vnd dan dein viſier ruet̄n̄ an das ſelb die leng ge  ̷</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="640,2168 1325,2130 1464,2189 1897,2117 2508,2117 2652,2104 2658,1996 2406,2010 2339,2053 2170,2015 2096,2061 2031,2018 1806,2077 1271,2053 1060,2101 1020,2058 642,2101"/>
+                <Baseline points="655,2152 755,2146 855,2140 956,2138 1056,2134 1156,2134 1257,2129 1357,2128 1457,2128 1558,2126 1658,2120 1758,2113 1859,2111 1959,2105 2059,2105 2160,2096 2260,2088 2360,2088 2461,2084 2561,2072 2662,2059"/>
+                <TextEquiv>
+                    <Unicode>rad vber das vaſs hin • Vnd mag die ruett dem vaſs nit an das end</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="650,2269 1582,2221 1710,2267 1798,2219 1954,2248 2096,2205 2553,2205 2671,2189 2674,2098 2451,2101 2377,2144 2336,2109 2216,2154 1724,2138 1555,2184 1394,2144 653,2165"/>
+                <Baseline points="667,2233 767,2221 868,2221 968,2219 1069,2218 1170,2217 1270,2215 1371,2221 1471,2214 1572,2210 1673,2210 1773,2206 1874,2204 1974,2199 2075,2198 2176,2191 2276,2182 2377,2175 2477,2171 2578,2169 2679,2157"/>
+                <TextEquiv>
+                    <Unicode>geraichen • So ſtuphff mit ainē meſſer darfur da si erwíndt • Vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="640,2355 1202,2307 1386,2360 1515,2304 1646,2350 1889,2342 1948,2294 2374,2326 2433,2288 2516,2339 2633,2310 2636,2195 2229,2243 2093,2208 2023,2248 1801,2213 1713,2267 1649,2232 1164,2267 851,2229 642,2269"/>
+                <Baseline points="655,2314 754,2312 853,2308 952,2308 1051,2304 1151,2298 1250,2297 1349,2297 1448,2297 1547,2294 1647,2291 1746,2291 1845,2286 1944,2285 2043,2279 2143,2276 2242,2268 2341,2265 2440,2258 2539,2256 2639,2250"/>
+                <TextEquiv>
+                    <Unicode>ʒewch oder leg die ruett fur das meſſer als der tuech mit ain̄ē ēl̄l̄n̄ ſtab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="645,2419 760,2462 862,2406 1054,2449 1100,2409 1483,2393 1558,2443 1678,2403 1828,2422 1889,2377 2021,2438 2264,2382 2406,2433 2510,2358 2636,2368 2639,2307 1975,2302 1758,2352 1496,2315 1386,2360 996,2312 905,2363 781,2323 715,2371 645,2352"/>
+                <Baseline points="661,2401 760,2405 859,2401 958,2397 1057,2390 1157,2389 1256,2389 1355,2388 1454,2384 1553,2381 1653,2378 1752,2378 1851,2378 1950,2378 2049,2371 2149,2364 2248,2360 2347,2357 2446,2355 2545,2355 2645,2343"/>
+                <TextEquiv>
+                    <Unicode>miſſet • vnd ʒell dan eben an der ruet • wie vil lengen der maſſen oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="653,2510 974,2500 1079,2548 1226,2497 1354,2529 1392,2492 1560,2494 1651,2534 1774,2484 2700,2484 2703,2377 2513,2363 2403,2425 2261,2385 2013,2435 1889,2379 1772,2443 1697,2403 1558,2446 1480,2393 1376,2430 1103,2409 974,2446 859,2409 765,2462 656,2443"/>
+                <Baseline points="667,2494 769,2494 871,2489 973,2488 1075,2488 1177,2488 1279,2488 1381,2484 1483,2482 1585,2476 1687,2475 1789,2471 1891,2471 1993,2471 2095,2471 2197,2464 2299,2459 2401,2456 2503,2453 2605,2448 2708,2447"/>
+                <TextEquiv>
+                    <Unicode>viertail das vaſs lang ſeÿ • Wen wÿſs ʒegeleicher weiſs als du an der rütn̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="634,2649 891,2593 2708,2583 2708,2494 2625,2459 2152,2513 1777,2486 1651,2534 1560,2494 1434,2532 1392,2494 1279,2550 1226,2500 1070,2548 637,2516"/>
+                <Baseline points="649,2581 752,2590 855,2583 958,2581 1062,2581 1165,2580 1268,2575 1371,2572 1475,2569 1578,2569 1681,2563 1784,2563 1888,2566 1991,2561 2094,2562 2197,2558 2301,2558 2404,2555 2507,2548 2610,2546 2714,2540"/>
+                <TextEquiv>
+                    <Unicode>die tieff der viertail mit der ʒal geʒaichent haſt • das acht maſs eín qͧrtꝭ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="640,2716 889,2695 977,2738 1068,2684 1258,2722 1341,2682 1576,2711 1873,2663 2577,2692 2647,2666 2649,2609 2387,2567 2267,2615 2045,2567 1988,2615 1748,2580 1579,2617 1517,2580 1373,2623 1231,2583 640,2641"/>
+                <Baseline points="655,2674 755,2679 855,2678 955,2671 1055,2668 1155,2668 1255,2668 1355,2662 1455,2662 1555,2660 1655,2656 1755,2656 1855,2656 1955,2656 2055,2655 2155,2650 2255,2650 2355,2650 2455,2647 2555,2645 2656,2645"/>
+                <TextEquiv>
+                    <Unicode>tuent Alſo ſol es auch an den lengen geʒaíchent ſeín / das acht lengen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="629,2810 1560,2757 1970,2794 2165,2751 2248,2799 2537,2746 2727,2775 2711,2671 2607,2703 2521,2666 1812,2666 1670,2719 1523,2679 1252,2722 1068,2684 980,2738 883,2698 629,2703"/>
+                <Baseline points="643,2761 747,2767 851,2770 956,2763 1060,2761 1165,2761 1269,2755 1374,2755 1478,2755 1583,2755 1687,2755 1791,2749 1896,2749 2000,2745 2105,2743 2209,2743 2314,2743 2418,2743 2523,2739 2627,2737 2732,2732"/>
+                <TextEquiv>
+                    <Unicode>der māſ̄ſ̄n̄ aín leng ains viertals tuent • Vnd wē das vaſs alſo gantʒ nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="640,2882 1028,2869 1089,2920 1314,2853 1386,2904 1477,2853 1590,2890 1737,2848 1855,2888 2037,2850 2200,2901 2366,2848 2666,2877 2714,2874 2716,2759 640,2810"/>
+                <Baseline points="655,2859 758,2862 861,2861 964,2859 1068,2853 1171,2853 1274,2851 1377,2848 1481,2843 1584,2842 1687,2841 1790,2836 1894,2836 1997,2832 2100,2835 2203,2836 2307,2836 2410,2836 2513,2836 2616,2836 2720,2830"/>
+                <TextEquiv>
+                    <Unicode>der leng gemeſſen haſt So ʒaichen es auch aigenleích mít der krïden etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="500,3005 1081,2965 1180,3021 1261,2965 1873,2960 1980,3016 2157,2955 2652,2995 2633,2858 2197,2909 2093,2861 1868,2896 1683,2850 1584,2898 1544,2869 1255,2917 1178,2882 1084,2920 1025,2869 701,2906 589,2831 500,2853"/>
+                <Baseline points="516,2975 623,2962 730,2963 837,2963 944,2958 1051,2958 1158,2958 1265,2958 1372,2957 1479,2952 1586,2952 1693,2952 1800,2952 1907,2950 2014,2946 2121,2946 2228,2946 2335,2946 2442,2946 2549,2946 2656,2940"/>
+                <TextEquiv>
+                    <Unicode>// Nu ſiech an die tieff Vnd merkch wíe mänig tieff der viertal es enhab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="634,3086 1231,3059 1389,3123 1528,3062 1592,3099 1683,3062 1897,3094 1991,3054 2087,3104 2425,3048 2674,3086 2674,2989 2451,2968 2387,3003 2203,2960 1978,3013 1876,2960 1592,2968 1536,3008 1261,2965 1180,3019 1079,2973 634,2979"/>
+                <Baseline points="649,3045 750,3050 852,3051 953,3051 1055,3051 1156,3051 1258,3051 1359,3051 1461,3051 1562,3051 1664,3049 1765,3045 1867,3045 1968,3045 2070,3045 2171,3045 2273,3045 2374,3042 2476,3039 2577,3034 2679,3033"/>
+                <TextEquiv>
+                    <Unicode>darvmb merkch mit kürtʒ das ich dier den ſin weſchaid • als ob es nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="634,3206 867,3153 955,3190 1196,3158 1282,3206 1410,3145 1509,3201 1713,3142 2130,3179 2652,3142 2652,3054 2569,3048 2162,3102 1967,3059 1584,3102 1525,3064 1394,3121 1228,3059 1108,3099 1012,3067 851,3104 776,3064 634,3102"/>
+                <Baseline points="649,3143 749,3143 849,3138 950,3140 1050,3140 1150,3138 1251,3138 1351,3138 1451,3138 1552,3138 1652,3138 1752,3138 1853,3133 1953,3132 2053,3132 2154,3131 2254,3128 2354,3135 2455,3134 2555,3127 2656,3126"/>
+                <TextEquiv>
+                    <Unicode>an der tieff käm auff • vi • qͧrtꝭ • vnd an der leng auff xij qͧrtꝭ • das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="624,3284 1509,3233 1579,3278 1956,3230 2561,3268 2649,3252 2652,3142 2296,3190 1713,3142 1507,3201 1410,3145 1282,3206 1103,3153 624,3198"/>
+                <Baseline points="638,3236 738,3236 839,3231 940,3231 1041,3233 1142,3236 1243,3232 1344,3231 1445,3231 1546,3231 1647,3231 1747,3228 1848,3225 1949,3220 2050,3213 2151,3214 2252,3219 2353,3219 2454,3219 2555,3219 2656,3213"/>
+                <TextEquiv>
+                    <Unicode>wer´n so es ʒe ſam̄ē geſlaḡē wer lxxii qͧrtꝭ • die in das vaſs giengē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="634,3343 929,3335 988,3375 1244,3335 1343,3383 1429,3332 1844,3369 1930,3329 2679,3311 2679,3233 2556,3273 2441,3233 2269,3273 2178,3230 2133,3262 1823,3236 1718,3281 1517,3236 634,3278"/>
+                <Baseline points="649,3329 750,3329 852,3323 954,3323 1056,3323 1158,3321 1259,3318 1361,3318 1463,3323 1565,3322 1667,3318 1768,3318 1870,3318 1972,3313 2074,3306 2176,3306 2277,3306 2379,3309 2481,3308 2583,3306 2685,3300"/>
+                <TextEquiv>
+                    <Unicode>wē ʒe Sechſmal ʒwelff • oder ʒe ʒwelff māl̄n̄ Sechs • werdent ʒwai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="640,3436 1261,3423 1341,3466 1440,3426 1539,3479 1649,3423 1868,3474 2152,3415 2232,3466 2291,3426 2411,3468 2564,3428 2647,3476 2700,3452 2700,3356 2521,3324 2069,3324 1860,3372 1657,3329 1493,3369 1437,3332 1343,3383 1234,3332 1033,3372 929,3335 640,3348"/>
+                <Baseline points="655,3416 757,3419 860,3416 962,3416 1065,3411 1168,3414 1270,3410 1373,3410 1476,3410 1578,3410 1681,3410 1784,3410 1886,3407 1989,3405 2092,3405 2194,3405 2297,3405 2400,3405 2502,3405 2605,3405 2708,3399"/>
+                <TextEquiv>
+                    <Unicode>vnd Sübencʒig • Des geleich ob der tieff vnd auch der lengē mer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="640,3541 1394,3519 1592,3583 1710,3525 2711,3535 2711,3452 2647,3476 2564,3431 2390,3468 2291,3426 2224,3474 2138,3423 1871,3474 1724,3442 1539,3482 1386,3436 1175,3482 958,3423 715,3436 640,3482"/>
+                <Baseline points="655,3515 763,3515 871,3512 980,3513 1088,3515 1196,3509 1305,3509 1413,3509 1521,3509 1630,3509 1738,3509 1847,3513 1955,3515 2063,3514 2172,3509 2280,3509 2388,3509 2497,3509 2605,3511 2714,3515"/>
+                <TextEquiv>
+                    <Unicode>oder mÿnner werʼn es wer wenig oder vil So ſoltu alleweg ÿekleích</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="640,3624 744,3664 969,3621 1041,3674 1124,3621 1448,3658 1504,3624 1566,3661 1860,3616 1946,3664 2071,3618 2232,3661 2377,3624 2700,3653 2700,3549 2652,3527 2387,3557 2178,3525 2074,3570 1938,3522 1868,3559 1678,3527 1592,3583 1394,3519 640,3546"/>
+                <Baseline points="655,3608 757,3609 860,3611 962,3608 1065,3608 1168,3612 1270,3613 1373,3613 1476,3613 1578,3610 1681,3608 1784,3608 1886,3608 1989,3608 2092,3608 2194,3611 2297,3609 2400,3608 2502,3613 2605,3613 2708,3608"/>
+                <TextEquiv>
+                    <Unicode>tieff als dikch rechenē als wenig leng es hat • Oder yede leng als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="629,3760 1049,3709 1327,3771 1421,3739 1860,3776 1932,3717 2261,3765 2468,3717 2540,3771 2679,3771 2682,3648 2625,3626 2272,3666 2149,3618 1946,3666 1892,3618 1758,3656 1675,3621 1616,3661 1124,3621 1041,3674 907,3613 744,3661 632,3640"/>
+                <Baseline points="643,3695 745,3705 847,3700 949,3700 1051,3704 1153,3706 1255,3706 1357,3706 1459,3706 1561,3706 1664,3702 1766,3700 1868,3700 1970,3700 2072,3702 2174,3702 2276,3700 2378,3700 2480,3701 2582,3704 2685,3700"/>
+                <TextEquiv>
+                    <Unicode>dikch rechnen als menig treff es hat • Wen weberʼn weg du es alſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>du geleichiſt macht vnd tilig die ʒwe̅ ſawber ab • We̅n̅ das geſchehen
+iſt So ſuech ain mittel So du aller eb̅e̅niſt magſt • Entʒwiſchen denn
+ÿecʒgeſchri̅b̅n̅ punc̅t̅e̅ / Vnd dem aller erſten punc̅t̅e̅ den du ob̅n̅ in dem
+podem genom̅e̅ haſt • vnd punctier da ain̅e̅ punct̅e̅ / Vnd tilig die ʒw̅e̅
+auch wider ab • dan haſt du erſt die rechten tieff durch das vaſs enweg
+vnd den punt behalt ebn̅ / Nu nÿm ain maſs mit ain̅e̅ hölcʒlein • wie
+weit die taw̅f̅e̅l̅n̅ vor an dem vaſs fur den vordernʼ boden heraus wichent
+vnd als weit das ſey So mach das ʒaichen geleich noch ain mal als
+weit für daʒ raichen der tauffell für den hindernʼ poden • Vnd den
+nim aber einer taufel weit dar ʒu fur die dickch der beden pödenn
+Wen bed pöden ſeind alleweg an der dikch des holcʒes fur ainʼ taufel
+leng geſchëcʒt / Wen du aber der dreÿer taufel oder garglen • leng al-¬
+ſo geʒaichent vnd ʒeſam̅e̅ geſlagn̅ haſt • Die Selbig̅n̅ leng leg nu ʒu
+vodriſt auff das vaſs • Alſo das es dem vaſs auff dem auſriſten des
+brartʒ geleich lig / Vnd dan dein viſier ruet̅n̅ an das ſelb die leng ge-¬
+rad vber das vaſs hin • Vnd mag die ruett dem vaſs nit an das end
+geraichen • So ſtuphff mit ain̅e̅ meſſer darfur da Si erwindt • Vnd
+ʒewch oder leg die ruett fur das meſſer als der tuech mit aine̅ e̅l̅l̅n̅ ſtab
+miſſet • vnd ʒell dan eben an der ruet • wie vil lengen der maſſen oder
+viertail das vaſs lang ſeÿ / Wen wÿſs ʒegeleicher weiſs als du an der ruͤtn̅
+die tieff der viertail mit der ʒal geʒaichent haſt • das acht maſs ein qͧrtꝭ
+tuent Alſo ſol es auch an den lengen geʒaichent ſein / das acht lengen
+der ma̅ſ̅ſn̅ ain leng ains viertals tuent • Vnd w̅e̅ das vaſs alſo gancʒ nach
+der leng gemeſſen haſt So ʒaichen es auch aigenleich mit der kriden ecꝭ
+Nu ſiech an die tieff vnd merkch wie mänig tieff der viertal es enhab
+darvmb merkch mit kuͤrcʒ das ich dier den ſin weſchaid • als ob es nun
+an der tieff käm auff • vj • qͧrtꝭ • vnd an der leng auff rij qͧrtꝭ • das
+wernͤ So es ʒe ſam̅e̅ geſlag̅e̅ wer lxxij qͧrtꝭ • die in das vaſs gieng̅e̅
+w̅e̅ ʒe sechſmal ʒwelff • oder ʒe ʒwelff ma̅l̅n̅ Sechs • werdent ʒwai -
+vnd Sübencʒiʒ • Des geleich ob der tieff vnd auch der leng̅e̅ mer -
+oder mÿnner wernʼ es wer wenig oder vil So ſoltu alleweg ÿelleich
+tieff als dikch rechene̅ als menig leng es hat Oder yede leng als
+dikch rechnen als menig treff es hat • Wen webernʼ weg du es alſo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

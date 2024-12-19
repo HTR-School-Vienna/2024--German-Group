@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=217813:lm=none:date=01_12_2024_15:27</Creator>
+        <Created>2024-11-08T12:48:18.859+01:00</Created>
+        <LastChange>2024-12-18T23:26:00.111+01:00</LastChange>
+        <TranskribusMetadata docId="5062996" pageId="82718527" pageNr="16" tsid="213576036" status="DONE" userId="213982" imgUrl="https://files.transkribus.eu/Get?id=GJNHBXDKEIXHGJPSUBESYGLS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YOKZVXICMXSFAXBZOBZWZODU" imageId="68064773"/>
+    </Metadata>
+    <Page imageFilename="DOD_51276-0016.jpeg" imageWidth="3481" imageHeight="4850">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603044733" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="506,696 506,3748 2755,3748 2755,696"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} unclear {offset:0; length:2;} textStyle {offset:10; length:3;textColour:BLACK; strikethrough:true;}">
+                <Coords points="798,814 2655,769 2657,645 2360,687 1936,643 1825,690 1662,645 1496,698 1420,664 1085,693 801,579"/>
+                <Baseline points="812,765 904,771 997,771 1089,771 1182,771 1274,765 1367,764 1459,759 1552,759 1644,759 1737,759 1829,759 1922,759 2014,759 2107,756 2199,754 2292,754 2384,749 2477,748 2569,748 2662,742"/>
+                <TextEquiv>
+                    <Unicode>̅Im eín rot v̅n̅ oder grüen oder eíner ander´n farb ein ſeydem̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="811,903 877,882 972,927 1035,882 1291,911 1830,861 2165,898 2642,848 2642,785 2563,756 814,816"/>
+                <Baseline points="829,876 919,869 1010,864 1101,864 1192,864 1283,862 1373,858 1464,858 1555,858 1646,858 1737,855 1827,852 1918,852 2009,852 2100,852 2191,848 2281,847 2372,847 2463,847 2554,836 2645,835"/>
+                <TextEquiv>
+                    <Unicode>tuech • oder von farben geſtukcht würmíſchen ob du wilt • Aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="822,969 996,1014 1117,980 1193,1027 1259,977 2642,964 2618,861 2183,906 1499,869 1293,911 1219,885 1156,932 824,906"/>
+                <Baseline points="835,968 925,963 1016,962 1107,959 1198,963 1289,963 1379,963 1470,963 1561,960 1652,957 1743,954 1833,951 1924,951 2015,947 2106,945 2197,940 2287,939 2378,935 2469,934 2560,928 2651,928"/>
+                <TextEquiv>
+                    <Unicode>von rotein iſt es aller aller ſcheinbariſt wen es dikch in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="809,1056 898,1101 1459,1080 1522,1133 1657,1082 2394,1075 2642,1032 2639,961 2439,988 2370,946 1701,1001 1393,977 1193,1025 1085,980 1011,1022 811,990"/>
+                <Baseline points="823,1055 914,1061 1005,1061 1097,1061 1188,1061 1280,1059 1371,1057 1462,1061 1554,1059 1645,1055 1737,1055 1828,1052 1919,1050 2011,1046 2102,1040 2194,1038 2285,1038 2376,1033 2468,1027 2559,1026 2651,1015"/>
+                <TextEquiv>
+                    <Unicode>lufft erſcheínt • vnd weſunder geg̅n̅ der ſunne̅ als ob es etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="624,1222 756,1169 845,1212 946,1164 996,1212 1143,1159 1404,1196 2644,1146 2644,1064 2565,1035 2323,1096 2168,1051 1883,1064 1522,1133 1454,1080 1104,1075 1054,1111 867,1069 809,1119 624,1127"/>
+                <Baseline points="638,1166 738,1160 839,1159 939,1154 1040,1154 1141,1154 1241,1154 1342,1154 1443,1154 1543,1154 1644,1151 1745,1148 1845,1144 1946,1142 2047,1142 2147,1136 2248,1131 2349,1128 2449,1121 2550,1114 2651,1113"/>
+                <TextEquiv>
+                    <Unicode>fewrem ſeÿ • Auch möchteſt du von vergultem ding dar ʒu nemē oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="611,1267 2565,1251 2663,1240 2665,1159 2194,1143 1996,1188 1773,1154 1372,1198 1148,1159 996,1212 935,1161 845,1214 766,1167 611,1222"/>
+                <Baseline points="626,1258 728,1253 830,1248 932,1247 1034,1247 1136,1247 1238,1250 1340,1249 1442,1247 1544,1247 1647,1239 1749,1238 1851,1237 1953,1235 2055,1229 2157,1228 2259,1224 2361,1221 2463,1214 2565,1212 2668,1218"/>
+                <TextEquiv>
+                    <Unicode>machen das ʒu mal ſcheínpar vnd fewriſchen wer • Doch das es als von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="611,1367 832,1346 1098,1391 1188,1346 1499,1375 1549,1335 1773,1330 2015,1335 2054,1375 2115,1330 2344,1322 2481,1377 2707,1320 2676,1243 2584,1275 2460,1227 2289,1285 2162,1240 1838,1246 1736,1293 1586,1248 948,1301 872,1256 611,1267"/>
+                <Baseline points="626,1345 730,1340 834,1338 939,1338 1043,1340 1148,1340 1252,1340 1357,1338 1461,1334 1566,1334 1670,1334 1774,1328 1879,1328 1983,1328 2088,1323 2192,1316 2297,1316 2401,1316 2506,1316 2610,1312 2715,1311"/>
+                <TextEquiv>
+                    <Unicode>gar liechtem ding ſey • Vnd laſs dïr den trakchen von dem tuech ſchnei=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="611,1446 1138,1478 1201,1443 1280,1488 1520,1422 1836,1478 1888,1435 2194,1420 2286,1470 2510,1420 2631,1456 2634,1351 2576,1330 2486,1377 2394,1330 2115,1330 2060,1375 1770,1327 1614,1377 1535,1343 1314,1383 1262,1341 1148,1351 1030,1393 835,1348 614,1367"/>
+                <Baseline points="626,1432 726,1432 827,1431 927,1427 1028,1429 1129,1429 1229,1431 1330,1427 1431,1421 1531,1423 1632,1427 1733,1423 1833,1421 1934,1421 2035,1415 2135,1414 2236,1411 2337,1415 2437,1411 2538,1409 2639,1409"/>
+                <TextEquiv>
+                    <Unicode>den vnd formíern nach ordenung / vnd geſtalt der hernach gemac̅h̅t̅n̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="635,1538 1040,1567 1412,1522 1583,1562 1715,1525 1812,1572 2128,1514 2613,1541 2673,1509 2673,1435 2494,1420 2323,1470 2170,1425 1904,1433 1841,1478 1520,1422 1283,1488 1183,1441 1143,1475 635,1451"/>
+                <Baseline points="649,1525 750,1525 852,1519 953,1519 1055,1519 1156,1519 1258,1519 1359,1519 1461,1514 1562,1514 1664,1514 1766,1514 1867,1514 1969,1514 2070,1514 2172,1508 2273,1506 2375,1502 2476,1502 2578,1502 2680,1502"/>
+                <TextEquiv>
+                    <Unicode>geg̅n̅würtigen figur / Vnd alſo das er eín haupp hab von eíner hautt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="629,1651 940,1672 1032,1617 1082,1654 1256,1612 1654,1662 1801,1620 2020,1649 2476,1609 2557,1665 2684,1622 2660,1512 2394,1546 2067,1520 1812,1572 1688,1525 1014,1578 632,1538"/>
+                <Baseline points="643,1624 745,1620 847,1618 950,1618 1052,1612 1155,1612 1257,1609 1359,1610 1462,1612 1564,1606 1667,1606 1769,1606 1871,1606 1974,1606 2076,1606 2179,1606 2281,1605 2383,1601 2486,1597 2588,1595 2691,1595"/>
+                <TextEquiv>
+                    <Unicode>lindtʒ pergamés vnd die doch ſtarchk genueg ſeÿ / als im das angeſicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="624,1746 840,1759 927,1707 1277,1759 1691,1709 1833,1751 1894,1709 2010,1741 2118,1712 2173,1751 2283,1704 2684,1720 2684,1628 2555,1662 2476,1609 2125,1659 1973,1620 1686,1665 1256,1614 938,1672 624,1643"/>
+                <Baseline points="638,1711 740,1708 843,1705 945,1705 1048,1705 1151,1705 1253,1702 1356,1699 1459,1699 1561,1699 1664,1698 1767,1696 1869,1696 1972,1698 2075,1699 2177,1699 2280,1694 2383,1694 2485,1694 2588,1694 2691,1688"/>
+                <TextEquiv>
+                    <Unicode>wegreifft / vnd alſo bedarff er ʒu eíner ſämleichen gröſs des hauptʒ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="629,1820 701,1857 927,1820 972,1859 1356,1801 1970,1849 2104,1801 2236,1804 2297,1852 2426,1804 2721,1815 2723,1709 2621,1704 2518,1749 1607,1715 1420,1759 1169,1754 1127,1717 1064,1754 919,1715 840,1762 632,1754"/>
+                <Baseline points="643,1810 747,1804 851,1804 955,1804 1059,1804 1163,1798 1267,1798 1372,1795 1476,1792 1580,1792 1684,1792 1788,1791 1892,1788 1996,1792 2101,1787 2205,1786 2309,1786 2413,1786 2517,1786 2621,1786 2726,1786"/>
+                <TextEquiv>
+                    <Unicode>was ein braÿte hautt pergames begreiffen mag · das im das corpus hin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="622,1925 1433,1954 1583,1909 1715,1944 1854,1891 2212,1933 2623,1904 2623,1801 2326,1849 2210,1807 1888,1849 1825,1809 1433,1833 1356,1801 1109,1862 624,1820"/>
+                <Baseline points="638,1914 737,1906 837,1902 936,1899 1036,1897 1135,1897 1235,1897 1334,1892 1434,1897 1533,1897 1633,1894 1732,1891 1832,1891 1931,1885 2031,1879 2130,1881 2230,1885 2329,1885 2429,1885 2528,1880 2628,1885"/>
+                <TextEquiv>
+                    <Unicode>der dem haupt auff aindleff e̅l̅l̅n̅ lang ſeÿ mit dem ſwantʒ • vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="629,2015 943,2041 1014,2004 1117,2046 1327,1999 1586,2049 1938,1996 2281,2036 2697,1988 2697,1891 2631,1923 2381,1899 2326,1936 2107,1902 2057,1938 1849,1894 1612,1954 632,1925"/>
+                <Baseline points="643,2013 746,2007 849,2003 952,2001 1055,2001 1158,2000 1261,1995 1364,1995 1467,1995 1570,1995 1673,1989 1776,1989 1879,1986 1982,1980 2085,1978 2188,1978 2291,1978 2394,1978 2497,1978 2600,1978 2703,1984"/>
+                <TextEquiv>
+                    <Unicode>mit aller leng • Vnd das das corpus an der haut dem haupt als braÿtt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="640,2128 2710,2110 2694,1981 2283,2039 1983,1996 1588,2049 1330,2002 1135,2057 1027,2004 643,2033"/>
+                <Baseline points="655,2094 758,2097 861,2098 964,2095 1068,2094 1171,2094 1274,2092 1377,2088 1481,2088 1584,2088 1687,2082 1790,2082 1894,2082 1997,2078 2100,2072 2203,2071 2307,2071 2410,2071 2513,2071 2616,2071 2720,2053"/>
+                <TextEquiv>
+                    <Unicode>ſeÿ als das haupt • vnd das es enmítten ʒu den Seÿtten etwas büch=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="624,2239 743,2199 1135,2252 1243,2204 1449,2252 1596,2189 1865,2181 2210,2228 2268,2186 2399,2233 2626,2186 2626,2089 2478,2083 2154,2131 2081,2091 1894,2133 1549,2094 1312,2147 1130,2104 809,2149 708,2104 627,2149"/>
+                <Baseline points="638,2198 737,2192 837,2192 937,2192 1037,2192 1136,2192 1236,2192 1336,2187 1436,2187 1535,2185 1635,2181 1735,2177 1835,2175 1934,2175 2034,2174 2134,2169 2234,2169 2333,2169 2433,2169 2533,2169 2633,2169"/>
+                <TextEquiv>
+                    <Unicode>iſchen oder flügiliſchen erſetʒt ſeÿ • das es eín würmiſch geſtalt hab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="606,2352 1030,2291 1122,2355 1567,2286 1646,2328 1722,2286 1815,2320 1967,2281 2399,2320 2697,2289 2700,2215 2626,2186 2402,2233 2268,2186 2215,2231 2073,2181 1957,2228 1614,2186 1449,2252 1246,2204 1135,2252 745,2199 666,2252 606,2228"/>
+                <Baseline points="620,2297 724,2291 828,2288 932,2289 1036,2286 1140,2291 1244,2291 1349,2288 1453,2285 1557,2280 1661,2279 1765,2278 1869,2274 1973,2274 2078,2269 2182,2268 2286,2268 2390,2268 2494,2264 2598,2262 2703,2268"/>
+                <TextEquiv>
+                    <Unicode>Weſunder wer im guet wen er als gantʒ gerecht wer das man in den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="614,2415 1169,2384 1485,2431 1580,2381 1830,2428 2017,2378 2175,2420 2694,2376 2694,2312 2581,2278 2039,2328 1928,2281 1878,2323 1722,2286 1649,2331 1567,2286 1125,2355 1030,2291 616,2352"/>
+                <Baseline points="632,2390 735,2387 838,2384 941,2379 1045,2378 1148,2378 1251,2380 1354,2381 1458,2378 1561,2378 1664,2377 1767,2372 1871,2372 1974,2368 2077,2366 2180,2366 2284,2361 2387,2361 2490,2361 2593,2361 2697,2361"/>
+                <TextEquiv>
+                    <Unicode>auff dem ruken enmit̅t̅n̅ von dem hauppt hin auff ʒwaír oder dreÿr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="624,2534 959,2497 1040,2544 1125,2499 1493,2484 1917,2523 2086,2476 2197,2520 2502,2473 2650,2513 2652,2384 2520,2378 2149,2431 1991,2381 1828,2428 1599,2391 1243,2431 1169,2384 969,2434 795,2389 627,2428"/>
+                <Baseline points="638,2488 744,2483 850,2483 956,2485 1063,2485 1169,2478 1275,2477 1381,2477 1488,2477 1594,2472 1700,2471 1806,2466 1913,2468 2019,2465 2125,2465 2231,2464 2338,2459 2444,2459 2550,2459 2657,2459"/>
+                <TextEquiv>
+                    <Unicode>e̅l̅l̅n̅ lang auff ſchnit Vnd ím denn ain ſtukch Seydeins tuech en=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="632,2589 946,2652 1048,2597 1090,2631 1543,2581 1617,2626 1888,2576 2239,2602 2402,2565 2476,2600 2686,2563 2686,2486 2507,2473 2199,2518 2062,2481 1825,2526 1483,2486 1377,2523 1196,2492 1032,2544 961,2497 635,2534"/>
+                <Baseline points="649,2581 751,2585 853,2587 955,2587 1057,2581 1159,2579 1261,2578 1363,2577 1465,2575 1567,2570 1670,2570 1772,2567 1874,2564 1976,2564 2078,2564 2180,2558 2282,2558 2384,2558 2486,2558 2588,2553 2691,2552"/>
+                <TextEquiv>
+                    <Unicode>mítten auff anderhalb ſpan braÿt mÿnner oder mer vnd an beden-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="640,2700 982,2681 1040,2729 1096,2681 1364,2729 1604,2676 1667,2707 2223,2660 2573,2702 2673,2668 2644,2592 2413,2568 1617,2628 1535,2581 1456,2639 1314,2594 1204,2644 1043,2592 946,2652 640,2621"/>
+                <Baseline points="655,2674 756,2679 857,2680 958,2679 1060,2674 1161,2674 1262,2674 1363,2674 1465,2668 1566,2662 1667,2662 1768,2662 1870,2659 1971,2657 2072,2657 2173,2651 2275,2651 2376,2651 2477,2651 2578,2651 2680,2657"/>
+                <TextEquiv>
+                    <Unicode>örten ʒue geſpitʒt nach forʼm des corpus dar in Säcʒtte vnd vernäte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;} unclear {offset:36; length:6;}">
+                <Coords points="637,2797 1072,2773 1159,2837 1227,2776 1288,2815 1335,2776 1451,2810 1728,2779 1801,2821 1904,2773 2639,2784 2639,2694 2318,2665 1944,2705 1880,2671 1767,2715 1514,2681 1364,2726 1093,2681 1046,2726 977,2684 774,2731 640,2702"/>
+                <Baseline points="655,2773 754,2769 854,2771 953,2767 1053,2767 1152,2767 1252,2773 1351,2767 1451,2767 1550,2765 1650,2761 1749,2761 1849,2756 1948,2755 2048,2755 2147,2753 2247,2749 2346,2746 2446,2744 2545,2744 2645,2744"/>
+                <TextEquiv>
+                    <Unicode>Wen dan der lufft dar an ſchlüeg So ſakcti es ſich nach weis aíns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="622,2881 714,2913 751,2879 1309,2871 1391,2934 1485,2873 1830,2905 2278,2852 2584,2887 2731,2844 2731,2771 2671,2755 2478,2805 2231,2771 1902,2776 1807,2821 1730,2779 1396,2810 1333,2776 1293,2813 1222,2781 1159,2837 1072,2773 1032,2810 624,2805"/>
+                <Baseline points="638,2860 743,2865 848,2865 953,2865 1058,2865 1163,2865 1268,2865 1373,2865 1478,2862 1583,2864 1688,2860 1793,2854 1898,2852 2003,2848 2108,2848 2213,2848 2318,2841 2423,2836 2528,2836 2633,2832 2738,2831"/>
+                <TextEquiv>
+                    <Unicode>Segels vnd tab in der lufft vil deſter vinger auff • vnd gewun ein ge=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:23;}">
+                <Coords points="632,2989 903,2971 1046,3016 1135,2968 1825,2992 2060,2958 2131,3008 2202,2971 2315,3010 2486,2942 2752,2942 2752,2858 2681,2837 2586,2887 2268,2855 1862,2908 1633,2863 1517,2916 1441,2884 1391,2934 1309,2871 935,2910 751,2876 714,2913 635,2879"/>
+                <Baseline points="649,2958 754,2958 859,2958 964,2960 1070,2960 1175,2963 1280,2964 1386,2964 1491,2964 1596,2960 1702,2958 1807,2952 1912,2952 2017,2949 2123,2947 2228,2947 2333,2941 2439,2939 2544,2935 2649,2935 2755,2929"/>
+                <TextEquiv>
+                    <Unicode>ſtalt aíns erhaben leibs • oder rukken das er vil deſter beſſer vnd auſ=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:24;}">
+                <Coords points="635,3092 1701,3095 1778,3060 1852,3105 2204,3060 2302,3103 2352,3066 2415,3097 2700,3060 2702,2955 2505,2947 2312,3013 2057,2966 1530,2974 1480,3008 1122,2968 1025,3018 711,2968 637,3013"/>
+                <Baseline points="649,3057 751,3057 854,3057 957,3057 1059,3057 1162,3059 1265,3063 1367,3063 1470,3058 1573,3057 1676,3057 1778,3057 1881,3057 1984,3057 2086,3057 2189,3051 2292,3051 2394,3048 2497,3045 2600,3045 2703,3045"/>
+                <TextEquiv>
+                    <Unicode>richtiger wer als du auch in der nachgeſchri̅b̅n̅  figur vindeſt • Iſt aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="640,3197 2655,3168 2655,3097 2360,3063 2302,3103 1983,3068 1899,3121 1780,3063 1696,3097 1504,3071 1396,3124 1298,3076 977,3118 903,3076 640,3089"/>
+                <Baseline points="655,3161 755,3155 855,3151 956,3155 1056,3155 1156,3155 1257,3155 1357,3155 1457,3155 1558,3153 1658,3150 1758,3150 1859,3150 1959,3155 2059,3150 2160,3154 2260,3150 2360,3150 2461,3150 2561,3145 2662,3150"/>
+                <TextEquiv>
+                    <Unicode>das du daʒ nícht dar ín macheſt • noch denn iſt er ʒe mal guet • Wen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:26;}">
+                <Coords points="629,3258 737,3287 869,3245 927,3290 1096,3250 1254,3305 1406,3250 1538,3297 1954,3255 2668,3282 2668,3155 2273,3203 2202,3160 2060,3166 1994,3216 1936,3166 1578,3200 1422,3166 1312,3216 1159,3168 1093,3216 948,3168 629,3192"/>
+                <Baseline points="643,3243 744,3243 846,3243 947,3243 1049,3246 1150,3253 1252,3248 1353,3248 1455,3248 1556,3246 1658,3243 1760,3243 1861,3248 1963,3247 2064,3243 2166,3243 2267,3243 2369,3243 2470,3243 2572,3243 2674,3243"/>
+                <TextEquiv>
+                    <Unicode>nu das corpus alſo gemacht iſt • So laſs dir an die hautt pergameſs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:27;}">
+                <Coords points="635,3390 764,3342 927,3405 1127,3395 1180,3350 1346,3408 1688,3347 2073,3387 2173,3350 2713,3371 2697,3237 2602,3303 2289,3253 2073,3297 1957,3255 1775,3297 1593,3263 1533,3300 1406,3250 1159,3319 872,3245 735,3287 635,3261"/>
+                <Baseline points="649,3335 752,3335 856,3338 959,3341 1063,3341 1166,3347 1270,3347 1373,3344 1477,3337 1580,3335 1684,3335 1788,3335 1891,3338 1995,3337 2098,3340 2202,3341 2305,3341 2409,3341 2512,3337 2616,3335 2720,3330"/>
+                <TextEquiv>
+                    <Unicode>den kchopff ma̅l̅n̅ • ein ſcheínpars wurmíſch angeſicht • das vaſt weiſs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:28;}">
+                <Coords points="645,3479 814,3455 877,3506 1219,3463 1293,3498 1393,3455 1780,3453 1852,3492 2610,3445 2750,3498 2750,3374 2647,3350 2239,3392 2183,3350 2089,3387 1675,3350 1583,3400 1346,3408 1246,3350 1148,3400 927,3405 751,3342 645,3395"/>
+                <Baseline points="661,3434 765,3435 870,3438 975,3438 1079,3440 1184,3440 1289,3440 1393,3440 1498,3440 1603,3440 1708,3440 1812,3440 1917,3440 2022,3444 2126,3446 2231,3446 2336,3446 2440,3446 2545,3446 2650,3446 2755,3463"/>
+                <TextEquiv>
+                    <Unicode>vnd ſcheinpar welib Von ringen liechte̅ var̅b̅n̅ • Vnd nä dan den kopff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:29;}">
+                <Coords points="645,3548 906,3579 1106,3548 1156,3582 1243,3537 1414,3590 1617,3585 1675,3540 1738,3582 1780,3545 2657,3561 2657,3463 2605,3442 2370,3506 2226,3463 1852,3492 1744,3453 1551,3498 1404,3455 1296,3495 1227,3458 1175,3498 877,3503 777,3455 645,3482"/>
+                <Baseline points="661,3533 761,3533 861,3533 961,3533 1061,3533 1161,3533 1261,3533 1361,3533 1461,3533 1561,3533 1661,3533 1761,3533 1861,3533 1961,3533 2061,3533 2161,3534 2261,3538 2361,3538 2461,3538 2561,3534 2662,3538"/>
+                <TextEquiv>
+                    <Unicode>an das corpus • vnd mach dan an ÿedes ortt der hautt ʒwai rinkli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:30;}">
+                <Coords points="645,3656 830,3677 967,3627 1077,3671 1161,3627 1304,3685 1433,3637 1622,3679 1688,3632 1902,3669 1952,3635 2673,3642 2673,3556 1741,3582 1675,3540 1617,3585 1549,3558 1435,3598 1243,3537 1156,3582 1106,3548 1059,3579 990,3542 909,3579 645,3548"/>
+                <Baseline points="661,3631 767,3625 873,3625 979,3625 1086,3625 1192,3626 1298,3629 1404,3625 1511,3625 1617,3631 1723,3630 1829,3625 1936,3629 2042,3631 2148,3625 2254,3627 2361,3631 2467,3626 2573,3631 2680,3631"/>
+                <TextEquiv>
+                    <Unicode>oder drew die driualt oder vierwalt Von radem ſeindt • Vnd das die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:31;}">
+                <Coords points="635,3787 1327,3793 1586,3732 2078,3748 2125,3787 2370,3732 2441,3785 2663,3743 2663,3645 2600,3637 2231,3642 2081,3690 1957,3635 1815,3677 1720,3629 1625,3679 1133,3645 1082,3677 961,3624 843,3674 685,3635 635,3666"/>
+                <Baseline points="649,3718 755,3718 861,3718 967,3718 1074,3718 1180,3724 1286,3724 1392,3721 1499,3718 1605,3718 1711,3718 1817,3718 1924,3718 2030,3723 2136,3724 2242,3718 2349,3718 2455,3718 2561,3718 2668,3718"/>
+                <TextEquiv>
+                    <Unicode>hautt an beden ſeÿtt̅n̅ peÿ dem rínklin mit klaine̅ pergamen plëcʒlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Im̅ ein wt vn̅ oder grüen oder einer andern̅ farb ein ſeyden̅
+tuech • oder von farben geſtukcht würmiſchen ob du wilt • Aber
+von wein iſt es aller aller ſcheinbariſt wen es dikch in dem
+lufft erſcheint • vnd weſunder geg̅n̅ der ſun̅n̅e als ob es etwas
+ſewrem ſey • Auch möchteſt du von vergultem ding dar ʒu nem̅e̅ oder
+machen das ʒu mal ſcheinpar vnd fewriſchen wer • Joch das es als von
+gar liechtem ding ſey • Vnd laſs dir den trakchen von dem tuech ſchnei//¬
+den vnd formiern nach ordenung / vnd geſtalt der hernach gemachtn̅
+geg̅n̅würtigen figur / vnd alſo das er ein haupp hab von einer hautt
+lindtʒ pergames vnd die doch ſtarchk genueg ſeÿ / als im das angeſicht
+wegreifft / Vnd alſo bedarff er ʒu einer ſämleichen gröſs des hauptʒ
+was ein braÿte hautt pergames begreiffen mag / das im das corpus hin/¬
+der dem haupt auff aindleff e̅l̅l̅n̅ lang ſeÿ mit dem ſwancʒ / Vnd •
+mit aller leng • Vnd das das corpus an der hant dem haupt als braÿtt
+ſeÿ als das haupt • Vnd das es enmitten ʒu den Seÿtten etwas büch//¬
+iſchen oder flügiliſchen erſecʒt ſeÿ • das es ein würmiſch geſtalt hab
+weſunder wer im guet we̅n̅ er als gantʒ gerecht wer das man in den
+auff dem ruken enmitt̅n̅ von dem hauppt hin auff ʒwair oder dreÿr
+e̅l̅l̅n̅ lang auff ſchint Vnd im denn ain ſtukch Seydeins tuech e̅n̅//¬
+mitten auff anderhalb ſpan braÿt mÿnner oder mer vnd an beden/
+örten ʒue geſpicʒt nach formʼ des corpus dar in Säcʒtte vnd vernäte
+Wen dan der lufft dar an ſchlüeg So ſakcti es ſich nach weis ains
+Segels vnd tab in der lufft vil deſter vinger auff • vnd gewun ein ge//¬
+ſtalt ains erhaben leibs • oder rukken das er vil deſter beſſer vnd auſ//¬
+richtiger wer als du auch in der nachgeſchri̅b̅n̅ figur vindeſt • Iſt aber
+das du daʒ nicht dar in macheſt • noch denn iſt er ʒe mal guet • wen̅
+nu das corpus alſo gemacht iſt • So laſs dir an die hautt pergameſs
+den kchopff ma̅l̅n̅ • ein ſcheinpars wurmiſch angeſicht / das vaſt weiſs
+vnd ſcheinpar welib von ringen liecht̅e̅ var̅b̅n̅ • Vnd nä dan den kopff
+an das corpus • vnd mach dan an ÿedes ortt der hantt ʒwai rinkli
+ober drew die driualt oder vierwalt von radem ſeindt : Vnd das die
+hautt an beden ſeÿttn̅ pey dem rinklin mit klain̅e̅ pergamen plëcʒlin</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

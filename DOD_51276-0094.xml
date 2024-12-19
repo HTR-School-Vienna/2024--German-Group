@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=42143:lm=none:date=09_12_2024_20:10</Creator>
+        <Created>2024-11-08T12:48:19.220+01:00</Created>
+        <LastChange>2024-12-18T16:37:59.594+01:00</LastChange>
+        <TranskribusMetadata docId="5062996" pageId="82720244" pageNr="94" tsid="213507208" status="DONE" userId="288602" imgUrl="https://files.transkribus.eu/Get?id=KHNHEUMJAUCBSBCWTEVEEDLL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VIFKJJYEFCQKAHTATQAYUHTC" imageId="68065615"/>
+    </Metadata>
+    <Page imageFilename="DOD_51276-0094.jpeg" imageWidth="3349" imageHeight="4841">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603047523" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="293,1524 323,603 2708,603 2719,1524"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="436,732 586,695 791,746 1199,687 1925,718 2083,676 2567,707 2567,569 2365,538 1951,605 1650,560 1143,605 1016,543 949,597 873,557 436,563"/>
+                <Baseline points="452,692 558,686 664,681 770,681 876,677 982,675 1088,671 1194,675 1300,675 1406,675 1513,670 1619,670 1725,670 1831,670 1937,670 2043,666 2149,670 2255,669 2361,664 2467,664 2574,664"/>
+                <TextEquiv>
+                    <Unicode>dan die nägſt lang rörr Dar v̈nder das tue v̈ncʒ das es als lang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="448,783 543,816 1712,774 1818,828 2089,763 2550,797 2550,687 2477,721 2080,676 1923,718 1134,687 791,743 586,695 448,721"/>
+                <Baseline points="463,776 567,770 672,770 777,766 881,764 986,764 1091,764 1195,764 1300,764 1405,760 1510,762 1614,759 1719,759 1824,759 1928,756 2033,753 2138,753 2242,753 2347,751 2452,748 2557,748"/>
+                <TextEquiv>
+                    <Unicode>werdt das es waſſer als hoch trag als du pegerſt vnd das pringt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="436,918 746,875 1208,918 1329,875 1489,878 1571,926 1664,861 1824,906 1886,875 1945,929 2035,859 2131,901 2500,861 2483,763 2173,808 2089,763 1818,830 1689,777 636,788 555,822 439,780"/>
+                <Baseline points="452,865 554,859 657,859 760,859 863,859 965,859 1068,859 1171,854 1274,854 1376,854 1479,854 1582,854 1685,853 1787,848 1890,845 1993,843 2096,842 2198,837 2301,837 2404,832 2507,831"/>
+                <TextEquiv>
+                    <Unicode>die ſnellikait des schieſſenden lauffs des waſſers ʒu das es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;}">
+                <Coords points="445,963 785,1002 878,957 1109,999 1179,968 1284,1013 1337,971 1771,994 1987,957 2106,994 2168,949 2545,957 2545,873 2367,853 2159,901 2021,861 1959,918 1630,878 1579,929 1489,878 1261,923 1022,878 448,906"/>
+                <Baseline points="463,954 567,949 671,949 776,949 880,949 985,949 1089,949 1193,949 1298,949 1402,949 1507,949 1611,949 1715,943 1820,942 1924,938 2029,933 2133,932 2237,930 2342,926 2446,926 2551,926"/>
+                <TextEquiv>
+                    <Unicode>etwas vber den vrſprung traÿtt • Vnd wen das ʒu dem erſten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="431,1075 825,1050 1106,1098 1151,1064 1970,1033 2052,1092 2168,1042 2517,1056 2517,977 2342,946 2106,994 1985,957 1776,994 1461,966 1281,1013 1039,960 951,1002 890,957 791,1002 588,960 490,1011 431,988"/>
+                <Baseline points="446,1038 549,1038 653,1034 757,1032 861,1033 965,1038 1069,1038 1172,1038 1276,1043 1380,1038 1484,1038 1588,1038 1692,1038 1796,1032 1899,1032 2003,1032 2107,1032 2211,1032 2315,1029 2419,1027 2523,1021"/>
+                <TextEquiv>
+                    <Unicode>mal in den lauff kümpt was es dann in der erſten ſchicht der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;}">
+                <Coords points="448,1137 870,1188 1115,1143 1346,1185 1408,1140 1576,1168 1675,1132 2187,1146 2320,1191 2505,1143 2505,1053 2463,1042 2390,1081 2168,1042 2052,1092 1880,1047 1630,1089 1534,1047 1230,1101 1168,1067 1103,1098 839,1053 448,1064"/>
+                <Baseline points="463,1127 565,1122 667,1124 770,1127 872,1127 975,1127 1077,1129 1180,1130 1282,1127 1385,1127 1487,1122 1589,1124 1692,1124 1794,1122 1897,1122 1999,1122 2102,1125 2204,1127 2307,1122 2409,1122 2512,1127"/>
+                <TextEquiv>
+                    <Unicode>rören fürtrifft So vil trifftʒ auch in der ander´n ÿekleichen für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:6;}">
+                <Coords points="442,1270 985,1225 1179,1236 1227,1278 1312,1227 1506,1281 1627,1230 1844,1267 1970,1219 2145,1286 2331,1227 2494,1267 2494,1140 2322,1194 1990,1137 1771,1171 1675,1132 1526,1168 1410,1140 1303,1185 1115,1143 873,1188 442,1143"/>
+                <Baseline points="457,1222 559,1212 661,1211 763,1211 865,1211 968,1215 1070,1217 1172,1222 1274,1220 1376,1220 1479,1222 1581,1222 1683,1222 1785,1222 1887,1219 1990,1217 2092,1217 2194,1219 2296,1222 2398,1222 2501,1217"/>
+                <TextEquiv>
+                    <Unicode>alſo lang v̈ncʒ es kümpt auff ſein ſtatt • Vnd das iſt der edliſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:7;}">
+                <Coords points="431,1340 780,1326 830,1360 918,1312 1027,1360 1298,1312 1461,1346 1548,1317 1619,1360 1689,1323 2139,1317 2193,1357 2505,1320 2505,1258 2328,1227 2153,1281 1970,1219 1841,1270 1616,1241 1503,1281 1360,1236 1225,1281 1123,1233 431,1247"/>
+                <Baseline points="446,1312 549,1306 652,1301 755,1300 859,1300 962,1303 1065,1306 1169,1306 1272,1307 1375,1309 1479,1306 1582,1306 1685,1306 1788,1304 1892,1300 1995,1300 2098,1300 2202,1300 2305,1300 2408,1300 2512,1295"/>
+                <TextEquiv>
+                    <Unicode>vnd verporginſt ſin auff waſſer laytten den man geha̅b̅n̅ mag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:8;}">
+                <Coords points="442,1419 999,1399 1208,1436 1968,1391 2097,1430 2266,1393 2353,1436 2536,1396 2511,1315 2213,1354 1923,1317 1616,1360 1298,1309 1027,1360 892,1309 836,1360 445,1346"/>
+                <Baseline points="457,1395 561,1388 665,1384 769,1384 873,1384 977,1386 1081,1390 1186,1390 1290,1390 1394,1390 1498,1390 1602,1385 1706,1384 1810,1384 1915,1384 2019,1384 2123,1384 2227,1384 2331,1384 2435,1380 2540,1379"/>
+                <TextEquiv>
+                    <Unicode>wan es in allen mayſterleichen werchlewten vngemain iſt Vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:9;} unclear {offset:63; length:6;}">
+                <Coords points="442,1523 774,1492 935,1545 1033,1486 1233,1489 1354,1545 1652,1484 1757,1554 2035,1495 2159,1543 2379,1481 2457,1520 2700,1486 2702,1379 2353,1436 2289,1393 2097,1433 1970,1391 1683,1433 442,1416"/>
+                <Baseline points="457,1479 569,1468 682,1468 794,1468 907,1471 1019,1474 1132,1474 1244,1474 1357,1474 1469,1474 1582,1471 1695,1468 1807,1462 1920,1462 2032,1462 2145,1462 2257,1462 2370,1462 2482,1459 2595,1448 2708,1446"/>
+                <TextEquiv>
+                    <Unicode>vnmügleich erſcheinett • da hye hernach ſol ſtan die ſtuben des prund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="1083,1979 1085,2369 660,2338 303,2396 273,1969"/>
+            <TextLine id="l_10" custom="readingOrder {index:0;}">
+                <Coords points="470,2072 602,2097 757,2075 853,2117 898,2080 1036,2097 1033,1959 467,1976"/>
+                <Baseline points="485,2060 514,2060 543,2060 573,2060 602,2060 632,2060 661,2060 690,2062 720,2064 749,2065 779,2065 808,2065 838,2065 867,2065 896,2065 926,2067 955,2069 985,2071 1014,2071 1044,2071"/>
+                <TextEquiv>
+                    <Unicode>Das iſt die ſtu̅b̅n̅</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:1;}">
+                <Coords points="453,2179 521,2179 600,2227 715,2179 757,2207 833,2179 966,2199 1011,2176 1058,2201 1058,2094 895,2077 861,2111 653,2123 490,2069 453,2077"/>
+                <Baseline points="469,2155 498,2155 528,2155 558,2155 588,2155 618,2155 648,2156 677,2157 707,2159 737,2160 767,2160 797,2160 827,2160 857,2160 886,2160 916,2160 946,2160 976,2160 1006,2160 1036,2160 1066,2160"/>
+                <TextEquiv>
+                    <Unicode>des pr̅u̅n̅es do das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:2;}">
+                <Coords points="307,2322 377,2289 448,2336 1022,2336 1022,2196 833,2179 791,2204 633,2201 605,2227 521,2179 476,2210 439,2196 394,2229 307,2235"/>
+                <Baseline points="323,2272 358,2272 393,2269 428,2267 463,2265 499,2263 534,2262 569,2264 604,2266 639,2266 675,2266 710,2266 745,2266 780,2266 815,2266 851,2266 886,2266 921,2266 956,2265 991,2263 1027,2261"/>
+                <TextEquiv>
+                    <Unicode>waſß eingat vnd auff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
