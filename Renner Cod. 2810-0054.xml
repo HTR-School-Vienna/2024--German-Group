@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-11-08T12:45:54.285+01:00</Created>
+        <LastChange>2024-12-18T16:11:43.645+01:00</LastChange>
+        <TranskribusMetadata docId="5062960" pageId="82720732" pageNr="54" tsid="213503746" status="DONE" userId="293928" imgUrl="https://files.transkribus.eu/Get?id=FLUTOVCBJRBFBZFMHWCJDINS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CNIKAQJNUQGJJGKQUBFOOCWA" imageId="68066300"/>
+    </Metadata>
+    <Page imageFilename="Renner Cod. 2810-0054.jpeg" imageWidth="5086" imageHeight="7560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603015556" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_2" custom="readingOrder {index:0;}">
+            <Coords points="500,2211 499,489 2986,499 2986,6065 480,6106"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="842,1032 2772,1019 2797,1019 2797,989 2772,989 842,1002"/>
+                <Baseline points="842,1069 2777,1033"/>
+                <TextEquiv>
+                    <Unicode>Vnd paten mich daʒ ich erpaiʒʒet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_85" custom="readingOrder {index:1;}">
+                <Coords points="861,1209 2791,1196 2778,1196 2778,1226 2731,1196 861,1179"/>
+                <Baseline points="861,1209 2791,1196 2778,1196"/>
+                <TextEquiv>
+                    <Unicode>Wann wer trūkchen lewt raitʒet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_96" custom="readingOrder {index:2;}">
+                <Coords points="772,1443 2576,1405 2576,1405 2576,1375 2575,1375 771,1413"/>
+                <Baseline points="772,1443 2576,1405 2576,1405"/>
+                <TextEquiv>
+                    <Unicode>Zelang der hat vnweiſen ſÿn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_103" custom="readingOrder {index:3;}">
+                <Coords points="778,1608 2639,1582 2639,1552 778,1578"/>
+                <Baseline points="778,1608 2639,1582"/>
+                <TextEquiv>
+                    <Unicode>Ich ſaʒʒ nider vnd ſprach zu yn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_110" custom="readingOrder {index:4;}">
+                <Coords points="721,1823 2544,1785 2544,1755 721,1793"/>
+                <Baseline points="721,1823 2544,1785"/>
+                <TextEquiv>
+                    <Unicode>Von Adam tauſent iar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_117" custom="readingOrder {index:5;}">
+                <Coords points="1247,2013 2842,1981 2841,1951 1246,1983"/>
+                <Baseline points="1247,2013 2842,1981"/>
+                <TextEquiv>
+                    <Unicode>Vergangen warn daʒ iſt war</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_128" custom="readingOrder {index:6;}">
+                <Coords points="861,2228 2297,2196 2310,2190 2297,2163 2290,2167 860,2198"/>
+                <Baseline points="861,2228 2297,2196 2310,2190"/>
+                <TextEquiv>
+                    <Unicode>Verr vor in der alten ee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_135" custom="readingOrder {index:7;}">
+                <Coords points="861,2424 2544,2373 2543,2343 860,2394"/>
+                <Baseline points="861,2424 2544,2373"/>
+                <TextEquiv>
+                    <Unicode>Do lebt ein man hieʒʒ noee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_142" custom="readingOrder {index:8;}">
+                <Coords points="829,2626 2481,2582 2480,2552 828,2596"/>
+                <Baseline points="829,2626 2481,2582"/>
+                <TextEquiv>
+                    <Unicode>Der gern gots willen tet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_149" custom="readingOrder {index:9;}">
+                <Coords points="842,2835 2171,2797 2170,2767 841,2805"/>
+                <Baseline points="842,2835 2171,2797"/>
+                <TextEquiv>
+                    <Unicode>Sem cham vnd japhet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_156" custom="readingOrder {index:10;}">
+                <Coords points="873,3019 2152,2975 2151,2945 872,2989"/>
+                <Baseline points="873,3019 2152,2975"/>
+                <TextEquiv>
+                    <Unicode>Hieʒʒen ſein Sün drey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_163" custom="readingOrder {index:11;}">
+                <Coords points="842,3247 2690,3177 2689,3147 841,3217"/>
+                <Baseline points="842,3247 2690,3177"/>
+                <TextEquiv>
+                    <Unicode>Der wurden ʒwen edl vnd vrey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_170" custom="readingOrder {index:12;}">
+                <Coords points="867,3443 2721,3367 2720,3337 866,3413"/>
+                <Baseline points="867,3443 2721,3367"/>
+                <TextEquiv>
+                    <Unicode>Des dritten geslecht verflucht iſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_177" custom="readingOrder {index:13;}">
+                <Coords points="861,3652 2531,3576 2530,3546 859,3622"/>
+                <Baseline points="861,3652 2531,3576"/>
+                <TextEquiv>
+                    <Unicode>Als man in den püchern liſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_184" custom="readingOrder {index:14;} textStyle {offset:28; length:3;strikethrough:true;}">
+                <Coords points="816,3854 2937,3753 2935,3723 815,3824"/>
+                <Baseline points="816,3854 2937,3753"/>
+                <TextEquiv>
+                    <Unicode>Nü ſchult ir wizzen wie das qua cham</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_191" custom="readingOrder {index:15;}">
+                <Coords points="829,4069 2918,3962 2916,3932 828,4039"/>
+                <Baseline points="829,4069 2918,3962"/>
+                <TextEquiv>
+                    <Unicode>Der dritt Sün was gehaiʒʒen cham</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_198" custom="readingOrder {index:16;}">
+                <Coords points="829,4272 2930,4171 2929,4141 828,4242"/>
+                <Baseline points="829,4272 2930,4171"/>
+                <TextEquiv>
+                    <Unicode>An ʒüchten an tugent was er lam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_205" custom="readingOrder {index:17;}">
+                <Coords points="759,4481 2924,4398 2923,4369 758,4451"/>
+                <Baseline points="759,4481 2924,4398"/>
+                <TextEquiv>
+                    <Unicode>Er ſach eins tags ſeins vater ſcham</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_212" custom="readingOrder {index:18;}">
+                <Coords points="785,4677 2702,4607 2701,4577 784,4647"/>
+                <Baseline points="785,4677 2702,4607"/>
+                <TextEquiv>
+                    <Unicode>Do er trunkchen was vnd ſlieff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_219" custom="readingOrder {index:19;}">
+                <Coords points="791,4879 2778,4816 2777,4786 790,4849"/>
+                <Baseline points="791,4879 2778,4816"/>
+                <TextEquiv>
+                    <Unicode>Sein ʒwain prüdern er do rieff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_226" custom="readingOrder {index:20;}">
+                <Coords points="778,5082 2658,5025 2657,4995 778,5052"/>
+                <Baseline points="778,5082 2658,5025"/>
+                <TextEquiv>
+                    <Unicode>Vnd lies ſy ſchawen wie er lag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_233" custom="readingOrder {index:21;}">
+                <Coords points="766,5259 2664,5209 2664,5179 765,5229"/>
+                <Baseline points="766,5259 2664,5209"/>
+                <TextEquiv>
+                    <Unicode>Do cherten ſy paid dar den nachk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_240" custom="readingOrder {index:22;}">
+                <Coords points="709,5493 2323,5430 2321,5400 708,5463"/>
+                <Baseline points="709,5493 2323,5430"/>
+                <TextEquiv>
+                    <Unicode>Vnd giengen rukling dar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_247" custom="readingOrder {index:23;}">
+                <Coords points="721,5696 2538,5652 2537,5622 721,5666"/>
+                <Baseline points="721,5696 2538,5652"/>
+                <TextEquiv>
+                    <Unicode>Do ſy des vaters namen war</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_254" custom="readingOrder {index:24;}">
+                <Coords points="740,5898 2595,5867 2594,5837 740,5868"/>
+                <Baseline points="740,5898 2595,5867"/>
+                <TextEquiv>
+                    <Unicode>Vnd praitten vber yn ir gewant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

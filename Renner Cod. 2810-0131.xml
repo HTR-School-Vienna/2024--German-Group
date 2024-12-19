@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=42143:lm=none:date=03_12_2024_18:08</Creator>
+        <Created>2024-11-08T12:45:55.200+01:00</Created>
+        <LastChange>2024-12-06T14:02:32.832+01:00</LastChange>
+        <TranskribusMetadata docId="5062960" pageId="82721630" pageNr="131" tsid="210532262" status="DONE" userId="306323" imgUrl="https://files.transkribus.eu/Get?id=GQNCPQUYZRZRTRVKIRZRUNGU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ODEBHMEWJGJCTGPVKXHVSFNN" imageId="68067189"/>
+    </Metadata>
+    <Page imageFilename="Renner Cod. 2810-0131.jpeg" imageWidth="3150" imageHeight="4386">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603017730" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="822,911 2010,1074 2010,1158 1012,1177"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1281,1164 1433,1181 1537,1151 1605,1190 1761,1163 1842,1201 1950,1154 2008,1171 2004,1003 1804,1011 1716,983 1505,1025 1277,1011"/>
+                <Baseline points="988,1145 1153,1151 1284,1146 1402,1161 1349,1158 1459,1136 1503,1139 1548,1139 1593,1139 1638,1142 1682,1142 1727,1145 1772,1139 1817,1145 1861,1145 1906,1145 1951,1145 1996,1148 2010,1145"/>
+                <TextEquiv>
+                    <Unicode>-ben den chnechten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
