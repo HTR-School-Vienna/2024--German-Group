@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=52284:lm=none:date=29_11_2024_15:14</Creator>
+        <Created>2024-11-08T13:43:37.671+01:00</Created>
+        <LastChange>2024-12-05T15:43:19.147+01:00</LastChange>
+        <TranskribusMetadata docId="5064035" pageId="82738007" pageNr="31" tsid="210127370" status="DONE" userId="289005" imgUrl="https://files.transkribus.eu/Get?id=YKUQVXKZLNTTQQTHOOAWWBND&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HXAXLDQDIBZZGCLKGUCAQXGX" imageId="68084512"/>
+    </Metadata>
+    <Page imageFilename="enikel weltchronik-0031.jpeg" imageWidth="5276" imageHeight="6005">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603114587" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_3"/>
+                <RegionRefIndexed index="3" regionRef="r_4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="898,575 2644,575 2644,991 898,991"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="857,746 1265,824 1449,767 1743,819 1937,772 2143,842 2200,803 2621,775 2619,594 2417,646 2221,643 2141,597 2058,640 1818,630 1746,584 1611,625 857,602"/>
+                <Baseline points="871,722 961,734 1050,734 1140,734 1229,734 1319,740 1408,740 1498,740 1587,734 1677,734 1766,740 1856,746 1945,746 2035,746 2125,746 2214,746 2304,746 2393,746 2483,746 2572,752 2626,758"/>
+                <TextEquiv>
+                    <Unicode>Ir chaines nuſſe viel ym nye</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="889,946 1410,932 1454,968 1573,948 1724,932 1985,928 2543,932 2557,790 1449,767 1224,834 889,737"/>
+                <Baseline points="940,902 1086,895 1175,895 1265,895 1355,895 1444,895 1534,895 1623,895 1713,901 1802,901 2525,919 2543,919"/>
+                <TextEquiv>
+                    <Unicode>Da mit der dritt tag ergie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ir chaines nuſſe viel ym nye&#13;
+Da mit der dritt tag ergie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="855,2687 2730,2687 2730,5252 855,5252"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="875,2859 1095,2825 1278,2895 1382,2838 1593,2869 1785,2838 1890,2892 2048,2851 2208,2921 2211,2735 2136,2696 878,2735"/>
+                <Baseline points="889,2829 961,2841 1050,2829 1140,2829 1229,2829 1319,2829 1408,2823 1498,2823 1587,2823 1677,2823 1766,2823 1856,2823 1945,2823 2035,2823 2125,2823 2214,2823"/>
+                <TextEquiv>
+                    <Unicode>Do daʒ alles geſchach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;} person {offset:8; length:4;}">
+                <Coords points="930,3034 1178,2996 1976,3068 2182,3001 2319,3071 2381,3055 2378,2879 2133,2918 2048,2851 1896,2892 1787,2856 1580,2918 1397,2872 1121,2916 927,2856"/>
+                <Baseline points="943,2996 955,2990 1044,2984 1134,2984 1223,2984 1313,2990 1402,2984 1492,2990 1581,2984 1671,2984 1760,2984 1850,2984 1939,2984 2029,2984 2119,2984 2208,2990 2298,2990 2387,2984"/>
+                <TextEquiv>
+                    <Unicode>Darnach got aber ſprach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="875,3195 930,3226 999,3179 1056,3220 1265,3148 1591,3223 1733,3164 1888,3213 2376,3138 2518,3166 2518,3058 2319,3068 2213,3001 1973,3068 875,3034"/>
+                <Baseline points="889,3145 913,3151 1002,3145 1092,3145 1181,3145 1271,3145 1360,3151 1450,3145 1540,3145 1629,3145 1719,3139 1808,3139 1898,3133 1987,3133 2077,3133 2166,3133 2256,3133 2345,3133 2435,3133 2524,3127"/>
+                <TextEquiv>
+                    <Unicode>Ich wil daʒ ſtern wern berait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="868,3342 1237,3321 1485,3368 1764,3306 2187,3350 2420,3319 2422,3200 2319,3218 2221,3164 1888,3213 1748,3176 1617,3233 1457,3179 1309,3210 1196,3171 1077,3226 999,3176 932,3231 870,3192"/>
+                <Baseline points="883,3306 907,3306 996,3306 1086,3300 1175,3294 1265,3300 1355,3300 1444,3300 1534,3300 1623,3300 1713,3300 1802,3289 1892,3289 1981,3289 2071,3289 2160,3283 2250,3289 2339,3283 2429,3277"/>
+                <TextEquiv>
+                    <Unicode>An des hymels veſtichait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="868,3473 1511,3517 1702,3476 1890,3530 2056,3492 2446,3551 2448,3337 2327,3308 2020,3360 1906,3319 1792,3375 1653,3324 1552,3370 870,3342"/>
+                <Baseline points="883,3462 931,3462 1020,3456 1110,3456 1199,3456 1289,3450 1378,3450 1468,3450 1557,3450 1647,3450 1737,3456 1826,3450 1916,3450 2005,3450 2095,3450 2184,3450 2274,3450 2363,3450 2453,3438"/>
+                <TextEquiv>
+                    <Unicode>Die tag vnd nach ſchaiden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="904,3646 1046,3675 1467,3605 1542,3657 1686,3634 1924,3693 2218,3634 2221,3507 1896,3528 1702,3476 1550,3530 1250,3473 906,3479"/>
+                <Baseline points="919,3617 972,3617 1062,3617 1152,3611 1241,3605 1331,3599 1420,3599 1510,3599 1599,3599 1689,3599 1778,3599 1868,3593 1957,3599 2047,3593 2136,3587 2226,3587"/>
+                <TextEquiv>
+                    <Unicode>Vnd das an den paiden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="930,3817 1500,3760 1751,3827 1981,3755 2118,3835 2280,3835 2386,3765 2389,3662 2102,3634 1929,3690 1684,3690 1614,3634 1511,3690 1216,3646 1141,3703 932,3685"/>
+                <Baseline points="943,3772 961,3772 1050,3766 1140,3766 1229,3760 1319,3754 1408,3754 1498,3754 1587,3754 1677,3754 1766,3754 1856,3754 1945,3754 2035,3754 2125,3754 2214,3754 2304,3754 2393,3748"/>
+                <TextEquiv>
+                    <Unicode>Cʒaichen vnd cʒeit geben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="899,3977 1095,3946 1180,3980 1237,3943 1351,3990 1451,3954 1550,3985 1828,3920 1968,3982 2056,3949 2136,4013 2621,4021 2619,3750 2564,3739 2497,3789 2373,3765 2280,3838 2136,3838 2007,3773 1761,3863 1506,3778 899,3812"/>
+                <Baseline points="913,3939 925,3933 1014,3927 1104,3927 1193,3921 1283,3915 1372,3915 1462,3915 1551,3915 1641,3909 1731,3909 1820,3909 1910,3915 1999,3915 2089,3915 2178,3921 2268,3921 2357,3927 2447,3933 2536,3933 2626,3933"/>
+                <TextEquiv>
+                    <Unicode>Daʒ man darnach chünn leben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="899,4122 1103,4080 1345,4127 1462,4078 1880,4065 1942,4114 2136,4060 2138,4005 1815,3920 1544,3987 1451,3954 1348,3990 1245,3941 901,3977"/>
+                <Baseline points="913,4076 978,4082 1068,4082 1158,4076 1247,4070 1337,4070 1426,4065 1516,4065 1605,4065 1695,4059 1784,4059 1874,4059 1963,4059 2053,4059 2142,4053"/>
+                <TextEquiv>
+                    <Unicode>Vnd die tag vnd jar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="850,4264 932,4230 1227,4300 1449,4225 1632,4292 1803,4222 2141,4284 2526,4253 2492,4142 2213,4142 2110,4073 1908,4132 1790,4070 1312,4140 1121,4091 850,4166"/>
+                <Baseline points="865,4220 955,4226 1044,4226 1134,4220 1223,4220 1313,4220 1402,4214 1492,4214 1581,4214 1671,4214 1760,4214 1850,4214 1939,4208 2029,4214 2119,4214 2208,4214 2298,4220 2387,4226 2477,4220 2530,4220"/>
+                <TextEquiv>
+                    <Unicode>Scheinen auf der erden gar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="881,4385 1356,4437 1552,4383 1898,4395 2001,4439 2353,4419 2639,4494 2637,4246 2526,4284 2422,4235 2100,4315 1573,4253 1454,4300 1281,4266 1110,4300 1059,4248 881,4246"/>
+                <Baseline points="895,4375 984,4375 1074,4375 1163,4375 1253,4375 1343,4375 1432,4375 1522,4375 1611,4375 1701,4375 1790,4375 1880,4375 1969,4375 2059,4375 2148,4375 2238,4381 2327,4387 2417,4387 2507,4387 2596,4387 2644,4387"/>
+                <TextEquiv>
+                    <Unicode>Darnach macht er cʒway liecht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="881,4548 1245,4527 1477,4607 1679,4540 2112,4592 2182,4540 2304,4623 2446,4610 2446,4426 1999,4439 1694,4388 1358,4439 881,4385"/>
+                <Baseline points="895,4530 984,4530 1074,4530 1163,4524 1253,4524 1343,4524 1432,4524 1522,4530 1611,4536 1701,4536 1790,4536 1880,4536 1969,4536 2059,4530 2148,4530 2238,4530 2327,4530 2417,4530 2453,4530"/>
+                <TextEquiv>
+                    <Unicode>Als man ſy alle tag ſiecht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="899,4736 1531,4734 1707,4690 1947,4757 2004,4716 2112,4752 2244,4682 2554,4705 2536,4537 2340,4625 2221,4545 2115,4594 1865,4543 1343,4615 1059,4545 899,4574"/>
+                <Baseline points="913,4679 1002,4679 1092,4679 1181,4679 1271,4679 1360,4679 1450,4673 1540,4679 1629,4679 1719,4679 1808,4685 1898,4685 1987,4685 2077,4685 2166,4679 2256,4679 2345,4679 2435,4679 2524,4679 2560,4685"/>
+                <TextEquiv>
+                    <Unicode>Ein groʒſes vnd ein chlaines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="881,4827 1123,4886 1410,4853 1668,4914 1903,4837 2446,4868 2446,4747 2262,4718 2040,4770 1710,4690 1116,4762 881,4718"/>
+                <Baseline points="895,4817 984,4823 1074,4823 1163,4829 1253,4823 1343,4823 1432,4817 1522,4823 1611,4823 1701,4829 1790,4829 1880,4835 1969,4835 2059,4835 2148,4835 2238,4835 2327,4841 2417,4835 2453,4841"/>
+                <TextEquiv>
+                    <Unicode>Dem tag peſchied er aines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="868,5033 1203,4989 1348,5049 1568,4984 1779,5054 1896,4989 2043,5041 2156,4992 2674,5064 2684,4893 2100,4873 1981,4904 1759,4873 1653,4917 1441,4860 868,4871"/>
+                <Baseline points="883,4984 901,4984 990,4990 1080,4990 1169,4990 1259,4984 1349,4978 1438,4978 1528,4978 1617,4978 1707,4984 1796,4984 1886,4984 1975,4990 2065,4984 2154,4984 2244,4984 2333,4984 2662,4992"/>
+                <TextEquiv>
+                    <Unicode>Vnd hieʒ der nacht ains vor ſein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="886,5217 1079,5245 1247,5186 1387,5219 1880,5147 1999,5201 2236,5196 2350,5261 2453,5237 2456,5036 2156,4992 2058,5044 1914,5000 1785,5067 1539,5007 1402,5064 1203,5007 1085,5041 888,5007"/>
+                <Baseline points="901,5145 937,5151 1026,5157 1116,5157 1205,5157 1295,5145 1384,5139 1474,5139 1563,5139 1653,5139 1743,5139 1832,5139 1922,5139 2011,5139 2101,5133 2190,5139 2280,5139 2369,5139 2459,5139"/>
+                <TextEquiv>
+                    <Unicode>Daʒ ſy payde geben ſchein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Do daʒ alles geſchach&#13;
+Darnach got aber ſprach&#13;
+Ich wil daʒ ſtern wern berait&#13;
+An des hymels veſtichait&#13;
+Die tag vnd nach ſchaiden&#13;
+Vnd das an den paiden&#13;
+Cʒaichen vnd cʒeit geben&#13;
+Daʒ man darnach chünn leben&#13;
+Vnd die tag vnd jar&#13;
+Scheinen auf der erden gar&#13;
+Darnach macht er cʒway liecht&#13;
+Als man ſy alle tag ſiecht&#13;
+Ein groʒſes vnd ein chlaines&#13;
+Dem tag peſchied er aines&#13;
+Vnd hieʒ der nacht ains vor ſein&#13;
+Daʒ ſy payde geben ſchein</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="2816,575 4878,575 4878,2242 2816,2242"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2867,790 3523,821 3610,860 3765,785 3838,834 4119,788 4362,865 4519,811 4517,666 4413,648 4155,677 4013,622 3670,708 3497,628 3058,609 2864,555"/>
+                <Baseline points="2877,740 2960,758 3050,758 3139,764 3229,764 3318,764 3408,764 3497,770 3587,764 3677,770 3766,764 3856,764 3945,764 4035,758 4124,758 4214,758 4303,764 4393,770 4482,775 4524,775"/>
+                <TextEquiv>
+                    <Unicode>Vnd lewchten auf der erden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2869,917 2967,950 3236,919 3476,997 3559,950 3641,984 3693,935 3936,994 4155,968 4225,1028 4321,1002 4318,850 4269,826 3621,868 3484,821 3133,839 2867,785"/>
+                <Baseline points="2883,913 2972,913 3062,913 3151,913 3241,919 3330,919 3420,925 3509,931 3599,931 3688,931 3778,925 3868,931 3957,931 4047,931 4136,931 4226,937 4315,943 4327,949"/>
+                <TextEquiv>
+                    <Unicode>Darnach hieʒ er werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2867,1116 3006,1157 3215,1082 3440,1139 3585,1085 3773,1165 3843,1116 4008,1108 4264,1147 4328,1121 4326,1018 4225,1028 4155,968 3874,1010 3683,940 3628,999 3432,961 3344,999 3231,930 2861,917"/>
+                <Baseline points="2877,1074 2966,1068 3056,1068 3145,1062 3235,1068 3324,1068 3414,1068 3503,1074 3593,1074 3682,1074 3772,1080 3862,1080 3951,1086 4041,1092 4130,1092 4220,1092 4309,1092 4333,1086"/>
+                <TextEquiv>
+                    <Unicode>An dem hymel ſternelein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2846,1255 3153,1294 3401,1219 4238,1320 4499,1281 4496,1118 4349,1103 4243,1147 4016,1105 3848,1170 3597,1098 3411,1160 3269,1113 3016,1154 2843,1123"/>
+                <Baseline points="2859,1217 2948,1217 3038,1217 3127,1223 3217,1217 3306,1217 3396,1217 3486,1223 3575,1229 3665,1235 3754,1235 3844,1235 3933,1235 4023,1235 4112,1235 4202,1235 4291,1241 4381,1235 4470,1235 4506,1235"/>
+                <TextEquiv>
+                    <Unicode>Daʒ ſy der erden geben ſchein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2836,1446 3138,1462 3264,1423 3605,1472 3763,1431 4197,1459 4636,1415 4698,1446 4819,1418 4819,1333 4636,1281 4385,1281 4230,1343 3680,1263 3213,1247 3045,1299 2941,1245 2833,1263"/>
+                <Baseline points="2847,1396 2936,1408 3026,1402 3115,1396 3205,1396 3294,1390 3384,1390 3474,1384 3563,1390 3653,1396 3742,1402 3832,1402 3921,1408 4011,1408 4100,1414 4190,1408 4279,1408 4369,1408 4458,1408 4548,1402 4638,1402 4727,1408 4817,1414 4823,1414"/>
+                <TextEquiv>
+                    <Unicode>Vnd daʒ ſy ſchieden tag vnd nacht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="2820,1606 2900,1583 3055,1655 3223,1570 3494,1619 3732,1570 4080,1648 4364,1588 4447,1640 4597,1617 4713,1661 4896,1648 4896,1524 4741,1467 4612,1508 4455,1438 4349,1508 3974,1454 3794,1488 3481,1444 3303,1485 3091,1433 2818,1457"/>
+                <Baseline points="2835,1557 2924,1563 3014,1563 3103,1557 3193,1557 3283,1557 3372,1557 3462,1557 3551,1557 3641,1557 3730,1563 3820,1563 3909,1569 3999,1569 4088,1569 4178,1575 4267,1575 4357,1581 4447,1581 4536,1581 4626,1581 4715,1587 4805,1575 4894,1575 4900,1575"/>
+                <TextEquiv>
+                    <Unicode>Suſt ward der vierd tag volpracht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_7" custom="readingOrder {index:6;} person {offset:10; length:4;}">
+                <Coords points="2851,1738 3120,1790 3308,1720 3396,1774 4140,1769 4321,1823 4594,1774 4589,1655 4514,1666 4362,1588 3969,1666 3786,1583 3711,1640 3574,1578 3502,1617 3153,1604 3065,1653 2900,1583 2846,1609"/>
+                <Baseline points="2865,1725 2954,1725 3044,1719 3133,1719 3223,1713 3312,1713 3402,1719 3491,1719 3581,1719 3671,1725 3760,1731 3850,1731 3939,1737 4029,1743 4118,1743 4208,1748 4297,1748 4387,1760 4476,1760 4566,1766 4596,1760"/>
+                <TextEquiv>
+                    <Unicode>Da ſprach got aber an der ſtat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="2836,1934 3231,1880 3331,1916 3711,1890 4209,1999 4434,1947 4432,1805 4321,1823 4264,1782 4178,1823 4013,1774 3817,1810 3662,1759 3370,1795 3303,1751 3120,1790 2947,1761 2833,1821"/>
+                <Baseline points="2847,1892 2936,1886 3026,1880 3115,1880 3205,1874 3294,1874 3384,1874 3474,1874 3563,1874 3653,1874 3742,1880 3832,1886 3921,1886 4011,1892 4100,1898 4190,1904 4279,1910 4369,1922 4441,1928"/>
+                <TextEquiv>
+                    <Unicode>Swas die erd waſſers hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="2869,2058 3053,2045 3189,2112 3378,2040 3760,2143 3918,2084 4212,2092 4209,1968 4036,1939 3923,1960 3732,1914 3623,1965 3515,1929 3342,1963 2867,1914"/>
+                <Baseline points="2883,2035 2972,2041 3062,2041 3151,2035 3241,2035 3330,2035 3420,2041 3509,2041 3599,2047 3688,2047 3778,2053 3868,2053 3957,2059 4047,2059 4136,2059 4214,2059"/>
+                <TextEquiv>
+                    <Unicode>Die pringen beſunder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="2923,2280 3130,2291 3187,2244 3277,2278 3489,2198 3840,2203 3998,2324 4310,2322 4308,2102 3618,2141 3432,2069 3313,2138 3076,2061 2921,2066"/>
+                <Baseline points="2936,2214 2972,2202 3062,2202 3151,2208 3241,2196 3330,2196 3420,2196 3509,2196 3599,2202 3688,2202 3778,2202 3868,2202 3957,2208 4047,2214 4136,2214 4226,2214 4315,2208"/>
+                <TextEquiv>
+                    <Unicode>Viſch vnd mer wunder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vnd lewchten auf der erden&#13;
+Darnach hieʒ er werden&#13;
+An dem hymel ſternelein&#13;
+Daʒ ſy der erden geben ſchein&#13;
+Vnd daʒ ſy ſchieden tag vnd nacht&#13;
+Suſt ward der vierd tag volpracht&#13;
+Da ſprach got aber an der ſtat&#13;
+Swas die erd waſſers hat&#13;
+Die pringen beſunder&#13;
+Viſch vnd mer wunder</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="2816,3420 4778,3420 4778,5245 2816,5245"/>
+            <TextLine id="r_4_tl_1" custom="readingOrder {index:0;} abbrev {offset:16; length:4;}">
+                <Coords points="2864,3572 3091,3600 3171,3654 3331,3582 3763,3639 4008,3561 4160,3641 4739,3641 4739,3499 4641,3468 3151,3481 2864,3411"/>
+                <Baseline points="2877,3563 2966,3569 3056,3575 3145,3575 3235,3575 3324,3569 3414,3569 3503,3569 3593,3569 3682,3575 3772,3575 3862,3581 3951,3575 4041,3575 4130,3575 4220,3575 4309,3575 4399,3575 4488,3581 4578,3581 4667,3581 4745,3581"/>
+                <TextEquiv>
+                    <Unicode>Vnd ſwas man in de̅ waſſer ſiecht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2851,3776 3125,3732 3610,3789 3938,3742 4238,3814 4346,3781 4344,3631 4016,3659 3636,3603 3257,3662 3006,3595 2848,3613"/>
+                <Baseline points="2865,3730 2954,3736 3044,3736 3133,3730 3223,3724 3312,3724 3402,3718 3491,3718 3581,3718 3671,3724 3760,3724 3850,3730 3939,3730 4029,3736 4118,3736 4208,3742 4297,3742 4351,3736"/>
+                <TextEquiv>
+                    <Unicode>Das was auch wider nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2864,3925 3130,3887 3329,3949 3572,3949 3628,3897 3752,3964 3962,3897 4228,3941 4411,3892 4411,3770 4220,3814 3931,3742 3789,3801 3497,3763 3220,3814 2864,3765"/>
+                <Baseline points="2877,3885 2966,3891 3056,3885 3145,3885 3235,3879 3324,3879 3414,3879 3503,3879 3593,3885 3682,3885 3772,3885 3862,3885 3951,3885 4041,3885 4130,3891 4220,3891 4309,3891 4399,3891 4417,3891"/>
+                <TextEquiv>
+                    <Unicode>Darnach beſchüff der güt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2864,4070 3295,4114 3489,4057 3807,4086 3861,4127 4029,4067 4178,4096 4178,3998 4008,3933 3807,3969 3623,3915 3481,3972 3293,3912 3125,3967 2864,3923"/>
+                <Baseline points="2877,4059 2966,4053 3056,4047 3145,4041 3235,4035 3324,4035 3414,4041 3503,4041 3593,4047 3682,4047 3772,4041 3862,4047 3951,4053 4041,4059 4130,4065 4184,4065"/>
+                <TextEquiv>
+                    <Unicode>Die viſch in dem fluet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2851,4271 3063,4212 3130,4259 3378,4220 3721,4251 3907,4212 3907,4119 3755,4145 3600,4062 3409,4060 3210,4137 3084,4070 2851,4086"/>
+                <Baseline points="2865,4202 2954,4202 3044,4196 3133,4196 3223,4196 3312,4196 3402,4196 3491,4202 3581,4202 3671,4202 3760,4202 3850,4202 3915,4202"/>
+                <TextEquiv>
+                    <Unicode>Groʒ vnd chlaine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="2869,4393 3019,4434 3192,4388 3721,4439 4047,4380 4344,4429 4344,4264 4135,4199 4039,4253 3894,4222 3776,4300 3603,4246 3479,4282 3355,4238 2869,4261"/>
+                <Baseline points="2883,4375 2972,4375 3062,4375 3151,4375 3241,4375 3330,4369 3420,4369 3509,4369 3599,4369 3688,4375 3778,4369 3868,4375 3957,4375 4047,4375 4136,4375 4226,4375 4315,4375 4351,4375"/>
+                <TextEquiv>
+                    <Unicode>Vnd alles daʒ gemaine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="2848,4576 2985,4568 3068,4628 3197,4550 3497,4545 3628,4602 3830,4548 4044,4592 4222,4548 4370,4571 4421,4558 4424,4403 4173,4463 3918,4403 3528,4465 3406,4413 2985,4432 2851,4377"/>
+                <Baseline points="2865,4524 2954,4536 3044,4536 3133,4530 3223,4530 3312,4530 3402,4530 3491,4530 3581,4530 3671,4536 3760,4530 3850,4530 3939,4530 4029,4530 4118,4524 4208,4524 4297,4524 4387,4524 4429,4524"/>
+                <TextEquiv>
+                    <Unicode>Daʒ lebentig vnd daʒ man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="2874,4726 3164,4778 3561,4690 3739,4754 3900,4713 4168,4757 4233,4718 4525,4741 4530,4574 4395,4602 4352,4561 4256,4607 3941,4558 3776,4615 3306,4543 3068,4630 2877,4576"/>
+                <Baseline points="2889,4721 2918,4715 3008,4703 3098,4703 3187,4697 3277,4697 3366,4691 3456,4691 3545,4685 3635,4679 3724,4679 3814,4673 3903,4667 3993,4667 4082,4667 4172,4673 4261,4667 4351,4673 4441,4673 4530,4667"/>
+                <TextEquiv>
+                    <Unicode>Noch lebentig geſechen chan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="2838,4938 3086,4951 3259,4891 3812,4850 4359,4966 4362,4765 4287,4736 4147,4767 3993,4710 3910,4767 3613,4713 3541,4757 3409,4734 3156,4788 2975,4739 2841,4762"/>
+                <Baseline points="2853,4876 2930,4876 3020,4870 3109,4870 3199,4864 3289,4864 3378,4858 3468,4852 3557,4852 3647,4852 3736,4846 3826,4846 3915,4846 4005,4846 4094,4852 4184,4852 4273,4852 4363,4858"/>
+                <TextEquiv>
+                    <Unicode>Daʒ ward alles volpracht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="2838,5044 3215,5106 3492,5031 3628,5077 3693,5028 3905,5028 4171,5095 4390,5046 4571,5147 4568,4933 4297,4966 4168,4914 3843,4922 3556,4865 3375,4948 2836,4938"/>
+                <Baseline points="2853,5014 2942,5020 3032,5026 3121,5026 3211,5020 3300,5014 3390,5014 3480,5008 3569,5008 3659,5014 3748,5008 3838,5014 3927,5014 4017,5020 4106,5014 4196,5020 4285,5032 4375,5032 4464,5032 4554,5037 4578,5032"/>
+                <TextEquiv>
+                    <Unicode>Do ein yegleichs nach ſein’ acht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="2869,5230 3133,5276 3489,5183 3791,5284 4034,5206 4036,5033 3956,5075 3796,5036 3634,5088 3489,5031 3223,5106 3109,5064 3034,5111 2872,5085"/>
+                <Baseline points="2883,5181 2966,5187 3056,5193 3145,5181 3235,5181 3324,5175 3414,5175 3503,5175 3593,5175 3682,5169 3772,5169 3862,5169 3951,5169 4041,5169"/>
+                <TextEquiv>
+                    <Unicode>Da eʒ got da geſach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vnd ſwas man in de̅ waſſer ſiecht&#13;
+Das was auch wider nicht&#13;
+Darnach beſchüff der güt&#13;
+Die viſch in dem fluet&#13;
+Groʒ vnd chlaine&#13;
+Vnd alles daʒ gemaine&#13;
+Daʒ lebentig vnd daʒ man&#13;
+Noch lebentig geſechen chan&#13;
+Daʒ ward alles volpracht&#13;
+Do ein yegleichs nach ſein’ acht&#13;
+Da eʒ got da geſach</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=52284:lm=none:date=29_11_2024_16:23</Creator>
+        <Created>2024-11-08T13:43:37.696+01:00</Created>
+        <LastChange>2024-12-18T16:39:28.709+01:00</LastChange>
+        <TranskribusMetadata docId="5064035" pageId="82738009" pageNr="34" tsid="213509672" status="DONE" userId="290724" imgUrl="https://files.transkribus.eu/Get?id=HVGANTBUAADYDPTMFLBDJFJI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DTHHWRHZNHKKHOOLZDXNPXLG" imageId="68084514"/>
+    </Metadata>
+    <Page imageFilename="enikel weltchronik-0034.jpeg" imageWidth="5274" imageHeight="6046">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734603114658" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="619,626 2489,626 2489,3421 619,3421"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="662,782 1497,750 2008,794 2008,667 1854,608 1661,598 1578,637 1461,576 1329,633 1185,613 918,667 662,628"/>
+                <Baseline points="675,740 758,740 848,734 937,734 1027,728 1117,728 1206,728 1296,728 1386,728 1475,728 1565,728 1654,734 1744,734 1834,734 1923,722 2013,734"/>
+                <TextEquiv>
+                    <Unicode>Cʒwar es iſt nicht gut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="625,913 953,918 1062,967 1207,911 1407,931 1544,889 1864,911 1934,960 2079,928 2081,821 1937,782 1600,752 1243,799 1187,767 1041,816 874,757 628,774"/>
+                <Baseline points="639,902 651,902 740,902 830,902 920,896 1009,896 1099,890 1188,890 1278,896 1368,896 1457,890 1547,884 1636,884 1726,884 1816,890 1905,890 1995,890 2085,896"/>
+                <TextEquiv>
+                    <Unicode>Das ein ſo biderbe man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="620,1070 769,1119 957,1045 1358,1099 1658,1033 1920,1092 2247,1075 2250,923 2186,901 2042,960 1815,911 1644,943 1524,892 1253,972 1021,967 953,916 623,972"/>
+                <Baseline points="633,1051 639,1045 728,1057 818,1051 908,1045 997,1039 1087,1039 1176,1039 1266,1039 1356,1039 1445,1039 1535,1039 1625,1033 1714,1033 1804,1033 1893,1033 1983,1033 2073,1033 2162,1027 2252,1027"/>
+                <TextEquiv>
+                    <Unicode>Süll ain auf der erden gan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="613,1251 830,1231 889,1277 1019,1273 1165,1211 1409,1251 1522,1204 1593,1246 1783,1194 2145,1292 2347,1255 2347,1099 2306,1084 2162,1121 2030,1077 1910,1128 1702,1080 1492,1116 1419,1067 1138,1121 1072,1082 796,1124 613,1097"/>
+                <Baseline points="627,1218 651,1212 740,1200 830,1206 920,1206 1009,1200 1099,1200 1188,1194 1278,1194 1368,1188 1457,1188 1547,1182 1636,1188 1726,1188 1816,1188 1905,1188 1995,1188 2085,1188 2174,1194 2264,1194 2353,1194"/>
+                <TextEquiv>
+                    <Unicode>Im ſol wonen ein gemechet pey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="625,1368 835,1426 1094,1404 1133,1446 1492,1380 1983,1407 1971,1207 1590,1246 1485,1207 1409,1251 1165,1211 1004,1275 628,1248"/>
+                <Baseline points="639,1362 728,1362 818,1362 908,1356 997,1350 1087,1350 1176,1344 1266,1344 1356,1344 1445,1338 1535,1338 1625,1338 1714,1344 1804,1344 1893,1350 1983,1362 1989,1362"/>
+                <TextEquiv>
+                    <Unicode>Daʒ ym ſelb geleich ſey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="618,1607 1148,1519 1258,1566 1422,1529 1578,1583 1690,1524 1803,1575 1917,1531 2184,1536 2186,1434 2054,1368 1986,1417 1837,1424 1693,1392 1651,1422 1600,1380 1290,1387 1136,1446 1092,1404 623,1417"/>
+                <Baseline points="633,1553 669,1541 758,1535 848,1529 937,1523 1027,1511 1117,1505 1206,1505 1296,1499 1386,1499 1475,1499 1565,1499 1654,1493 1744,1493 1834,1493 1923,1499 2013,1499 2102,1499 2192,1493"/>
+                <TextEquiv>
+                    <Unicode>Vil gütleich er gen im redt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="633,1746 928,1754 1302,1688 1368,1727 1651,1656 2223,1727 2384,1707 2386,1556 2157,1585 1900,1531 1773,1580 1690,1524 1585,1583 1346,1519 1258,1566 1148,1519 633,1619"/>
+                <Baseline points="645,1684 687,1684 776,1678 866,1678 955,1672 1045,1666 1135,1660 1224,1660 1314,1660 1403,1660 1493,1654 1583,1660 1672,1654 1762,1654 1852,1654 1941,1654 2031,1654 2120,1654 2210,1660 2300,1660 2389,1666"/>
+                <TextEquiv>
+                    <Unicode>Er ſprach ich ſag dir hie cʒeſtet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="611,1883 843,1905 1014,1849 1106,1900 1319,1895 1571,1834 1668,1883 2061,1851 2279,1908 2301,1751 2166,1715 1903,1734 1785,1678 1573,1732 1480,1688 1292,1761 1141,1695 887,1761 613,1705"/>
+                <Baseline points="627,1834 716,1840 806,1834 896,1828 985,1828 1075,1822 1164,1822 1254,1816 1344,1816 1433,1816 1523,1816 1613,1810 1702,1810 1792,1810 1881,1816 1971,1822 2061,1822 2150,1822 2240,1828 2306,1840"/>
+                <TextEquiv>
+                    <Unicode>Du macht nicht ain geneſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="625,2008 740,2037 823,1993 911,2039 1290,1983 1590,2042 1820,1986 2049,2066 2203,2025 2206,1888 2061,1851 1634,1886 1541,1844 1419,1903 1353,1871 1097,1905 1019,1847 835,1905 625,1881"/>
+                <Baseline points="639,1995 687,1995 776,1989 866,1989 955,1977 1045,1977 1135,1977 1224,1971 1314,1971 1403,1971 1493,1965 1583,1965 1672,1959 1762,1959 1852,1965 1941,1965 2031,1971 2120,1971 2210,1977"/>
+                <TextEquiv>
+                    <Unicode>Dir ſol ein weib pey weſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_10" custom="readingOrder {index:9;} person {offset:15; length:5;}">
+                <Coords points="636,2180 1124,2188 1177,2147 1331,2196 1571,2125 1895,2171 2308,2145 2306,2052 2166,2018 2042,2066 1917,1993 1771,2047 1121,1993 634,2026"/>
+                <Baseline points="636,2134 1009,2132 1099,2132 1188,2126 1278,2132 1368,2120 1457,2120 1547,2120 1636,2114 1726,2120 1816,2126 1905,2126 1995,2132 2085,2138 2174,2132 2264,2144 2312,2144"/>
+                <TextEquiv>
+                    <Unicode>DEr red anwurt adam do</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="830,2362 1060,2289 1204,2320 1593,2262 2071,2296 2264,2364 2359,2303 2445,2323 2442,2188 2159,2145 1588,2142 1270,2201 984,2176 828,2235"/>
+                <Baseline points="842,2294 931,2282 1021,2282 1111,2276 1200,2270 1290,2270 1380,2264 1469,2258 1559,2252 1648,2258 1738,2258 1828,2264 1917,2270 2007,2276 2096,2282 2186,2288 2276,2294 2365,2300 2449,2300"/>
+                <TextEquiv>
+                    <Unicode>Wann er was der red vil fro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="633,2452 1102,2482 1182,2433 1343,2472 1529,2418 1732,2496 1869,2442 1873,2301 1707,2289 1607,2342 1429,2274 777,2372 635,2311"/>
+                <Baseline points="645,2443 710,2437 800,2437 890,2437 979,2431 1069,2431 1159,2425 1248,2425 1338,2419 1427,2413 1517,2413 1607,2413 1696,2413 1786,2413 1875,2419"/>
+                <TextEquiv>
+                    <Unicode>Her was dir liep ſey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="608,2591 740,2633 811,2584 884,2633 1168,2601 1236,2645 1487,2572 2218,2648 2188,2455 1854,2440 1698,2506 1563,2433 1370,2499 1175,2469 1077,2504 997,2450 935,2479 608,2440"/>
+                <Baseline points="621,2580 710,2586 800,2580 890,2580 979,2574 1069,2574 1159,2568 1248,2568 1338,2562 1427,2562 1517,2562 1607,2562 1696,2568 1786,2568 1875,2568 1965,2574 2055,2574 2144,2568 2222,2580"/>
+                <TextEquiv>
+                    <Unicode>Da ſol mein will weſen pey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_14" custom="readingOrder {index:13;} person {offset:9; length:4;}">
+                <Coords points="608,2760 716,2789 994,2733 1138,2775 1197,2738 1412,2784 1663,2726 1991,2811 2125,2777 2125,2682 1988,2609 1900,2667 1541,2574 1265,2648 1033,2594 791,2643 608,2618"/>
+                <Baseline points="621,2748 710,2748 800,2736 890,2730 979,2730 1069,2724 1159,2724 1248,2718 1338,2718 1427,2712 1517,2712 1607,2712 1696,2718 1786,2718 1875,2718 1965,2724 2055,2736 2132,2754"/>
+                <TextEquiv>
+                    <Unicode>Do macht got der reiche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="633,2911 926,2880 999,2924 1263,2919 1358,2880 1578,2926 1685,2887 1778,2943 1925,2902 1925,2794 1658,2726 1358,2797 1202,2740 1102,2799 633,2787"/>
+                <Baseline points="645,2891 675,2897 764,2885 854,2879 943,2873 1033,2873 1123,2867 1212,2867 1302,2873 1392,2867 1481,2867 1571,2867 1660,2867 1750,2867 1840,2873 1929,2879"/>
+                <TextEquiv>
+                    <Unicode>Ein weib ym geleiche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="572,3053 1839,3058 1871,2911 1773,2946 1683,2887 1480,2955 1133,2897 816,2968 752,2907 574,2911"/>
+                <Baseline points="585,3046 621,3046 710,3040 800,3034 890,3028 979,3028 1069,3023 1159,3023 1248,3017 1338,3017 1427,3017 1517,3017 1607,3017 1696,3017 1786,3017 1875,3017"/>
+                <TextEquiv>
+                    <Unicode>Do er was entnuket</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="613,3219 1180,3244 1451,3190 1551,3231 1803,3178 2079,3195 2079,3041 1742,3031 1290,3117 613,3060"/>
+                <Baseline points="627,3202 651,3202 740,3190 830,3178 920,3178 1009,3172 1099,3172 1188,3172 1278,3178 1368,3172 1457,3172 1547,3172 1636,3172 1726,3172 1816,3172 1905,3172 1995,3178 2085,3184"/>
+                <TextEquiv>
+                    <Unicode>Do het ym got gecʒuket</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="637,3356 2210,3351 2213,3253 1915,3187 1739,3251 1673,3212 1519,3236 1448,3190 1192,3249 706,3224 640,3266"/>
+                <Baseline points="651,3351 693,3345 782,3339 872,3333 961,3339 1051,3333 1141,3339 1230,3339 1320,3339 1409,3333 1499,3333 1589,3333 1678,3327 1768,3327 1858,3327 1947,3327 2037,3327 2126,3327 2216,3327"/>
+                <TextEquiv>
+                    <Unicode>Ein Ryp von der ſeiten ſein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cʒwar es iſt nicht gut
+Das ein ſo biderbe man
+Süll ain auf der erden gan
+Im ſol wonen ein gemechet pey
+Daʒ ym ſelb geleich ſey
+Vil gütleich er gen im redt
+Er ſprach ich ſag dir hie cʒeſtet
+Du macht nicht ain geneſen
+Dir ſol ein weib pey weſen
+DEr red anwurt adam do
+Wann er was der red vil fro
+Her was dir liep ſey
+Da ſol mein will weſen pey
+Do macht got der reiche
+Sin weib ym geleiche
+Do er was entnuket
+Do het ym got gecʒuket
+Ein Ryp von der ſeiten ſein</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:1;}">
+            <Coords points="2542,632 4598,632 4598,5217 2542,5217"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2591,760 2938,794 3041,760 3268,806 3422,765 3671,845 3739,784 3891,828 3959,801 3957,686 3840,647 3617,703 3334,613 3143,630 3009,589 2833,645 2587,572"/>
+                <Baseline points="2604,746 2694,752 2784,752 2873,752 2963,752 3052,752 3142,752 3232,758 3321,764 3411,764 3500,764 3590,770 3680,776 3769,776 3859,770 3949,770 3966,770"/>
+                <TextEquiv>
+                    <Unicode>Der vil lieb trechtein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2582,948 2792,921 2914,957 3043,911 3139,970 3212,926 3490,926 3866,979 4013,931 4255,1001 4250,811 4018,774 3862,852 3759,796 3539,848 3258,828 3180,774 2938,816 2577,796"/>
+                <Baseline points="2592,902 2682,896 2772,896 2861,902 2951,896 3040,896 3130,896 3220,902 3309,908 3399,908 3488,914 3578,914 3668,920 3757,920 3847,920 3937,926 4026,926 4116,931 4205,931 4259,931"/>
+                <TextEquiv>
+                    <Unicode>Er prach es aws dem leibe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2567,1072 3095,1080 3200,1128 3556,1153 3954,1092 4135,1124 4130,943 3671,1001 3212,940 3136,994 2892,992 2789,918 2565,955"/>
+                <Baseline points="2580,1057 2670,1063 2760,1063 2849,1063 2939,1057 3028,1057 3118,1057 3208,1057 3297,1063 3387,1063 3477,1069 3566,1069 3656,1069 3745,1069 3835,1075 3925,1075 4014,1081 4104,1087 4140,1093"/>
+                <TextEquiv>
+                    <Unicode>Vnd macht ym ein weibe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2555,1241 3165,1204 3459,1268 3859,1260 3859,1128 3774,1114 3556,1153 3283,1116 3195,1153 3009,1097 2775,1141 2555,1070"/>
+                <Baseline points="2568,1212 2658,1212 2748,1212 2837,1206 2927,1200 3017,1200 3106,1200 3196,1200 3285,1200 3375,1206 3465,1212 3554,1212 3644,1212 3733,1212 3823,1218 3865,1224"/>
+                <TextEquiv>
+                    <Unicode>Die nant er virago</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2579,1390 3024,1400 3207,1360 4196,1404 4194,1299 3908,1238 3659,1302 3564,1253 3332,1268 3100,1216 2819,1280 2716,1229 2577,1241"/>
+                <Baseline points="2592,1356 2682,1362 2772,1362 2861,1356 2951,1356 3040,1350 3130,1356 3220,1356 3309,1356 3399,1362 3488,1368 3578,1368 3668,1368 3757,1374 3847,1368 3937,1374 4026,1380 4116,1386 4199,1386"/>
+                <TextEquiv>
+                    <Unicode>Des weibes was er vil vro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="2596,1544 2958,1522 3070,1568 3400,1522 4199,1610 4196,1446 3830,1370 3542,1453 3346,1404 2594,1392"/>
+                <Baseline points="2610,1511 2700,1511 2790,1511 2879,1505 2969,1505 3058,1505 3148,1505 3238,1511 3327,1511 3417,1517 3506,1517 3596,1517 3686,1517 3775,1523 3865,1529 3954,1529 4044,1529 4134,1529 4205,1529"/>
+                <TextEquiv>
+                    <Unicode>Der nam er war mit ſinnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_7" custom="readingOrder {index:6;} abbrev {offset:16; length:9;} unclear {offset:16; length:9;}">
+                <Coords points="2579,1678 2848,1749 3075,1695 3290,1734 3556,1705 3823,1759 4013,1724 4013,1595 3717,1556 3612,1595 3522,1551 3227,1602 2887,1529 2721,1585 2577,1546"/>
+                <Baseline points="2592,1660 2682,1660 2772,1660 2861,1660 2951,1660 3040,1666 3130,1666 3220,1666 3309,1666 3399,1666 3488,1666 3578,1666 3668,1666 3757,1666 3847,1672 3937,1684 4020,1690"/>
+                <TextEquiv>
+                    <Unicode>Daʒ ſy hieʒ ein meinny̅ne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_8" custom="readingOrder {index:7;} person {offset:16; length:4;}">
+                <Coords points="2567,1859 2919,1842 3016,1910 3322,1839 3478,1905 3683,1871 3915,1903 4226,1861 4226,1783 3888,1746 3698,1781 3383,1705 3234,1751 3068,1693 2863,1751 2682,1676 2565,1688"/>
+                <Baseline points="2580,1822 2670,1822 2760,1822 2849,1828 2939,1828 3028,1828 3118,1828 3208,1828 3297,1822 3387,1828 3477,1834 3566,1834 3656,1834 3745,1834 3835,1840 3925,1846 4014,1846 4104,1852 4193,1852 4229,1858"/>
+                <TextEquiv>
+                    <Unicode>Darnach ward ſy eva genant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="2557,2015 2711,2013 2902,2081 3016,2025 3373,2074 3454,2022 3686,2052 3832,2020 3998,2113 4072,2057 4289,2025 4287,1939 4035,1886 3791,1908 3686,1871 3495,1910 3383,1869 3295,1915 3202,1869 3014,1915 2745,1839 2552,1856"/>
+                <Baseline points="2568,1977 2658,1983 2748,1983 2837,1989 2927,1989 3017,1989 3106,1989 3196,1989 3285,1995 3375,1995 3465,1995 3554,2001 3644,2001 3733,2007 3823,2007 3913,2013 4002,2013 4092,2019 4182,2019 4271,2025 4295,2025"/>
+                <TextEquiv>
+                    <Unicode>Als ſy noch hewt iſt bechant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="2596,2152 2926,2174 3063,2228 3322,2232 3415,2181 3573,2240 4113,2203 4179,2237 4174,2047 4001,2113 3742,2035 3598,2076 3515,2015 3371,2071 3100,2027 2899,2079 2594,1991"/>
+                <Baseline points="2610,2150 2700,2144 2790,2150 2879,2150 2969,2150 3058,2150 3148,2156 3238,2156 3327,2156 3417,2162 3506,2168 3596,2168 3686,2168 3775,2168 3865,2168 3954,2168 4044,2168 4134,2180 4182,2180"/>
+                <TextEquiv>
+                    <Unicode>Darnach ſprach ſicherleiche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_11" custom="readingOrder {index:10;} person {offset:0; length:4;}">
+                <Coords points="2582,2328 2919,2315 3124,2399 3349,2328 3688,2406 3744,2364 3874,2384 3871,2247 3783,2215 3608,2250 3478,2201 3241,2242 3183,2210 3114,2250 3026,2208 2926,2232 2579,2179"/>
+                <Baseline points="2592,2306 2682,2306 2772,2306 2861,2306 2951,2300 3040,2306 3130,2312 3220,2318 3309,2324 3399,2324 3488,2324 3578,2324 3668,2324 3757,2318 3847,2318 3877,2318"/>
+                <TextEquiv>
+                    <Unicode>Got von hymel reiche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="2572,2499 2662,2511 2755,2460 2860,2511 3358,2474 3717,2570 3805,2513 4128,2574 4233,2540 4411,2604 4409,2374 3901,2352 3664,2403 3212,2347 3124,2399 2943,2342 2692,2369 2570,2318"/>
+                <Baseline points="2586,2461 2676,2461 2766,2455 2855,2455 2945,2455 3034,2461 3124,2467 3214,2467 3303,2467 3393,2473 3483,2473 3572,2467 3662,2467 3751,2467 3841,2467 3931,2473 4020,2479 4110,2479 4199,2485 4289,2485 4379,2491 4415,2497"/>
+                <TextEquiv>
+                    <Unicode>Do er ſy nakent vor ym ſach ſtan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_13" custom="readingOrder {index:12;} abbrev {offset:18; length:7;} person {offset:25; length:4;}">
+                <Coords points="2540,2682 2816,2633 2919,2697 3246,2653 3488,2689 3571,2640 3700,2682 3854,2638 4458,2716 4436,2582 4230,2599 3808,2513 3715,2567 3424,2489 3344,2530 3068,2491 2885,2526 2535,2479"/>
+                <Baseline points="2551,2616 2640,2622 2730,2622 2819,2622 2909,2622 2999,2616 3088,2622 3178,2628 3267,2634 3357,2634 3447,2634 3536,2634 3626,2634 3716,2634 3805,2634 3895,2640 3984,2652 4074,2658 4164,2664 4253,2664 4343,2670 4432,2676 4462,2676"/>
+                <TextEquiv>
+                    <Unicode>Vil lieber frewnt vrawe̅ eva man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="2574,2831 4128,2826 4123,2689 4064,2665 3957,2743 3739,2731 3615,2665 3520,2709 3385,2657 3266,2697 3095,2662 2916,2694 2865,2657 2570,2682"/>
+                <Baseline points="2586,2778 2676,2778 2766,2784 2855,2784 2945,2784 3034,2784 3124,2790 3214,2790 3303,2795 3393,2801 3483,2801 3572,2801 3662,2801 3751,2801 3841,2807 3931,2807 4020,2807 4110,2819 4134,2825"/>
+                <TextEquiv>
+                    <Unicode>Ich enphilich dir daʒ weib</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_15" custom="readingOrder {index:14;} abbrev {offset:21; length:7;}">
+                <Coords points="2548,2943 2797,2997 2875,2943 2975,2999 3065,2960 3117,3002 3441,2960 3761,3012 4042,2975 4345,3007 4409,2999 4406,2867 3688,2846 3576,2804 3471,2867 3327,2816 3163,2880 2780,2811 2736,2853 2653,2806 2545,2828"/>
+                <Baseline points="2562,2939 2652,2939 2742,2939 2831,2945 2921,2945 3011,2939 3100,2945 3190,2945 3279,2951 3369,2951 3459,2951 3548,2951 3638,2951 3727,2957 3817,2957 3907,2957 3996,2963 4086,2969 4176,2975 4265,2987 4355,2993 4415,2993"/>
+                <TextEquiv>
+                    <Unicode>Auf dein ſel vnd auf deine̅ leib</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="2548,3124 2721,3095 2782,3134 2919,3092 3129,3156 3351,3178 3605,3129 3705,3178 3864,3122 4099,3126 4096,2985 3827,3014 3710,2980 3568,3026 3290,2977 3070,3034 2872,2943 2797,2997 2643,2953 2545,2990"/>
+                <Baseline points="2562,3088 2652,3088 2742,3088 2831,3088 2921,3088 3011,3088 3100,3094 3190,3094 3279,3094 3369,3100 3459,3100 3548,3100 3638,3106 3727,3106 3817,3112 3907,3106 3996,3112 4086,3118 4104,3112"/>
+                <TextEquiv>
+                    <Unicode>Daʒ du ir phlegeſt alſo wol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_17" custom="readingOrder {index:16;} abbrev {offset:8; length:8;}">
+                <Coords points="2560,3275 3126,3339 3312,3275 3427,3312 3835,3283 3881,3324 4086,3295 4084,3134 3857,3124 3642,3190 3109,3143 2919,3178 2711,3100 2557,3129"/>
+                <Baseline points="2574,3255 2664,3255 2754,3250 2843,3250 2933,3244 3023,3244 3112,3250 3202,3255 3291,3255 3381,3255 3471,3255 3560,3255 3650,3255 3739,3261 3829,3261 3919,3261 4008,3261 4092,3267"/>
+                <TextEquiv>
+                    <Unicode>Als ein fru̅mer man ſol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="2572,3488 2826,3437 3107,3478 3669,3415 3998,3446 3996,3283 3891,3336 3815,3288 3647,3339 3319,3275 3114,3341 2782,3280 2570,3312"/>
+                <Baseline points="2586,3417 2676,3405 2766,3405 2855,3399 2945,3405 3034,3405 3124,3405 3214,3411 3303,3411 3393,3411 3483,3417 3572,3411 3662,3411 3751,3411 3841,3417 3931,3417 4002,3423"/>
+                <TextEquiv>
+                    <Unicode>Phlegen ſeines weibes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="2591,3622 2733,3571 2902,3634 3405,3583 3527,3632 3678,3586 3908,3639 3906,3449 3818,3429 3564,3422 3429,3493 3209,3441 3112,3478 2591,3483"/>
+                <Baseline points="2604,3578 2694,3566 2784,3566 2873,3560 2963,3566 3052,3566 3142,3566 3232,3566 3321,3566 3411,3566 3500,3566 3590,3572 3680,3572 3769,3578 3859,3584 3913,3578"/>
+                <TextEquiv>
+                    <Unicode>Ir ern vnd irs leibes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_20" custom="readingOrder {index:19;} person {offset:22; length:3;}">
+                <Coords points="2538,3779 2723,3803 2948,3757 3134,3815 3295,3776 3351,3805 3412,3752 3571,3813 3735,3752 4094,3791 4089,3622 3849,3688 3625,3593 3383,3632 3292,3586 2916,3664 2743,3603 2535,3649"/>
+                <Baseline points="2551,3745 2640,3745 2730,3733 2819,3733 2909,3733 2999,3727 3088,3733 3178,3733 3267,3733 3357,3739 3447,3739 3536,3745 3626,3751 3716,3751 3805,3751 3895,3757 3984,3757 4074,3757 4098,3769"/>
+                <TextEquiv>
+                    <Unicode>Alſo enphilich ich dir eva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="2555,3930 2992,3954 3148,3896 3268,3937 3656,3910 3656,3803 3554,3813 3468,3754 2982,3849 2929,3813 2736,3837 2660,3774 2555,3776"/>
+                <Baseline points="2568,3907 2586,3907 2676,3907 2766,3901 2855,3895 2945,3895 3034,3889 3124,3889 3214,3889 3303,3889 3393,3889 3483,3895 3572,3895 3662,3901"/>
+                <TextEquiv>
+                    <Unicode>Deinen man alda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="2567,4118 2995,4081 3273,4145 3437,4094 3561,4133 3820,4059 4384,4047 4384,3913 4238,3974 3876,3910 3764,3959 3451,3918 3398,3974 3209,3903 2995,3964 2567,3906"/>
+                <Baseline points="2580,4056 2598,4056 2688,4050 2778,4050 2867,4050 2957,4044 3046,4044 3136,4044 3226,4044 3315,4044 3405,4044 3494,4044 3584,4044 3674,4044 3763,4050 3853,4056 3943,4056 4032,4056 4122,4050 4211,4050 4301,4044 4391,4044"/>
+                <TextEquiv>
+                    <Unicode>Daʒ du phlegeſt ſeins leibs wol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="2543,4255 2843,4252 3065,4306 3187,4230 3610,4230 3813,4282 3996,4248 3998,4074 3925,4062 3842,4125 3722,4081 3622,4135 3329,4113 3187,4150 2887,4138 2738,4081 2543,4101"/>
+                <Baseline points="2557,4235 2568,4235 2658,4223 2748,4223 2837,4217 2927,4211 3017,4217 3106,4217 3196,4217 3285,4217 3375,4217 3465,4217 3554,4211 3644,4211 3733,4211 3823,4211 3913,4217 4002,4211"/>
+                <TextEquiv>
+                    <Unicode>Als ein frums weib ſol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_24" custom="readingOrder {index:23;} person {offset:10; length:5;} person {offset:22; length:4;}">
+                <Coords points="2572,4389 2789,4445 2951,4404 3229,4448 3581,4384 3752,4406 3808,4458 4025,4387 4240,4438 4426,4414 4426,4248 4323,4230 3874,4316 3612,4272 3432,4294 3322,4245 3065,4304 2870,4255 2572,4260"/>
+                <Baseline points="2586,4379 2676,4379 2766,4385 2855,4385 2945,4385 3034,4385 3124,4385 3214,4385 3303,4385 3393,4385 3483,4379 3572,4379 3662,4379 3751,4379 3841,4379 3931,4385 4020,4385 4110,4391 4199,4391 4289,4391 4379,4385 4432,4391"/>
+                <TextEquiv>
+                    <Unicode>Do ſprach ada̅ vrawen eva man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_25" custom="readingOrder {index:24;} person {offset:0; length:5;}">
+                <Coords points="2555,4582 2885,4536 3051,4587 3126,4545 3385,4545 3459,4592 3617,4538 4057,4589 4057,4480 3950,4423 3407,4404 3143,4482 2995,4414 2736,4472 2557,4411"/>
+                <Baseline points="2568,4540 2658,4540 2748,4534 2837,4534 2927,4534 3017,4534 3106,4534 3196,4534 3285,4534 3375,4534 3465,4534 3554,4534 3644,4528 3733,4528 3823,4528 3913,4534 4002,4528 4062,4540"/>
+                <TextEquiv>
+                    <Unicode>Herr dein will ſol ergan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="2543,4726 2609,4746 2736,4682 2958,4751 3258,4707 3568,4760 3742,4707 3827,4753 4047,4756 4152,4726 4150,4580 4062,4611 3771,4565 3678,4609 3525,4558 3249,4616 3146,4555 3051,4587 2882,4533 2679,4592 2540,4570"/>
+                <Baseline points="2557,4695 2646,4683 2736,4683 2825,4683 2915,4683 3005,4683 3094,4689 3184,4683 3273,4683 3363,4689 3453,4689 3542,4689 3632,4689 3721,4695 3811,4695 3901,4695 3990,4701 4080,4701 4158,4701"/>
+                <TextEquiv>
+                    <Unicode>In allen dingen ſwa du wil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="2528,4885 2953,4865 3075,4931 3324,4846 3598,4914 3739,4868 3884,4917 4011,4858 4487,4895 4484,4704 4309,4741 4167,4716 4074,4775 4028,4738 3830,4756 3742,4707 3512,4765 3197,4719 3012,4763 2682,4714 2526,4743"/>
+                <Baseline points="2539,4857 2628,4845 2718,4839 2807,4839 2897,4839 2987,4839 3076,4839 3166,4839 3255,4839 3345,4839 3435,4839 3524,4839 3614,4845 3704,4851 3793,4851 3883,4857 3972,4857 4062,4857 4152,4863 4241,4863 4331,4863 4420,4869 4492,4863"/>
+                <TextEquiv>
+                    <Unicode>Wann ich han von dir frevde̅ vil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="2555,5014 2863,5046 2980,5000 3207,5066 3314,5005 3488,4992 3642,5034 3776,5012 3888,5073 3959,5005 4072,5046 4252,5027 4252,4905 4174,4880 3884,4919 3739,4865 3610,4917 3319,4858 3080,4927 2750,4853 2628,4919 2555,4892"/>
+                <Baseline points="2568,5000 2658,5000 2748,5006 2837,5000 2927,5000 3017,4994 3106,4994 3196,4988 3285,4994 3375,4988 3465,4988 3554,4994 3644,4994 3733,4994 3823,5000 3913,5006 4002,5006 4092,5012 4182,5018 4259,5024"/>
+                <TextEquiv>
+                    <Unicode>Vnd wunn die weil ich lebe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_29" custom="readingOrder {index:28;} abbrev {offset:23; length:4;}">
+                <Coords points="2560,5249 2745,5239 2909,5151 3075,5198 3231,5161 3422,5227 3556,5185 3791,5246 3886,5212 4059,5237 4208,5178 4499,5210 4499,4975 4274,5039 3981,5007 3891,5073 3769,5012 3661,5039 3488,4992 3249,5068 3087,5019 2904,5056 2560,5017"/>
+                <Baseline points="2574,5137 2664,5137 2754,5137 2843,5131 2933,5137 3023,5137 3112,5131 3202,5131 3291,5137 3381,5131 3471,5137 3560,5137 3650,5137 3739,5137 3829,5137 3919,5137 4008,5137 4098,5137 4187,5137 4277,5131 4367,5131 4456,5137 4504,5137"/>
+                <TextEquiv>
+                    <Unicode>Wider dein gothait ich ny̅m’ ſtrebe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der vil lieb trechtein
+Er prach es aws dem leibe
+Vnd macht ym ein weibe
+Die nant er virago
+Des weibes was er vil vro
+Der nam er war mit ſinnen
+Daʒ ſy hieʒ ein meiny̅ne
+Darnach ward ſy eva genant
+Als ſy noch hewt iſt bechant
+Darnach ſprach ſicherleiche
+Got von hymel reiche
+Do er ſy nakent vor ym ſach ſtan
+Vil lieber frewnt vrawe̅ eva man
+Ich enphilich dir daʒ weib
+Auf dein ſel vnd auf deine̅ leib
+Daʒ du ir phlegeſt alſo wol
+Als ein fru̅mer man ſol
+Phlegen ſeines weibes
+Ir ern vnd irs leibes
+Also enphilich ich dir eva
+Deinen man alda
+Daʒ du phlegeſt ſeins leibs wol
+Als ein frumbs weib ſol
+Do ſprach ada̅ vrawen eva man
+Herr dein will ſol ergan
+In allen dingen ſwa du wil
+Wann ich han von dir freude̅ vil
+Vnd wunn die weil ich lebe
+Wider dein gotchait ich ny̅m’ ſtrebe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
