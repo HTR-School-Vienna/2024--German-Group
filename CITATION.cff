@@ -1,0 +1,58 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Medieval German Text-Base for a Model for the 1400s
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Julian
+    family-names: Helmchen
+  - given-names: Michaela
+    family-names: Wiesinger
+  - given-names: Norbert
+    family-names: Orbán
+  - given-names: Filippo
+    family-names: Soramel
+  - given-names: Vanessa-Nadine
+    family-names: Sternath
+  - given-names: Sabrina
+    family-names: Bach
+  - given-names: Frederik
+    family-names: Skidzun
+  - given-names: Masha
+    family-names: Goldin
+  - given-names: Tobias
+    family-names: Heil
+  - given-names: Lucy
+    family-names: Ford
+  - given-names: Gregor
+    family-names: Kodym
+  - given-names: Haley
+    family-names: Flower
+  - given-names: Kathrin
+    family-names: Balatka
+  - given-names: Philipp
+    family-names: Leindl
+  - given-names: Mathilde
+    family-names: Marlière
+  - given-names: Bradley
+    family-names: Weiss
+  - given-names: Petra
+    family-names: Krenková
+  - given-names: Dorothea
+    family-names: Sichrovsky
+  - given-names: Femke
+    family-names: Goedseels
+  - given-names: Franziska
+    family-names: Putz
+  - given-names: Katharina Maria
+    family-names: Hofer
+  - given-names: Bianca Franziska
+    family-names: Rose
+  - given-names: David Pierre
+    family-names: Herowitsch
+repository-code: 'https://github.com/JulianHelmchen/2024--medieval-german'
+license: CC-BY-4.0
